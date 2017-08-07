@@ -40,6 +40,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Fugue](https://fugue.co) | Washington, DC, USA | No | ? | ?
 [Galois](https://galois.com) | Portland, Oregon, USA | Yes | Consulting/Research | ?
 [GetShop.TV](http://getshop.tv) | Moscow, Russia | ? | ? | ?
+[Grafted-In](https://graftedin.io) | Grand Blanc, MI, USA | ? | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
 [Helium](https://www.helium.com) | Mountain View, CA, USA | ? | ? | ?
 [Henry Labs](http://hihenry.co) | Stockholm, Sweden | ? | ? | ?
 [Holland & Hart](https://www.hollandhart.com) | Boulder, Co, USA |  [Yes](https://stackoverflow.com/jobs/147022/software-developer-automation-engineer-holland-hart)  | Law | ?
