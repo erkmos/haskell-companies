@@ -72,7 +72,7 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [Saltation](http://www.saltation.de) | Bielefeld, Germany | ? | ? | ?
 [Scrive](https://scrive.com) | Stockholm, Sweden | No | eSigning | [Github](https://github.com/scrive?language=haskell)
 [SEEK](https://www.seek.com.au) | Melbourne, Australia | ? | ? | ?
-[Seller Labs (analytics team)](https://www.sellerlabs.com) | Athens, GA, USA | ? | ? | ?
+[Seller Labs](https://www.sellerlabs.com) | Athens, GA, USA | Yes | E-Commerce | [Github](https://github.com/sellerlabs?language=haskell)
 [Sentenai](http://sentenai.com) | Boston, MA, USA | ? | ? | ?
 [Serokell](https://serokell.io) | Sankt-Petersburg, Russia | No | Consulting | [Github](https://github.com/serokell?language=github)
 [Siemens Convergence Creators](http://www.convergence-creators.siemens.com) | Vienna, Austria | ? | ? | ?
