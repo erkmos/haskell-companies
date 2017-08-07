@@ -36,7 +36,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Factis Research](http://www.factisresearch.com) | Freiburg, Germany | ? | ? | ?
 [Fretlink](https://www.fretlink.com) | Paris, France | Yes | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Front Row Education](http://frontrowed.com) | San Francisco, CA, USA/Remote | No | Education | [Github](https://github.com/frontrowed?language=haskell)
-[FP Complete](https://www.fpcomplete.com) | Remote | No | Consulting/Training | ?
+[FP Complete](https://www.fpcomplete.com) | Remote | No | Consulting/Training | [Github](https://github.com/fpco?language=haskell)
 [Fugue](https://fugue.co) | Washington, DC, USA | No | ? | ?
 [Galois](https://galois.com) | Portland, Oregon, USA | Yes | Consulting/Research | ?
 [GetShop.TV](http://getshop.tv) | Moscow, Russia | ? | ? | ?
