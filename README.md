@@ -27,7 +27,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Channable](https://tech.channable.com) | Utrecht, The Netherlands | [Yes](https://channable.com/career/backend-developer) | Marketing | [Github](https://github.com/channable?language=haskell)
 [Chow](https://justchow.com) | Bangalore, India | No | Food | [Github](https://github.com/just-chow?language=haskell)
 [Clearmatics](http://www.clearmatics.com) | London, UK | No | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html)
-[Clearwater Analytics (analysts use it)](https://www.clearwater-analytics.com) | Boise, ID, USA | No | ? | ?
+[Clearwater Analytics](https://www.clearwater-analytics.com) | Boise, ID, USA | No | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dko7fdt/)
 [Confer Health](https://www.confer.health) | Boston, MA, USA | No | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
 [Data61](https://data61.csiro.au) | Multiple locations, Australia | [Maybe](https://jobs.csiro.au/job/Negotiable-Software-Engineer/415709200) | Research | [Github](https://github.com/data61?language=haskell)
 [Didi Chuxing](http://www.xiaojukeji.com) | Beijing, China | ? | ? | ?
