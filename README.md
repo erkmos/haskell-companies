@@ -13,10 +13,10 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Adjoint](https://www.adjoint.io) | Boston, MA, USA | No | Finance | [Github](https://github.com/adjoint-io?language=haskell)
 [Alphasheets](http://www.alphasheets.com) | San Francisco, CA, USA | No | Business software | ?
 [Ambiata](http://ambiata.com) | Sydney, Australia | No | Marketing | [Github](https://github.com/ambiata?language=haskell)
-[Applikativ](http://applikativ.no) | Stavanger, Norway | No | Consulting | ?
-[Arbor Networks](https://www.arbornetworks.com) | Burlington, MA, USA | No | Anti-DDOS | ?
-[Assertible](https://assertible.com) | USA | No | SaaS/Monitoring | ?
-[Awake Networks](http://awakenetworks.com) | Mountain View, CA, USA | No | Network Security | ?
+[Applikativ](http://applikativ.no) | Stavanger, Norway | No | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcpy8mp/)
+[Arbor Networks](https://www.arbornetworks.com) | Burlington, MA, USA | No | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904)
+[Assertible](https://assertible.com) | USA | No | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
+[Awake Networks](http://awakenetworks.com) | Mountain View, CA, USA | No | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
 [Barclays](http://www.barclays.co.uk) | London, UK | No | Finance | ?
 [Beautiful Destinations](http://www.beautifuldestinations.com) | London, UK | No | Travel/Advertising | ?
 [Betterteam](https://www.betterteam.com) | Remote | No | Recruiting | ?
@@ -24,8 +24,8 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Capital IQ](https://www.capitaliq.com/home/about-us) | New York, NY, USA? | No | Finance | ?
 [Capital Match](https://www.capital-match.com) | UK/Singapore | No? | Finance | ?
 [CircuitHub](https://circuithub.com) | MA, USA/London, UK | Yes | Manufacturing/Consulting | ?
-[Channable](https://tech.channable.com) | Utrecht, The Netherlands | [Yes](https://channable.com/career/backend-developer) | ? | ?
-[Chow](https://justchow.com) | Bangalore, India | No | Food | ?
+[Channable](https://tech.channable.com) | Utrecht, The Netherlands | [Yes](https://channable.com/career/backend-developer) | Marketing | [Github](https://github.com/channable?language=haskell)
+[Chow](https://justchow.com) | Bangalore, India | No | Food | [Github](https://github.com/just-chow?language=haskell)
 [Clearmatics](http://www.clearmatics.com) | London, UK | No | ? | ?
 [Clearwater Analytics (analysts use it)](https://www.clearwater-analytics.com) | Boise, ID, USA | No | ? | ?
 [Confer Health](https://www.confer.health) | Boston, MA, USA | No | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
