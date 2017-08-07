@@ -93,7 +93,7 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [Tesla](https://www.tesla.com) | Palo Alto, CA, USA | Yes | Automotive | ?
 [The UNIX Man Consulting](https://theunixman.com/) | USA | No | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
 [Trigram](http://trigram.no) | Stavanger, Norway | No | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrbn1q)
-[Tripshot](https://www.tripshot.com) | Portland, OR/Remote, USA | Yes | Logistics planning | ?
+[Tripshot](https://www.tripshot.com) | Portland, OR/Remote, USA | [Yes](https://www.tripshot.com/hiring/) | Logistics planning | [Github](https://github.com/Tripshot?language=haskell)
 [Tsuru Capital](http://www.tsurucapital.com) | Tokyo, Japan | No | Finance | [Github](https://github.com/tsurucapital?language=haskell)
 [Tweag](http://www.tweag.io) | Paris, France | No | HPC Research | [Github](https://github.com/tweag?language=haskell)
 [TVision Insights](http://tvisioninsights.com) | Boston, MA, USA | [Yes](http://www.tvisioninsights.com/careers/) | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
