@@ -23,7 +23,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [BNP](https://group.bnpparibas/en/) | Paris, France | ? | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Capital IQ](https://www.capitaliq.com/home/about-us) | New York, NY, USA? | No | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo/)
 [Capital Match](https://www.capital-match.com) | UK/Singapore | No? | Finance | [FunctionalJobs](https://web.archive.org/web/20170805015044/https://functionaljobs.com/jobs/9024-software-engineer-haskell-full-stack-at-capital-match)
-[CircuitHub](https://circuithub.com) | MA, USA/London, UK | Yes | Manufacturing/Consulting | ?
+[CircuitHub](https://circuithub.com) | MA, USA/London, UK | Yes | Manufacturing/Consulting | [Github](https://github.com/circuithub?language=haskell)
 [Channable](https://tech.channable.com) | Utrecht, The Netherlands | [Yes](https://channable.com/career/backend-developer) | Marketing | [Github](https://github.com/channable?language=haskell)
 [Chow](https://justchow.com) | Bangalore, India | No | Food | [Github](https://github.com/just-chow?language=haskell)
 [Clearmatics](http://www.clearmatics.com) | London, UK | No | ? | ?
