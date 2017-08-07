@@ -9,97 +9,97 @@ Many of these companies have some kind of Haskell development, but it is often i
 ### Companies
 
 | Name | Location | Hiring | Sector | Source |
-| ---- | -------- | ------ | ------ | ------ |
-[Adjoint](https://www.adjoint.io)|Boston, MA, USA|No|Finance|[Github](https://github.com/adjoint-io?language=haskell)
-[Alphasheets](http://www.alphasheets.com)|San Francisco, CA, USA|No|Business software
-[Ambiata](http://ambiata.com)|Sydney, Australia|No|Marketing|[Github](https://github.com/ambiata?language=haskell)
-[Applikativ](http://applikativ.no)|Stavanger, Norway|No|Consulting
-[Arbor Networks](https://www.arbornetworks.com)|Burlington, MA, USA|No|Anti-DDOS
-[Assertible](https://assertible.com)|USA|No|SaaS/Monitoring
-[Awake Networks](http://awakenetworks.com)|Mountain View, CA, USA|No|Network Security
-[Barclays](http://www.barclays.co.uk)|London, UK|No|Finance
-[Beautiful Destinations](http://www.beautifuldestinations.com)|London, UK|No|Travel/Advertising
-[Betterteam](https://www.betterteam.com)|Remote|No|Recruiting
-[BNP](https://group.bnpparibas/en/)|Paris, France|?|Finance
-[Capital IQ](https://www.capitaliq.com/home/about-us)|New York, NY, USA?|No|Finance
-[Capital Match](https://www.capital-match.com)|UK/Singapore|No?|Finance
-[CircuitHub](https://circuithub.com)|MA, USA/London, UK|Yes|Manufacturing/Consulting
-[Channable](https://tech.channable.com)|Utrecht, The Netherlands|[Yes](https://channable.com/career/backend-developer)
-[Chow](https://justchow.com)|Bangalore, India|No|Food
-[Clearmatics](http://www.clearmatics.com)|London, UK|No
-[Clearwater Analytics (analysts use it)](https://www.clearwater-analytics.com)|Boise, ID, USA|No
-[Confer Health](https://www.confer.health)|Boston, MA, USA|No|Healthcare|[Github](https://github.com/ConferHealth?language=haskell)
-[Data61](https://data61.csiro.au)|Multiple locations, Australia|[Maybe](https://jobs.csiro.au/job/Negotiable-Software-Engineer/415709200)|Research|[Github](https://github.com/data61?language=haskell)
-[Didi Chuxing](http://www.xiaojukeji.com)|Beijing, China
-[Digital Asset](https://digitalasset.com)|Zürich, Switzerland, Sydney, Australia|[Yes](https://digitalasset.com/careers.html)|Finance
-[Facebook](https://www.facebook.com)|London, UK| [Yes](https://www.facebook.com/careers/jobs/a0I1200000LT8aA)|Advertising
-[Factis Research](http://www.factisresearch.com)|Freiburg, Germany
-[Fretlink](https://www.fretlink.com)|Paris, France|Yes|Logistics/Transportation
-[Front Row Education](http://frontrowed.com)|San Francisco, CA, USA|No|Education
-[FP Complete](https://www.fpcomplete.com)|Remote|No|Consulting/Training
-[Fugue](https://fugue.co)|Washington, DC, USA|No
-[Galois](https://galois.com)|Portland, Oregon, USA|Yes|Consulting/Research
-[GetShop.TV](http://getshop.tv)|Moscow, Russia
-[Helium](https://www.helium.com)|Mountain View, CA, USA
-[Henry Labs](http://hihenry.co)|Stockholm, Sweden
-[Holland & Hart](https://www.hollandhart.com)|Boulder, Co, USA| [Yes](https://stackoverflow.com/jobs/147022/software-developer-automation-engineer-holland-hart) |Law
-[Hornet Security](https://www.hornetsecurity.com/en)|Hanover/Berlin, Germany
-[Hotwirestudios](https://github.com/hotwirestudios)|Dortmund, Germany
-[IOHK](https://iohk.io)|Remote
-[IMVU](http://www.imvu.com)|Silicon Valley, CA, USA|Yes|3D Chat| [Github](https://github.com/imvu?language=haskell)
-[Iris Connect](http://www.irisconnect.co.uk)|Brighton, UK
-[JP Morgan](https://www.jpmorgan.com)|Brooklyn, NYC, USA|No|Finance
-Karamaan Group|New York, NY, USA|No|Finance
-[Karius](https://www.kariusdx.com)|Menlo Park, CA, USA
-[Kaspersky Lab](https://www.kaspersky.com)|Moscow, Russia|No|Security/AV
-[Kitty Hawk](http://www.kittyhawk.aero)|Mountain View, CA, USA
-[Layer 3](https://layer3com.com)|Atlanta, Georgia, USA|
-[Leap Year](http://leapyear.io)|Berkeley, USA
-[Liquid Democracy e.V.](https://liqd.net)|Berlin, Germany
-[Lumi](https://www.lumi.com)|Los Angeles, CA, USA
-[Lumiguide](https://lumiguide.eu)|Nijmegen, Netherlands|No|Smart cities|[Github](https://github.com/LumiGuide?language=haskell)
-[Mackey RMS](https://mackeyrms.com)|Boston, MA, USA
-[Metrix Financial Reporting Solutions](http://www.metrix-frs.de)|Hamburg, Germany
-[Myrtle Software](https://myrtlesoftware.com)|Cambridge, UK
-[nStack](https://nstack.com)|London, UK
-[Numerai](https://numer.ai)|San Francisco, CA, USA|No|Finance,
-[Obsidian Systems](https://obsidian.systems)|USA
-[Oliver Wyman Labs (formerly LShift)](https://tech.labs.oliverwyman.com/)|London, UK
-[Permutive](https://permutive.com)|London, UK|Yes
-[Position Development](https://positiondev.com)|New York, NY, USA
-[Plow Technologies](http://www.plowtech.net)|Oklahoma City, OK, USA|No||Automation|[Github](https://github.com/plow-technologies?language=haskell)
-[Prezi](https://prezi.com)|Budapest, Hungary
-[Saltation](http://www.saltation.de)|Bielefeld, Germany
-[Scrive](https://scrive.com)|Stockholm, Sweden|No|eSigning|[Github](https://github.com/scrive?language=haskell)
-[SEEK](https://www.seek.com.au)|Melbourne, Australia
-[Seller Labs (analytics team)](https://www.sellerlabs.com)|Athens, GA, USA
-[Sentenai](http://sentenai.com)|Boston, MA, USA
-[Serokell](https://serokell.io)|Sankt-Petersburg, Russia|No|Consulting|[Github](https://github.com/serokell?language=github)
-[Siemens Convergence Creators](http://www.convergence-creators.siemens.com)|Vienna, Austria
-[Simply RETS](https://simplyrets.com)|Houston, TX, USA|No|SaaS (Real Estate)
-[SimSpace](https://simspace.com)|Boston, MA, USA|Yes
-[Skedge](http://skedge.me)|New York, NY, USA|Yes
-[Soostone](http://www.soostone.com)|?|Yes
-[SQream Technologies](http://www.sqream.com)|Tel Aviv, Israel
-[StackBuilders](https://www.stackbuilders.com)|NYC, USA/Quito, Ecuador
-[Stage N/Unison](http://unisonweb.org/)|Boston, MA, USA
-[Standard Chartered](https://www.sc.com)|UK/Singapore
-[Stilo](http://stilo.com)|Ottawa, Canada
-[Stytch](https://www.stytch.com)|Vancouver, Canada
-[Superpowers Corp](https://www.superpowerscorp.com)|Boulder, CO, USA|Yes|Software
-[Systor Vest](http://systorvest.no)|Stavanger, Norway
-[Takt](http://takt.com)|San Francisco, CA, USA|Yes|Analytics/Marketing|[Github](https://github.com/TaktInc?language=haskell)
-[Target (analytics team)](https://www.target.com)|USA
-[Tesla](https://www.tesla.com)|Palo Alto, CA, USA|Yes|Automotive
-[The UNIX Man Consulting](https://theunixman.com/)|USA|No|Consulting|[Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
-[Trigram](http://trigram.no)|Stavanger, Norway|No|Language Processing|[Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrbn1q)
-[Tripshot](https://www.tripshot.com)|Portland, OR/Remote, USA|Yes|Logistics planning
-[Tsuru Capital](http://www.tsurucapital.com)|Tokyo, Japan|No|Finance|[Github](https://github.com/tsurucapital?language=haskell)
-[Tweag](http://www.tweag.io)|Paris, France|No|HPC Research|[Github](https://github.com/tweag?language=haskell)
-[TVision Insights](http://tvisioninsights.com)|Boston, MA, USA|[Yes](http://www.tvisioninsights.com/careers/)|Television/Advertising|[Github](https://github.com/tvision-insights?language=haskell)
-[Typeable](https://typeable.io)|Moscow, Russia|No|Travel/Software|[Github](https://github.com/typeable?language=haskell)
-[Vacation Labs](https://www.vacationlabs.com/)|Goa, India|[Yes](http://www.vacationlabs.com/we-are-hiring/software-engineer)|Travel/Saas|[Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknz5fd)
-[Vente Privée](https://secure.uk.vente-privee.com/authentication/portal/EN)|Paris, France|No|Sales|[Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
-[Wire Swiss](https://wire.com)|Switzerland|[Yes](https://wire.softgarden.io/job/1166533?l=en)|Chat|[Github](https://github.com/wireapp?language=haskell)
-[Well-Typed](http://www.well-typed.com)|London, UK|No|Consulting|[Github](https://github.com/well-typed?language=haskell)
-[Zoomin Software](https://zoominsoftware.com)|Tel Aviv, Israel|[Yes](http://www.zoominsoftware.com/jobs/back-end-software-developer)|SaaS|[Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrti3g)
+| :--- | :------- | :----- | :----- | :----- |
+[Adjoint](https://www.adjoint.io) | Boston, MA, USA | No | Finance | [Github](https://github.com/adjoint-io?language=haskell)
+[Alphasheets](http://www.alphasheets.com) | San Francisco, CA, USA | No | Business software | ?
+[Ambiata](http://ambiata.com) | Sydney, Australia | No | Marketing | [Github](https://github.com/ambiata?language=haskell)
+[Applikativ](http://applikativ.no) | Stavanger, Norway | No | Consulting | ?
+[Arbor Networks](https://www.arbornetworks.com) | Burlington, MA, USA | No | Anti-DDOS | ?
+[Assertible](https://assertible.com) | USA | No | SaaS/Monitoring | ?
+[Awake Networks](http://awakenetworks.com) | Mountain View, CA, USA | No | Network Security | ?
+[Barclays](http://www.barclays.co.uk) | London, UK | No | Finance | ?
+[Beautiful Destinations](http://www.beautifuldestinations.com) | London, UK | No | Travel/Advertising | ?
+[Betterteam](https://www.betterteam.com) | Remote | No | Recruiting | ?
+[BNP](https://group.bnpparibas/en/) | Paris, France | ? | Finance | ?
+[Capital IQ](https://www.capitaliq.com/home/about-us) | New York, NY, USA? | No | Finance | ?
+[Capital Match](https://www.capital-match.com) | UK/Singapore | No? | Finance | ?
+[CircuitHub](https://circuithub.com) | MA, USA/London, UK | Yes | Manufacturing/Consulting | ?
+[Channable](https://tech.channable.com) | Utrecht, The Netherlands | [Yes](https://channable.com/career/backend-developer) | ? | ?
+[Chow](https://justchow.com) | Bangalore, India | No | Food | ?
+[Clearmatics](http://www.clearmatics.com) | London, UK | No | ? | ?
+[Clearwater Analytics (analysts use it)](https://www.clearwater-analytics.com) | Boise, ID, USA | No | ? | ?
+[Confer Health](https://www.confer.health) | Boston, MA, USA | No | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
+[Data61](https://data61.csiro.au) | Multiple locations, Australia | [Maybe](https://jobs.csiro.au/job/Negotiable-Software-Engineer/415709200) | Research | [Github](https://github.com/data61?language=haskell)
+[Didi Chuxing](http://www.xiaojukeji.com) | Beijing, China | ? | ? | ?
+[Digital Asset](https://digitalasset.com) | Zürich, Switzerland, Sydney, Australia | [Yes](https://digitalasset.com/careers.html) | Finance | ?
+[Facebook](https://www.facebook.com) | London, UK |  [Yes](https://www.facebook.com/careers/jobs/a0I1200000LT8aA) | Advertising | ?
+[Factis Research](http://www.factisresearch.com) | Freiburg, Germany | ? | ? | ?
+[Fretlink](https://www.fretlink.com) | Paris, France | Yes | Logistics/Transportation | ?
+[Front Row Education](http://frontrowed.com) | San Francisco, CA, USA | No | Education | ?
+[FP Complete](https://www.fpcomplete.com) | Remote | No | Consulting/Training | ?
+[Fugue](https://fugue.co) | Washington, DC, USA | No | ? | ?
+[Galois](https://galois.com) | Portland, Oregon, USA | Yes | Consulting/Research | ?
+[GetShop.TV](http://getshop.tv) | Moscow, Russia | ? | ? | ?
+[Helium](https://www.helium.com) | Mountain View, CA, USA | ? | ? | ?
+[Henry Labs](http://hihenry.co) | Stockholm, Sweden | ? | ? | ?
+[Holland & Hart](https://www.hollandhart.com) | Boulder, Co, USA |  [Yes](https://stackoverflow.com/jobs/147022/software-developer-automation-engineer-holland-hart)  | Law | ?
+[Hornet Security](https://www.hornetsecurity.com/en) | Hanover/Berlin, Germany | ? | ? | ?
+[Hotwirestudios](https://github.com/hotwirestudios) | Dortmund, Germany | ? | ? | ?
+[IOHK](https://iohk.io) | Remote | ? | ? | ?
+[IMVU](http://www.imvu.com) | Silicon Valley, CA, USA | Yes | 3D Chat |  [Github](https://github.com/imvu?language=haskell)
+[Iris Connect](http://www.irisconnect.co.uk) | Brighton, UK | ? | ? | ?
+[JP Morgan](https://www.jpmorgan.com) | Brooklyn, NYC, USA | No | Finance | ?
+Karamaan Group | New York, NY, USA | No | Finance | ?
+[Karius](https://www.kariusdx.com) | Menlo Park, CA, USA | ? | ? | ?
+[Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | No | Security/AV | ?
+[Kitty Hawk](http://www.kittyhawk.aero) | Mountain View, CA, USA | ? | ? | ?
+[Layer 3](https://layer3com.com) | Atlanta, Georgia, USA |  | ? | ?
+[Leap Year](http://leapyear.io) | Berkeley, USA | ? | ? | ?
+[Liquid Democracy e.V.](https://liqd.net) | Berlin, Germany | ? | ? | ?
+[Lumi](https://www.lumi.com) | Los Angeles, CA, USA | ? | ? | ?
+[Lumiguide](https://lumiguide.eu) | Nijmegen, Netherlands | No | Smart cities | [Github](https://github.com/LumiGuide?language=haskell)
+[Mackey RMS](https://mackeyrms.com) | Boston, MA, USA | ? | ? | ?
+[Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Hamburg, Germany | ? | ? | ?
+[Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
+[nStack](https://nstack.com) | London, UK | ? | ? | ?
+[Numerai](https://numer.ai) | San Francisco, CA, USA | No | Finance, | ?
+[Obsidian Systems](https://obsidian.systems) | USA | ? | ? | ?
+[Oliver Wyman Labs (formerly LShift)](https://tech.labs.oliverwyman.com/) | London, UK | ? | ? | ?
+[Permutive](https://permutive.com) | London, UK | Yes | ? | ?
+[Position Development](https://positiondev.com) | New York, NY, USA | ? | ? | ?
+[Plow Technologies](http://www.plowtech.net) | Oklahoma City, OK, USA | No |  | Automation | [Github](https://github.com/plow-technologies?language=haskell)
+[Prezi](https://prezi.com) | Budapest, Hungary | ? | ? | ?
+[Saltation](http://www.saltation.de) | Bielefeld, Germany | ? | ? | ?
+[Scrive](https://scrive.com) | Stockholm, Sweden | No | eSigning | [Github](https://github.com/scrive?language=haskell)
+[SEEK](https://www.seek.com.au) | Melbourne, Australia | ? | ? | ?
+[Seller Labs (analytics team)](https://www.sellerlabs.com) | Athens, GA, USA | ? | ? | ?
+[Sentenai](http://sentenai.com) | Boston, MA, USA | ? | ? | ?
+[Serokell](https://serokell.io) | Sankt-Petersburg, Russia | No | Consulting | [Github](https://github.com/serokell?language=github)
+[Siemens Convergence Creators](http://www.convergence-creators.siemens.com) | Vienna, Austria | ? | ? | ?
+[Simply RETS](https://simplyrets.com) | Houston, TX, USA | No | SaaS (Real Estate) | ?
+[SimSpace](https://simspace.com) | Boston, MA, USA | Yes | ? | ?
+[Skedge](http://skedge.me) | New York, NY, USA | Yes | ? | ?
+[Soostone](http://www.soostone.com) | ? | Yes | ? | ?
+[SQream Technologies](http://www.sqream.com) | Tel Aviv, Israel | ? | ? | ?
+[StackBuilders](https://www.stackbuilders.com) | NYC, USA/Quito, Ecuador | ? | ? | ?
+[Stage N/Unison](http://unisonweb.org/) | Boston, MA, USA | ? | ? | ?
+[Standard Chartered](https://www.sc.com) | UK/Singapore | ? | ? | ?
+[Stilo](http://stilo.com) | Ottawa, Canada | ? | ? | ?
+[Stytch](https://www.stytch.com) | Vancouver, Canada | ? | ? | ?
+[Superpowers Corp](https://www.superpowerscorp.com) | Boulder, CO, USA | Yes | Software | ?
+[Systor Vest](http://systorvest.no) | Stavanger, Norway | ? | ? | ?
+[Takt](http://takt.com) | San Francisco, CA, USA | Yes | Analytics/Marketing | [Github](https://github.com/TaktInc?language=haskell)
+[Target (analytics team)](https://www.target.com) | USA | ? | ? | ?
+[Tesla](https://www.tesla.com) | Palo Alto, CA, USA | Yes | Automotive | ?
+[The UNIX Man Consulting](https://theunixman.com/) | USA | No | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
+[Trigram](http://trigram.no) | Stavanger, Norway | No | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrbn1q)
+[Tripshot](https://www.tripshot.com) | Portland, OR/Remote, USA | Yes | Logistics planning | ?
+[Tsuru Capital](http://www.tsurucapital.com) | Tokyo, Japan | No | Finance | [Github](https://github.com/tsurucapital?language=haskell)
+[Tweag](http://www.tweag.io) | Paris, France | No | HPC Research | [Github](https://github.com/tweag?language=haskell)
+[TVision Insights](http://tvisioninsights.com) | Boston, MA, USA | [Yes](http://www.tvisioninsights.com/careers/) | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
+[Typeable](https://typeable.io) | Moscow, Russia | No | Travel/Software | [Github](https://github.com/typeable?language=haskell)
+[Vacation Labs](https://www.vacationlabs.com/) | Goa, India | [Yes](http://www.vacationlabs.com/we-are-hiring/software-engineer) | Travel/Saas | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknz5fd)
+[Vente Privée](https://secure.uk.vente-privee.com/authentication/portal/EN) | Paris, France | No | Sales | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
+[Wire Swiss](https://wire.com) | Switzerland | [Yes](https://wire.softgarden.io/job/1166533?l=en) | Chat | [Github](https://github.com/wireapp?language=haskell)
+[Well-Typed](http://www.well-typed.com) | London, UK | No | Consulting | [Github](https://github.com/well-typed?language=haskell)
+[Zoomin Software](https://zoominsoftware.com) | Tel Aviv, Israel | [Yes](http://www.zoominsoftware.com/jobs/back-end-software-developer) | SaaS | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrti3g)
