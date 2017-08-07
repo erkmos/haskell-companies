@@ -17,7 +17,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Arbor Networks](https://www.arbornetworks.com) | Burlington, MA, USA | No | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904)
 [Assertible](https://assertible.com) | USA | No | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
 [Awake Networks](http://awakenetworks.com) | Mountain View, CA, USA | No | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
-[Barclays](http://www.barclays.co.uk) | London, UK | No | Finance | ?
+[Barclays](http://www.barclays.co.uk) | London, UK | No | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
 [Beautiful Destinations](http://www.beautifuldestinations.com) | London, UK | No | Travel/Advertising | ?
 [Betterteam](https://www.betterteam.com) | Remote | No | Recruiting | ?
 [BNP](https://group.bnpparibas/en/) | Paris, France | ? | Finance | ?
@@ -62,12 +62,12 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Hamburg, Germany | ? | ? | ?
 [Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
 [nStack](https://nstack.com) | London, UK | ? | ? | ?
-[Numerai](https://numer.ai) | San Francisco, CA, USA | No | Finance, | ?
+[Numerai](https://numer.ai) | San Francisco, CA, USA | No | Finance | [Github](https://github.com/numerai?language=haskell)
 [Obsidian Systems](https://obsidian.systems) | USA | ? | ? | ?
 [Oliver Wyman Labs (formerly LShift)](https://tech.labs.oliverwyman.com/) | London, UK | ? | ? | ?
 [Permutive](https://permutive.com) | London, UK | Yes | ? | ?
 [Position Development](https://positiondev.com) | New York, NY, USA | ? | ? | ?
-[Plow Technologies](http://www.plowtech.net) | Oklahoma City, OK, USA | No |  | Automation | [Github](https://github.com/plow-technologies?language=haskell)
+[Plow Technologies](http://www.plowtech.net) | Oklahoma City, OK, USA | No | Automation | [Github](https://github.com/plow-technologies?language=haskell)
 [Prezi](https://prezi.com) | Budapest, Hungary | ? | ? | ?
 [Saltation](http://www.saltation.de) | Bielefeld, Germany | ? | ? | ?
 [Scrive](https://scrive.com) | Stockholm, Sweden | No | eSigning | [Github](https://github.com/scrive?language=haskell)
