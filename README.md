@@ -32,7 +32,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Data61](https://data61.csiro.au) | Multiple locations, Australia | [Maybe](https://jobs.csiro.au/job/Negotiable-Software-Engineer/415709200) | Research | [Github](https://github.com/data61?language=haskell)
 [Digital Asset](https://digitalasset.com) | Switzerland, Australia, Hungary, USA | [Yes](https://digitalasset.com/careers.html) | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
 [Facebook](https://www.facebook.com) | London, UK |  [Yes](https://www.facebook.com/careers/jobs/a0I1200000LT8aA) | Advertising | ?
-[Factis Research](http://www.factisresearch.com) | Freiburg, Germany | ? | ? | ?
+[Factis Research](http://www.factisresearch.com) | Freiburg, Germany | No | Medicare | [Github](https://github.com/factisresearch?language=haskell)
 [Fretlink](https://www.fretlink.com) | Paris, France | Yes | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Front Row Education](http://frontrowed.com) | San Francisco, CA, USA/Remote | No | Education | [Github](https://github.com/frontrowed?language=haskell)
 [FP Complete](https://www.fpcomplete.com) | Remote | No | Consulting/Training | [Github](https://github.com/fpco?language=haskell)
