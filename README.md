@@ -4,14 +4,14 @@ This list has been made in collaboration with members of [/r/haskell](https://ww
 #### Updates
 If you see a company on the list that doesn't exist anymore, or does not use Haskell anymore, please send a pull request with an explanation. The same goes if you're currently working at, or know a company that uses Haskell but is not on the list. Please include the website, github (if applicable), locations, and sector. If the company is hiring please include a link to the ad.
 
-Many of these companies have some kind of Haskell development, but it is often in one or a few particular teams rather than company-wide. There are some companies around that just use "we use haskell" as a recruitment signal though, while they're actually using Scala/Clojure (it is getting more common in the industry). Let me know if you find some company like that on the list (e.g. you know because you've worked there) and it will be removed.
+Many of these companies have some kind of Haskell development, but it is often in one or a few particular teams rather than company-wide.
 
 ### Companies
 
 | Name | Location | Hiring | Sector | Source |
 | :--- | :------- | :----- | :----- | :----- |
 [Adjoint](https://www.adjoint.io) | Boston, MA, USA | No | Finance | [Github](https://github.com/adjoint-io?language=haskell)
-[Alphasheets](http://www.alphasheets.com) | San Francisco, CA, USA | No | Business software | ?
+[Alphasheets](http://www.alphasheets.com) | San Francisco, CA, USA | No | Business software | [Reddit](https://www.reddit.com/r/haskell/comments/4hlkls/haskell_jobs_alphasheets_coding_in_a_spreadsheet/)
 [Ambiata](http://ambiata.com) | Sydney, Australia | No | Marketing | [Github](https://github.com/ambiata?language=haskell)
 [Applikativ](http://applikativ.no) | Stavanger, Norway | No | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcpy8mp/)
 [Arbor Networks](https://www.arbornetworks.com) | Burlington, MA, USA | No | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904)
