@@ -85,7 +85,6 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [Stage N/Unison](http://unisonweb.org/) | Boston, MA, USA | ? | ? | ?
 [Standard Chartered](https://www.sc.com) | UK/Singapore | ? | ? | ?
 [Stilo](http://stilo.com) | Ottawa, Canada | ? | ? | ?
-[Stytch](https://www.stytch.com) | Vancouver, Canada | ? | ? | ?
 [Superpowers Corp](https://www.superpowerscorp.com) | Boulder, CO, USA | Yes | Software | ?
 [Systor Vest](http://systorvest.no) | Stavanger, Norway | ? | ? | ?
 [Takt](http://takt.com) | San Francisco, CA, USA | Yes | Analytics/Marketing | [Github](https://github.com/TaktInc?language=haskell)
