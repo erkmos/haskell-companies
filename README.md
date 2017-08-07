@@ -1,4 +1,4 @@
-## A List of companies that use haskell
+## A List of companies that use Haskell
 This list has been made in collaboration with members of [/r/haskell](https://www.reddit.com/r/haskell)
 
 #### Updates
@@ -18,11 +18,11 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Assertible](https://assertible.com) | USA | No | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
 [Awake Networks](http://awakenetworks.com) | Mountain View, CA, USA | No | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
 [Barclays](http://www.barclays.co.uk) | London, UK | No | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
-[Beautiful Destinations](http://www.beautifuldestinations.com) | London, UK | No | Travel/Advertising | ?
-[Betterteam](https://www.betterteam.com) | Remote | No | Recruiting | ?
-[BNP](https://group.bnpparibas/en/) | Paris, France | ? | Finance | ?
-[Capital IQ](https://www.capitaliq.com/home/about-us) | New York, NY, USA? | No | Finance | ?
-[Capital Match](https://www.capital-match.com) | UK/Singapore | No? | Finance | ?
+[Beautiful Destinations](http://www.beautifuldestinations.com) | London, UK | No | Travel/Advertising | [Github](https://github.com/BeautifulDestinations?language=haskell)
+[Betterteam](https://www.betterteam.com) | Remote | No | Recruiting | [Github](https://github.com/betterteamapp?language=haskell)
+[BNP](https://group.bnpparibas/en/) | Paris, France | ? | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
+[Capital IQ](https://www.capitaliq.com/home/about-us) | New York, NY, USA? | No | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo/)
+[Capital Match](https://www.capital-match.com) | UK/Singapore | No? | Finance | [FunctionalJobs](https://web.archive.org/web/20170805015044/https://functionaljobs.com/jobs/9024-software-engineer-haskell-full-stack-at-capital-match)
 [CircuitHub](https://circuithub.com) | MA, USA/London, UK | Yes | Manufacturing/Consulting | ?
 [Channable](https://tech.channable.com) | Utrecht, The Netherlands | [Yes](https://channable.com/career/backend-developer) | Marketing | [Github](https://github.com/channable?language=haskell)
 [Chow](https://justchow.com) | Bangalore, India | No | Food | [Github](https://github.com/just-chow?language=haskell)
@@ -34,7 +34,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Digital Asset](https://digitalasset.com) | Zürich, Switzerland, Sydney, Australia | [Yes](https://digitalasset.com/careers.html) | Finance | ?
 [Facebook](https://www.facebook.com) | London, UK |  [Yes](https://www.facebook.com/careers/jobs/a0I1200000LT8aA) | Advertising | ?
 [Factis Research](http://www.factisresearch.com) | Freiburg, Germany | ? | ? | ?
-[Fretlink](https://www.fretlink.com) | Paris, France | Yes | Logistics/Transportation | ?
+[Fretlink](https://www.fretlink.com) | Paris, France | Yes | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Front Row Education](http://frontrowed.com) | San Francisco, CA, USA | No | Education | ?
 [FP Complete](https://www.fpcomplete.com) | Remote | No | Consulting/Training | ?
 [Fugue](https://fugue.co) | Washington, DC, USA | No | ? | ?
@@ -63,7 +63,7 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
 [nStack](https://nstack.com) | London, UK | ? | ? | ?
 [Numerai](https://numer.ai) | San Francisco, CA, USA | No | Finance | [Github](https://github.com/numerai?language=haskell)
-[Obsidian Systems](https://obsidian.systems) | USA | ? | ? | ?
+[Obsidian Systems](https://obsidian.systems) | New York, NY, USA | No | Consulting | [Github](https://github.com/obsidiansystems?language=haskell)
 [Oliver Wyman Labs (formerly LShift)](https://tech.labs.oliverwyman.com/) | London, UK | ? | ? | ?
 [Permutive](https://permutive.com) | London, UK | Yes | ? | ?
 [Position Development](https://positiondev.com) | New York, NY, USA | ? | ? | ?
@@ -79,7 +79,7 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [Simply RETS](https://simplyrets.com) | Houston, TX, USA | No | SaaS (Real Estate) | ?
 [SimSpace](https://simspace.com) | Boston, MA, USA | Yes | ? | ?
 [Skedge](http://skedge.me) | New York, NY, USA | Yes | ? | ?
-[Soostone](http://www.soostone.com) | ? | Yes | ? | ?
+[Soostone](http://www.soostone.com) | New York, NY, USA | Yes | SaaS | [Github](https://github.com/Soostone?language=haskell)
 [SQream Technologies](http://www.sqream.com) | Tel Aviv, Israel | ? | ? | ?
 [StackBuilders](https://www.stackbuilders.com) | NYC, USA/Quito, Ecuador | ? | ? | ?
 [Stage N/Unison](http://unisonweb.org/) | Boston, MA, USA | ? | ? | ?
