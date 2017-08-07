@@ -30,7 +30,6 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Clearwater Analytics](https://www.clearwater-analytics.com) | Boise, ID, USA | No | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dko7fdt/)
 [Confer Health](https://www.confer.health) | Boston, MA, USA | No | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
 [Data61](https://data61.csiro.au) | Multiple locations, Australia | [Maybe](https://jobs.csiro.au/job/Negotiable-Software-Engineer/415709200) | Research | [Github](https://github.com/data61?language=haskell)
-[Didi Chuxing](http://www.xiaojukeji.com) | Beijing, China | ? | ? | ?
 [Digital Asset](https://digitalasset.com) | Switzerland, Australia, Hungary, USA | [Yes](https://digitalasset.com/careers.html) | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
 [Facebook](https://www.facebook.com) | London, UK |  [Yes](https://www.facebook.com/careers/jobs/a0I1200000LT8aA) | Advertising | ?
 [Factis Research](http://www.factisresearch.com) | Freiburg, Germany | ? | ? | ?
