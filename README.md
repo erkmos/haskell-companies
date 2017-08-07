@@ -61,7 +61,7 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [Mackey RMS](https://mackeyrms.com) | Boston, MA, USA | ? | ? | ?
 [Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Hamburg, Germany | ? | ? | ?
 [Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
-[nStack](https://nstack.com) | London, UK | ? | ? | ?
+[nStack](https://nstack.com) | London, UK | No | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
 [Numerai](https://numer.ai) | San Francisco, CA, USA | No | Finance | [Github](https://github.com/numerai?language=haskell)
 [Obsidian Systems](https://obsidian.systems) | New York, NY, USA | No | Consulting | [Github](https://github.com/obsidiansystems?language=haskell)
 [Oliver Wyman Labs (formerly LShift)](https://tech.labs.oliverwyman.com/) | London, UK | ? | ? | ?
