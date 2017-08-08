@@ -45,8 +45,8 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Holland & Hart](https://www.hollandhart.com) | Boulder, Co, USA |  [Yes](https://stackoverflow.com/jobs/147022/software-developer-automation-engineer-holland-hart)  | Law | ?
 [Hornet Security](https://www.hornetsecurity.com/en) | Hanover/Berlin, Germany | ? | ? | ?
 [Hotwirestudios](https://github.com/hotwirestudios) | Dortmund, Germany | ? | ? | ?
-[IOHK](https://iohk.io) | Remote | ? | ? | ?
-[IMVU](http://www.imvu.com) | Silicon Valley, CA, USA | Yes | 3D Chat |  [Github](https://github.com/imvu?language=haskell)
+[IOHK](https://iohk.io) | Remote | [Yes](https://iohk.io/careers/#op-136090-haskell-developer) | Blockchain research | [Github](https://github.com/input-output-hk?language=haskell)
+[IMVU](http://www.imvu.com) | Silicon Valley, CA, USA | Yes | 3D Chat | [Github](https://github.com/imvu?language=haskell)
 [Iris Connect](http://www.irisconnect.co.uk) | Brighton, UK | ? | ? | ?
 [JP Morgan](https://www.jpmorgan.com) | Brooklyn, NYC, USA | No | Finance | ?
 Karamaan Group | New York, NY, USA | No | Finance | ?
