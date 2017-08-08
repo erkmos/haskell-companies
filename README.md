@@ -64,8 +64,8 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [nStack](https://nstack.com) | London, UK | No | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
 [Numerai](https://numer.ai) | San Francisco, CA, USA | No | Finance | [Github](https://github.com/numerai?language=haskell)
 [Obsidian Systems](https://obsidian.systems) | New York, NY, USA | No | Consulting | [Github](https://github.com/obsidiansystems?language=haskell)
-[Oliver Wyman Labs (formerly LShift)](https://tech.labs.oliverwyman.com/) | London, UK | ? | ? | ?
-[Permutive](https://permutive.com) | London, UK | Yes | ? | ?
+[Oliver Wyman Labs (formerly LShift)](https://tech.labs.oliverwyman.com/) | London, UK | [Yes](https://stackoverflow.com/jobs/139375/senior-multi-skilled-software-engineer-oliver-wyman-systems) | Analytics | Unconfirmed
+[Permutive](https://permutive.com) | London, UK | [Yes](https://permutive.com/jobs/software-engineer-haskell-scala/) | Analytics | [Job Ad](https://permutive.com/jobs/software-engineer-haskell-scala/)
 [Position Development](https://positiondev.com) | New York, NY, USA | ? | ? | ?
 [Plow Technologies](http://www.plowtech.net) | Oklahoma City, OK, USA | No | Automation | [Github](https://github.com/plow-technologies?language=haskell)
 [Prezi](https://prezi.com) | Budapest, Hungary | ? | ? | ?
