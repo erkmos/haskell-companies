@@ -22,6 +22,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Betterteam](https://www.betterteam.com) | Remote | No | Recruiting | [Github](https://github.com/betterteamapp?language=haskell)
 [BIG MOON](https://www.e-bigmoon.com/) | Aichi, Japan | ? | eCommerce/Watch | [Github](https://github.com/e-bigmoon?language=haskell)
 [BNP](https://group.bnpparibas/en/) | Paris, France | ? | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
+[Calabrio](http://www.calabrio.com/) | Minneapolis, USA, and Vancouver, Canada | Yes | Customer engagement | [Website](http://www.calabrio.com/careers/haskell-engine-developer/)
 [Capital IQ](https://www.capitaliq.com/home/about-us) | New York, NY, USA? | No | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo/)
 [Capital Match](https://www.capital-match.com) | UK/Singapore | No? | Finance | [FunctionalJobs](https://web.archive.org/web/20170805015044/https://functionaljobs.com/jobs/9024-software-engineer-haskell-full-stack-at-capital-match)
 [CircuitHub](https://circuithub.com) | MA, USA/London, UK | Yes | Manufacturing/Consulting | [Github](https://github.com/circuithub?language=haskell)
