@@ -97,6 +97,7 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [Tweag](http://www.tweag.io) | Paris, France | No | HPC Research | [Github](https://github.com/tweag?language=haskell)
 [TVision Insights](http://tvisioninsights.com) | Boston, MA, USA | [Yes](http://www.tvisioninsights.com/careers/) | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
 [Typeable](https://typeable.io) | Moscow, Russia | No | Travel/Software | [Github](https://github.com/typeable?language=haskell)
+[Typelead](http://www.typelead.com) | Bangalore, India | ? | Programming Language (Eta) | [Github](https://github.com/typelead)
 [Vacation Labs](https://www.vacationlabs.com/) | Goa, India | [Yes](http://www.vacationlabs.com/we-are-hiring/software-engineer) | Travel/Saas | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknz5fd)
 [Vente Privée](https://secure.uk.vente-privee.com/authentication/portal/EN) | Paris, France | No | Sales | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Wire Swiss](https://wire.com) | Switzerland | [Yes](https://wire.softgarden.io/job/1166533?l=en) | Chat | [Github](https://github.com/wireapp?language=haskell)
