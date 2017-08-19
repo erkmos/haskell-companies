@@ -32,6 +32,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Clearwater Analytics](https://www.clearwater-analytics.com) | Boise, ID, USA | No | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dko7fdt/)
 [Confer Health](https://www.confer.health) | Boston, MA, USA | No | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
 [Data61](https://data61.csiro.au) | Multiple locations, Australia | [Maybe](https://jobs.csiro.au/job/Negotiable-Software-Engineer/415709200) | Research | [Github](https://github.com/data61?language=haskell)
+[Databrary](https://www.databrary.org) | New York, NY, USA | [Yes](https://www.databrary.org/about/jobs/back-end.html) | Research Data | [Job Ad](http://web.archive.org/web/20170819192506/https://www.databrary.org/about/jobs/back-end.html)
 [Digital Asset](https://digitalasset.com) | Switzerland, Australia, Hungary, USA | [Yes](https://digitalasset.com/careers.html) | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
 [Facebook](https://www.facebook.com) | London, UK |  [Yes](https://www.facebook.com/careers/jobs/a0I1200000LT8aA) | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Factis Research](http://www.factisresearch.com) | Freiburg, Germany | No | Medicare | [Github](https://github.com/factisresearch?language=haskell)
