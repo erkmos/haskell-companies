@@ -6,6 +6,10 @@ If you see a company on the list that doesn't exist anymore, or does not use Has
 
 Many of these companies have some kind of Haskell development, but it is often in one or a few particular teams rather than company-wide.
 
+### Remote
+
+Some of these companies support remote hires, it has been indicated in the `Remote OK` column below. Timezone and/or Country restrictions might apply.
+
 ### Companies
 
 | Name | Location | Hiring | Sector | Source | Remote OK? |
