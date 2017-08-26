@@ -8,7 +8,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 
 ### Remote
 
-Some of these companies support remote hires. Where that information is available, it has been indicated in the `Remote OK` column below. Timezone and/or Country restrictions might apply.
+Some of these companies support remote hires. Where that information is available, it has been indicated in the `Remote OK` column below. Timezone and/or country restrictions might apply.
 
 ### Companies
 
