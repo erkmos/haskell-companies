@@ -8,8 +8,8 @@ Many of these companies have some kind of Haskell development, but it is often i
 
 ### Companies
 
-| Name | Location | Hiring | Sector | Source |
-| :--- | :------- | :----- | :----- | :----- |
+| Name | Location | Hiring | Sector | Source | Remote OK? |
+| :--- | :------- | :----- | :----- | :----- | :--------- |
 [Adjoint](https://www.adjoint.io) | Boston, MA, USA | No | Finance | [Github](https://github.com/adjoint-io?language=haskell)
 [Alphasheets](http://www.alphasheets.com) | San Francisco, CA, USA | No | Business software | [Reddit](https://www.reddit.com/r/haskell/comments/4hlkls/haskell_jobs_alphasheets_coding_in_a_spreadsheet/)
 [Ambiata](http://ambiata.com) | Sydney, Australia | No | Marketing | [Github](https://github.com/ambiata?language=haskell)
@@ -19,7 +19,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Awake Networks](http://awakenetworks.com) | Mountain View, CA, USA | No | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
 [Barclays](http://www.barclays.co.uk) | London, UK | No | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
 [Beautiful Destinations](http://www.beautifuldestinations.com) | London, UK | No | Travel/Advertising | [Github](https://github.com/BeautifulDestinations?language=haskell)
-[Betterteam](https://www.betterteam.com) | Remote | No | Recruiting | [Github](https://github.com/betterteamapp?language=haskell)
+[Betterteam](https://www.betterteam.com) | Remote | No | Recruiting | [Github](https://github.com/betterteamapp?language=haskell)| Yes
 [BIG MOON](https://www.e-bigmoon.com/) | Aichi, Japan | ? | eCommerce/Watch | [Github](https://github.com/e-bigmoon?language=haskell)
 [BNP](https://group.bnpparibas/en/) | Paris, France | ? | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Calabrio](http://www.calabrio.com/) | Minneapolis, USA, and Vancouver, Canada | Yes | Customer engagement | [Website](http://www.calabrio.com/careers/haskell-engine-developer/)
@@ -37,8 +37,8 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Facebook](https://www.facebook.com) | London, UK |  [Yes](https://www.facebook.com/careers/jobs/a0I1200000LT8aA) | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Factis Research](http://www.factisresearch.com) | Freiburg, Germany | No | Medicare | [Github](https://github.com/factisresearch?language=haskell)
 [Fretlink](https://www.fretlink.com) | Paris, France | Yes | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
-[Front Row Education](http://frontrowed.com) | San Francisco, CA, USA/Remote | No | Education | [Github](https://github.com/frontrowed?language=haskell)
-[FP Complete](https://www.fpcomplete.com) | Remote | No | Consulting/Training | [Github](https://github.com/fpco?language=haskell)
+[Front Row Education](http://frontrowed.com) | San Francisco, CA, USA/Remote | No | Education | [Github](https://github.com/frontrowed?language=haskell)|Yes
+[FP Complete](https://www.fpcomplete.com) | Remote | No | Consulting/Training | [Github](https://github.com/fpco?language=haskell)|Yes
 [Fugue](https://fugue.co) | Washington, DC, USA | No | Automation | ?
 [Galois](https://galois.com) | Portland, Oregon, USA | Yes | Consulting/Research | ?
 [GetShop.TV](http://getshop.tv) | Moscow, Russia | ? | ? | ?
@@ -48,7 +48,7 @@ Many of these companies have some kind of Haskell development, but it is often i
 [Holland & Hart](https://www.hollandhart.com) | Boulder, Co, USA |  [Yes](https://stackoverflow.com/jobs/147022/software-developer-automation-engineer-holland-hart)  | Law | ?
 [Hornet Security](https://www.hornetsecurity.com/en) | Hanover/Berlin, Germany | ? | ? | ?
 [Hotwirestudios](https://github.com/hotwirestudios) | Dortmund, Germany | ? | ? | ?
-[IOHK](https://iohk.io) | Remote | [Yes](https://iohk.io/careers/#op-136090-haskell-developer) | Blockchain research | [Github](https://github.com/input-output-hk?language=haskell)
+[IOHK](https://iohk.io) | Remote | [Yes](https://iohk.io/careers/#op-136090-haskell-developer) | Blockchain research | [Github](https://github.com/input-output-hk?language=haskell)| Yes
 [IMVU](http://www.imvu.com) | Silicon Valley, CA, USA | Yes | 3D Chat | [Github](https://github.com/imvu?language=haskell)
 [Iris Connect](http://www.irisconnect.co.uk) | Brighton, UK | ? | ? | ?
 [JP Morgan](https://www.jpmorgan.com) | Brooklyn, NYC, USA | No | Finance | ?
