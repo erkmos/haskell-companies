@@ -80,7 +80,7 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [SEEK](https://www.seek.com.au) | Melbourne, Australia | ? | ? | ?
 [Seller Labs](https://www.sellerlabs.com) | Athens, GA, USA | Yes | E-Commerce | [Github](https://github.com/sellerlabs?language=haskell)
 [Sentenai](http://sentenai.com) | Boston, MA, USA | ? | ? | ?
-[Serokell](https://serokell.io) | Sankt-Petersburg, Russia | No | Consulting | [Github](https://github.com/serokell?language=github)
+[Serokell](https://serokell.io) | Sankt-Petersburg, Russia | Yes | Consulting, research | [Github](https://github.com/serokell?language=github) | Yes
 [Siemens Convergence Creators](http://www.convergence-creators.siemens.com) | Vienna, Austria | ? | ? | ?
 [Simply RETS](https://simplyrets.com) | Houston, TX, USA | No | SaaS (Real Estate) | ?
 [SimSpace](https://simspace.com) | Boston, MA, USA | Yes | ? | ?
