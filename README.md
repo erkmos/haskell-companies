@@ -40,7 +40,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Digital Asset](https://digitalasset.com) | Switzerland, Australia, Hungary, USA | [Yes](https://digitalasset.com/careers.html) | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
 [Facebook](https://www.facebook.com) | London, UK |  [Yes](https://www.facebook.com/careers/jobs/a0I1200000LT8aA) | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Factis Research](http://www.factisresearch.com) | Freiburg, Germany | No | Medicare | [Github](https://github.com/factisresearch?language=haskell)
-[Fretlink](https://www.fretlink.com) | Paris, France | Yes | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
+[FretLink](https://www.fretlink.com) | Paris, France | [Yes](https://www.fretlink.com/jobs) | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Front Row Education](http://frontrowed.com) | San Francisco, CA, USA/Remote | No | Education | [Github](https://github.com/frontrowed?language=haskell)|Yes
 [FP Complete](https://www.fpcomplete.com) | Remote | No | Consulting/Training | [Github](https://github.com/fpco?language=haskell)|Yes
 [Fugue](https://fugue.co) | Washington, DC, USA | No | Automation | ?
