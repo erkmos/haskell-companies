@@ -75,7 +75,7 @@ Karamaan Group | New York, NY, USA | No | Finance | ?
 [Position Development](https://positiondev.com) | New York, NY, USA | ? | ? | ?
 [Plow Technologies](http://www.plowtech.net) | Oklahoma City, OK, USA | No | Automation | [Github](https://github.com/plow-technologies?language=haskell)
 [Prezi](https://prezi.com) | Budapest, Hungary | ? | ? | ?
-[RELEX Solutions](https://www.relexsolutions.com) | Helsinki, Finland | [Yes](https://www.relexsolutions.com/open-positions/#op-209192-haskell-and-elm-enthusiast) | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/)
+[RELEX Solutions](https://www.relexsolutions.com) | Helsinki, Finland | [Yes](https://www.relexsolutions.com/open-positions/#op-209192-haskell-and-elm-enthusiast) | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | No
 [Saltation](http://www.saltation.de) | Bielefeld, Germany | ? | ? | ?
 [Scrive](https://scrive.com) | Stockholm, Sweden | No | eSigning | [Github](https://github.com/scrive?language=haskell)
 [SEEK](https://www.seek.com.au) | Melbourne, Australia | ? | ? | ?
