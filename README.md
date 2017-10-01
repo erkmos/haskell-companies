@@ -2,7 +2,7 @@
 This list has been made in collaboration with members of [/r/haskell](https://www.reddit.com/r/haskell)
 
 #### Updates
-If you see a company on the list that doesn't exist anymore, or does not use Haskell anymore, please send a pull request with an explanation. The same goes if you're currently working at, or know a company that uses Haskell but is not on the list. Please include the website, github (if applicable), locations, and sector. If the company is hiring please include a link to the ad.
+If you see a company on the list that doesn't exist anymore, or does not use Haskell anymore, please send a pull request with an explanation. The same goes if you're currently working at, or know a company that uses Haskell but is not on the list. Please include the website, github (if applicable), locations, sector and whether the company allows developers to work remotely.
 
 Many of these companies have some kind of Haskell development, but it is often in one or a few particular teams rather than company-wide.
 
