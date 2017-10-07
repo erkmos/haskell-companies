@@ -15,7 +15,7 @@ Some of these companies support remote hires. Where that information is availabl
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
 [Adjoint](https://www.adjoint.io) | Boston, MA, USA | Finance | [Github](https://github.com/adjoint-io?language=haskell)
-[Alphasheets](http://www.alphasheets.com) | San Francisco, CA, USA Business software | [Reddit](https://www.reddit.com/r/haskell/comments/4hlkls/haskell_jobs_alphasheets_coding_in_a_spreadsheet/)
+[Alphasheets](http://www.alphasheets.com) | San Francisco, CA, USA | Business software | [Reddit](https://www.reddit.com/r/haskell/comments/4hlkls/haskell_jobs_alphasheets_coding_in_a_spreadsheet/)
 [Ambiata](http://ambiata.com) | Sydney, Australia | Marketing | [Github](https://github.com/ambiata?language=haskell)
 [Applikativ](http://applikativ.no) | Stavanger, Norway | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcpy8mp/)
 [Arbor Networks](https://www.arbornetworks.com) | Burlington, MA, USA | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904)
