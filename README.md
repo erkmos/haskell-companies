@@ -81,7 +81,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Scrive](https://scrive.com) | Stockholm, Sweden | eSigning | [Github](https://github.com/scrive?language=haskell)
 [SEEK](https://www.seek.com.au) | Melbourne, Australia | ? | ? | ?
 [Seller Labs](https://www.sellerlabs.com) | Athens, GA, USA | E-Commerce | [Github](https://github.com/sellerlabs?language=haskell)
-[Sentenai](http://sentenai.com) | Boston, MA, USA | ? | ? | ?
+[Sentenai](http://sentenai.com) | Boston, MA, USA | IoT / Databases | [Github](https://github.com/Sentenai) [Angellist](https://angel.co/sentenai) | Negotiable |
 [Serokell](https://serokell.io) | Sankt-Petersburg, Russia | Consulting, research | [Github](https://github.com/serokell?language=github) | Yes
 [Siemens Convergence Creators](http://www.convergence-creators.siemens.com) | Vienna, Austria | ? | ? | ?
 [Simply RETS](https://simplyrets.com) | Houston, TX, USA | SaaS (Real Estate) | ?
