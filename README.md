@@ -37,7 +37,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Confer Health](https://www.confer.health) | Boston, MA, USA | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
 [Data61](https://data61.csiro.au) | Multiple locations, Australia | Research | [Github](https://github.com/data61?language=haskell)
 [Databrary](https://www.databrary.org) | New York, NY, USA | Research Data | [Job Ad](http://web.archive.org/web/20170819192506/https://www.databrary.org/about/jobs/back-end.html)
-[Dfinity](https://dfinity.org) | Palo Alto, CA, USA | Blockchain Research | [Reddit](https://web.archive.org/web/20171010001655/https://www.reddit.com/r/haskell/comments/754346/general_questions_about_the_haskell_landscape_in/do58zog)
+[Dfinity](https://dfinity.org) | Palo Alto, CA, USA/Zug, Switzerland | Blockchain Research | [Reddit](https://web.archive.org/web/20171010001655/https://www.reddit.com/r/haskell/comments/754346/general_questions_about_the_haskell_landscape_in/do58zog)
 [Digital Asset](https://digitalasset.com) | Switzerland, Australia, Hungary, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
 [Facebook](https://www.facebook.com) | London, UK | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Factis Research](http://www.factisresearch.com) | Freiburg, Germany | Medicare | [Github](https://github.com/factisresearch?language=haskell)
