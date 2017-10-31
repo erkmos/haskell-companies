@@ -67,6 +67,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Lumi](https://www.lumi.com) | Los Angeles, CA, USA | ? | ? | ?
 [Lumiguide](https://lumiguide.eu) | Nijmegen, Netherlands | Smart cities | [Github](https://github.com/LumiGuide?language=haskell)
 [Mackey RMS](https://mackeyrms.com) | Boston, MA, USA | ? | ? | ?
+[Mercury](http://www.mercury.co) | San Francisco, CA, USA | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/) | Finance | ?
 [Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Hamburg, Germany | ? | ? | ?
 [Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
 [nStack](https://nstack.com) | London, UK | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
