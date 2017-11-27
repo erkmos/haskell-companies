@@ -68,7 +68,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Lumi](https://www.lumi.com) | Los Angeles, CA, USA | ? | ? | ?
 [Lumiguide](https://lumiguide.eu) | Nijmegen, Netherlands | Smart cities | [Github](https://github.com/LumiGuide?language=haskell)
 [Mackey RMS](https://mackeyrms.com) | Boston, MA, USA | ? | ? | ?
-[Mercury](http://www.mercury.co) | San Francisco, CA, USA | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/) | Finance | ?
+[Mercury](http://www.mercury.co) | San Francisco, CA, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/)
 [Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Hamburg, Germany | ? | ? | ?
 [Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
 [nStack](https://nstack.com) | London, UK | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
@@ -111,7 +111,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Uphere.ai](https://www.uphere.ai) | San Francisco, CA, USA | Data analytics | [Reddit](https://web.archive.org/web/20171127052230/https://www.reddit.com/r/NixOS/comments/5dz8fp/list_of_companies_using_nixos/dfalhqm/)
 [Vacation Labs](https://www.vacationlabs.com/) | Goa, India | Travel/Saas | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknz5fd)
 [Vente Privée](https://secure.uk.vente-privee.com/authentication/portal/EN) | Paris, France | Sales | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
-[Wire Swiss](https://wire.com) | Switzerland | [Yes](https://wire.softgarden.io/job/1166533?l=en) | Chat | [Github](https://github.com/wireapp?language=haskell)
+[Wire Swiss](https://wire.com) | Switzerland | Chat | [Github](https://github.com/wireapp?language=haskell)
 [Well-Typed](http://www.well-typed.com) | London, UK | Consulting | [Github](https://github.com/well-typed?language=haskell)
 [Wrinkl](https://www.wrinkl.com) | NYC/Philadelphia, USA | Messaging | [Job Ad](https://web.archive.org/web/20171001101257/https://haskellweekly.news/issues/74.html) | Yes
 [Zalora](http://www.zalora.com) | Singapore/Vietnam | Fashion |[Github](https://github.com/zalora?language=haskell)
