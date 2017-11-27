@@ -108,7 +108,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [TVision Insights](http://tvisioninsights.com) | Boston, MA, USA | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
 [Typeable](https://typeable.io) | Moscow, Russia | Travel/Software | [Github](https://github.com/typeable?language=haskell)
 [Typelead](http://www.typelead.com) | Bangalore, India | Programming Language (Eta) | [Github](https://github.com/typelead)
-[Uphere.ai]](https://www.uphere.ai) | San Francisco, CA, USA | Data analytics | [Reddit](https://web.archive.org/web/20171127052230/https://www.reddit.com/r/NixOS/comments/5dz8fp/list_of_companies_using_nixos/dfalhqm/)
+[Uphere.ai](https://www.uphere.ai) | San Francisco, CA, USA | Data analytics | [Reddit](https://web.archive.org/web/20171127052230/https://www.reddit.com/r/NixOS/comments/5dz8fp/list_of_companies_using_nixos/dfalhqm/)
 [Vacation Labs](https://www.vacationlabs.com/) | Goa, India | Travel/Saas | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknz5fd)
 [Vente Privée](https://secure.uk.vente-privee.com/authentication/portal/EN) | Paris, France | Sales | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Wire Swiss](https://wire.com) | Switzerland | [Yes](https://wire.softgarden.io/job/1166533?l=en) | Chat | [Github](https://github.com/wireapp?language=haskell)
