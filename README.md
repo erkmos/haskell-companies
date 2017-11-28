@@ -49,6 +49,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Galois](https://galois.com) | Portland, Oregon, USA | Consulting/Research | ?
 [GetShop.TV](http://getshop.tv) | Moscow, Russia | ? | ?
 [Grafted-In](https://graftedin.io) | Grand Blanc, MI, USA | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
+[Health eFilings](https://healthefilings.com/) | Madison, WI | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
 [Helium](https://www.helium.com) | Mountain View, CA, USA | ? | ?
 [Henry Labs](http://hihenry.co) | Stockholm, Sweden | ? | ?
 [Holland & Hart](https://www.hollandhart.com) | Boulder, Co, USA | Law | ?
