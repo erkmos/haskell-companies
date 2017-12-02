@@ -21,7 +21,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Applikativ](http://applikativ.no) | Stavanger, Norway | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcpy8mp/)
 [Arbor Networks](https://www.arbornetworks.com) | Burlington, MA, USA | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904)
 [Assertible](https://assertible.com) | USA | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
-[Awake Networks](http://awakenetworks.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
+[Awake Security](http://awakesecurity.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
 [Barclays](http://www.barclays.co.uk) | London, UK | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
 [Beautiful Destinations](http://www.beautifuldestinations.com) | London, UK | Travel/Advertising | [Github](https://github.com/BeautifulDestinations?language=haskell)
 [Betterteam](https://www.betterteam.com) | Remote | Recruiting | [Github](https://github.com/betterteamapp?language=haskell)| Yes
