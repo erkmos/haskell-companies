@@ -19,6 +19,7 @@ Some of these companies support remote hires. Where that information is availabl
 [AlasConnect](http://alasconnect.com) | Anchorage - Fairbanks - Palmer, AK, USA | IT/Telecom | [Github](https://github.com/alasconnect)
 [Alphasheets](http://www.alphasheets.com) | San Francisco, CA, USA | Business software | [Reddit](https://www.reddit.com/r/haskell/comments/4hlkls/haskell_jobs_alphasheets_coding_in_a_spreadsheet/)
 [Ambiata](http://ambiata.com) | Sydney, Australia | Marketing | [Github](https://github.com/ambiata?language=haskell)
+[Ansarada](https://www.ansarada.com) | Sydney, Australia | Finance | [Github](https://github.com/ansarada?language=haskell)
 [Applikativ](http://applikativ.no) | Stavanger, Norway | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcpy8mp/)
 [Arbor Networks](https://www.arbornetworks.com) | Burlington, MA, USA | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904)
 [Assertible](https://assertible.com) | USA | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
