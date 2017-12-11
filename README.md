@@ -25,6 +25,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Awake Security](http://awakesecurity.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
 [Barclays](http://www.barclays.co.uk) | London, UK | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
 [Beautiful Destinations](http://www.beautifuldestinations.com) | London, UK | Travel/Advertising | [Github](https://github.com/BeautifulDestinations?language=haskell)
+[BeeWell](http://beewell.health) | Raleigh, NC, USA | Health Technology | [Github](https://github.com/BeeWell?language=haskell)
 [Betterteam](https://www.betterteam.com) | Remote | Recruiting | [Github](https://github.com/betterteamapp?language=haskell)| Yes
 [BIG MOON](https://www.e-bigmoon.com/) | Aichi, Japan | eCommerce/Watch | [Github](https://github.com/e-bigmoon?language=haskell)
 [BNP](https://group.bnpparibas/en/) | Paris, France | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
