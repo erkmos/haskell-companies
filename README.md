@@ -116,5 +116,4 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Wire Swiss](https://wire.com) | Switzerland | Chat | [Github](https://github.com/wireapp?language=haskell)
 [Well-Typed](http://www.well-typed.com) | London, UK | Consulting | [Github](https://github.com/well-typed?language=haskell)
 [Wrinkl](https://www.wrinkl.com) | NYC/Philadelphia, USA | Messaging | [Job Ad](https://web.archive.org/web/20171001101257/https://haskellweekly.news/issues/74.html) | Yes
-[Zalora](http://www.zalora.com) | Singapore/Vietnam | Fashion |[Github](https://github.com/zalora?language=haskell)
 [Zoomin Software](https://zoominsoftware.com) | Tel Aviv, Israel | SaaS | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrti3g)
