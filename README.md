@@ -20,7 +20,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Alphasheets](http://www.alphasheets.com) | San Francisco, CA, USA | Business software | [Reddit](https://www.reddit.com/r/haskell/comments/4hlkls/haskell_jobs_alphasheets_coding_in_a_spreadsheet/)
 [Ambiata](http://ambiata.com) | Sydney, Australia | Marketing | [Github](https://github.com/ambiata?language=haskell)
 [Applikativ](http://applikativ.no) | Stavanger, Norway | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcpy8mp/)
-[Arbor Networks](https://www.arbornetworks.com) | Burlington, MA, USA | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904)
+[Arbor Networks](https://www.arbornetworks.com) | Sydney, Australia | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904) | Yes (for similar timezones)
 [Assertible](https://assertible.com) | USA | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
 [Awake Security](http://awakesecurity.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
 [Barclays](http://www.barclays.co.uk) | London, UK | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
