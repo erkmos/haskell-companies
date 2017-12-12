@@ -76,7 +76,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [nStack](https://nstack.com) | London, UK | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
 [Numerai](https://numer.ai) | San Francisco, CA, USA | Finance | [Github](https://github.com/numerai?language=haskell)
 [Obsidian Systems](https://obsidian.systems) | New York, NY, USA | Consulting | [Github](https://github.com/obsidiansystems?language=haskell)
-[Oracle Labs](https://labs.oracle.com/) | Remote | Blockchain research |  |
+[Oracle Labs](https://labs.oracle.com/) | Remote | Blockchain research | [Github](https://github.com/erkmos/haskell-companies/pull/29)
 [Permutive](https://permutive.com) | London, UK | Analytics | [Job Ad](https://permutive.com/jobs/software-engineer-haskell-scala/)
 [Position Development](https://positiondev.com) | New York, NY, USA | ? | ? | ?
 [Plow Technologies](http://www.plowtech.net) | Oklahoma City, OK, USA | Automation | [Github](https://github.com/plow-technologies?language=haskell)
