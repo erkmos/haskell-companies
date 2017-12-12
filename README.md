@@ -100,7 +100,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Superpowers Corp](https://www.superpowerscorp.com) | Boulder, CO, USA | Software | ?
 [Systor Vest](http://systorvest.no) | Stavanger, Norway | ? | ? | ?
 [Takt](http://takt.com) | San Francisco, CA, USA | Analytics/Marketing | [Github](https://github.com/TaktInc?language=haskell)
-[Target (analytics team)](https://www.target.com) | USA | ? | ? | ?
+[Target (Data Science and Optimization)](https://www.target.com) | USA | Retail | ? | Yes
 [Tesla](https://www.tesla.com) | Palo Alto, CA, USA | Automotive | ?
 [The UNIX Man Consulting](https://theunixman.com/) | USA | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
 [Trigram](http://trigram.no) | Stavanger, Norway | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrbn1q)
