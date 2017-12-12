@@ -38,6 +38,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Clearmatics](http://www.clearmatics.com) | London, UK | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html)
 [Clearwater Analytics](https://www.clearwater-analytics.com) | Boise, ID, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dko7fdt/)
 [Confer Health](https://www.confer.health) | Boston, MA, USA | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
+[CBA](https://www.commbank.com.au) | Sydney, Australia | Finance | [Github](https://github.com/CommBank?language=haskell)
 [Data61](https://data61.csiro.au) | Multiple locations, Australia | Research | [Github](https://github.com/data61?language=haskell)
 [Databrary](https://www.databrary.org) | New York, NY, USA | Research Data | [Job Ad](http://web.archive.org/web/20170819192506/https://www.databrary.org/about/jobs/back-end.html)
 [Dfinity](https://dfinity.org) | Palo Alto, CA, USA/Zug, Switzerland | Blockchain Research | [Reddit](https://web.archive.org/web/20171010001655/https://www.reddit.com/r/haskell/comments/754346/general_questions_about_the_haskell_landscape_in/do58zog)
