@@ -102,6 +102,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Standard Chartered](https://www.sc.com) | UK/Singapore | ? | ? | ?
 [Stilo](http://stilo.com) | Ottawa, Canada | ? | ? | ?
 [Superpowers Corp](https://www.superpowerscorp.com) | Boulder, CO, USA | Software | ?
+[Swift Navigation](https://www.swiftnav.com) | San Francisco, CA, USA | GNSS Software | [Github](https://github.com/swift-nav?language=haskell)
 [Systor Vest](http://systorvest.no) | Stavanger, Norway | ? | ? | ?
 [Takt](http://takt.com) | San Francisco, CA, USA | Analytics/Marketing | [Github](https://github.com/TaktInc?language=haskell)
 [Target (Data Science and Optimization)](https://www.target.com) | USA | Retail | ? | Yes
