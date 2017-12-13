@@ -94,6 +94,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Siemens Convergence Creators](http://www.convergence-creators.siemens.com) | Vienna, Austria | ? | ? | ?
 [Simply RETS](https://simplyrets.com) | Houston, TX, USA | SaaS (Real Estate) | ?
 [SimSpace](https://simspace.com) | Boston, MA, USA | ? | ?
+[Sitewisely](http://www.sitewisely.com.au) | Brisbane, QLD, Australia | SaaS | [Github](https://github.com/sitewisely?language=haskell)
 [Skedge](http://skedge.me) | New York, NY, USA | ? | ?
 [Soostone](http://www.soostone.com) | New York, NY, USA | SaaS | [Github](https://github.com/Soostone?language=haskell)
 [SQream Technologies](http://www.sqream.com) | Tel Aviv, Israel | ? | ? | ?
