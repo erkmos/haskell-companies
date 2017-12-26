@@ -68,7 +68,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Karius](https://www.kariusdx.com) | Menlo Park, CA, USA | ? | ? | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | Security/AV | ?
 [Kitty Hawk](http://www.kittyhawk.aero) | Mountain View, CA, USA | ? | ? | ?
-[Layer 3](https://layer3com.com) | Atlanta, Georgia, USA |  | ? | ?
+[Layer 3](https://layer3com.com) | Atlanta, Georgia, USA | Network Security | [Github](https://github.com/layer-3-communications) | Yes
 [Leap Year](http://leapyear.io) | Berkeley, USA | ? | ? | ?
 [Liquid Democracy e.V.](https://liqd.net) | Berlin, Germany | ? | ? | ?
 [Lumi](https://www.lumi.com) | Los Angeles, CA, USA | ? | ? | ?
