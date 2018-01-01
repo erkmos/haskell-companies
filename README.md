@@ -56,7 +56,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Grafted-In](https://graftedin.io) | Grand Blanc, MI, USA | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
 [Health eFilings](https://healthefilings.com/) | Madison, WI, USA | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
 [Helium](https://www.helium.com) | Mountain View, CA, USA | ? | ?
-[Henry Labs](http://hihenry.co) | Stockholm, Sweden | ? | ?
+[Henry Labs](http://hihenry.co) | Stockholm, Sweden | Project Management | [Job Ad](https://web.archive.org/web/20180101103312/https://hihenry.com/fullstack-engineer)
 [Holland & Hart](https://www.hollandhart.com) | Boulder, Co, USA | Law | ?
 [Hornet Security](https://www.hornetsecurity.com/en) | Hanover/Berlin, Germany | ? | ?
 [Hotwirestudios](https://github.com/hotwirestudios) | Dortmund, Germany | ? | ?
