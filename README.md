@@ -110,6 +110,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Target (Data Science and Optimization)](https://www.target.com) | USA | Retail | ? | Yes
 [Tesla](https://www.tesla.com) | Palo Alto, CA, USA | Automotive | ?
 [The UNIX Man Consulting](https://theunixman.com/) | USA | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
+[ThoughtLeadr](http://www.thoughtleadr.com) | Austin, TX, USA; Worldwide | Advertisement/Analytics | [Github](https://github.com/ThoughtLeadr?q=&type=source&language=haskell) | Yes
 [Trigram](http://trigram.no) | Stavanger, Norway | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrbn1q)
 [Tripshot](https://www.tripshot.com) | Portland, OR/Remote, USA | Logistics planning | [Github](https://github.com/Tripshot?language=haskell)
 [Tsuru Capital](http://www.tsurucapital.com) | Tokyo, Japan | Finance | [Github](https://github.com/tsurucapital?language=haskell)
