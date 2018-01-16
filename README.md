@@ -87,7 +87,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Plow Technologies](http://www.plowtech.net) | Oklahoma City, OK, USA | Automation | [Github](https://github.com/plow-technologies?language=haskell)
 [Prezi](https://prezi.com) | Budapest, Hungary | ? | ? | ?
 [RELEX Solutions](https://www.relexsolutions.com) | Helsinki, Finland | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | No
-[S&P Global](http://www.spglobal.com) | USA - New York, Boston, Denver. India - Gurgaon | Finance | [Functional Jobs](https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global) [HN](https://news.ycombinator.com/item?id=16062505) [Github](https://github.com/ermine-language/ermine) | No
+[S&P Global](http://www.spglobal.com) | USA - New York, Boston, Denver. India - Gurgaon | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global) [HN](https://news.ycombinator.com/item?id=16062505) [Github](https://github.com/ermine-language/ermine) | No
 [Saltation](http://www.saltation.de) | Bielefeld, Germany | ? | ? | ?
 [Scrive](https://scrive.com) | Stockholm, Sweden | eSigning | [Github](https://github.com/scrive?language=haskell)
 [SEEK](https://www.seek.com.au) | Melbourne, Australia | ? | ? | ?
