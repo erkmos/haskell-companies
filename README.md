@@ -39,6 +39,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Chow](https://justchow.com) | Bangalore, India | Food | [Github](https://github.com/just-chow?language=haskell)
 [Clearmatics](http://www.clearmatics.com) | London, UK | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html)
 [Clearwater Analytics](https://www.clearwater-analytics.com) | Boise, ID, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dko7fdt/)
+[CollegeVine](https://www.collegevine.com/) | Cambridge, MA, USA | Education | [Job Ad](https://web.archive.org/web/20180116121843/https://www.meetup.com/Boston-Haskell/messages/boards/thread/49785085?_cookie-check=04wFKRiwyZvjRh-9)
 [Confer Health](https://www.confer.health) | Boston, MA, USA | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
 [CBA](https://www.commbank.com.au) | Sydney, Australia | Finance | [Github](https://github.com/CommBank?language=haskell)
 [Data61](https://data61.csiro.au) | Multiple locations, Australia | Research | [Github](https://github.com/data61?language=haskell)
