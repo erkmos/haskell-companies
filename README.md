@@ -36,6 +36,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Capital Match](https://www.capital-match.com) | UK/Singapore | Finance | [FunctionalJobs](https://web.archive.org/web/20170805015044/https://functionaljobs.com/jobs/9024-software-engineer-haskell-full-stack-at-capital-match)
 [CircuitHub](https://circuithub.com) | MA, USA/London, UK | Manufacturing/Consulting | [Github](https://github.com/circuithub?language=haskell)
 [Channable](https://tech.channable.com) | Utrecht, The Netherlands | Marketing | [Github](https://github.com/channable?language=haskell)
+[Chordify](https://chordify.homerun.com) | Utrecht, NL | Music | [Reddit](https://web.archive.org/web/20180131045224/https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
 [Chow](https://justchow.com) | Bangalore, India | Food | [Github](https://github.com/just-chow?language=haskell)
 [Clearmatics](http://www.clearmatics.com) | London, UK | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html)
 [Clearwater Analytics](https://www.clearwater-analytics.com) | Boise, ID, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dko7fdt/)
