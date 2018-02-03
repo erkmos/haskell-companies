@@ -66,6 +66,7 @@ Some of these companies support remote hires. Where that information is availabl
 [IMVU](http://www.imvu.com) | Silicon Valley, CA, USA | 3D Chat | [Github](https://github.com/imvu?language=haskell)
 [Iris Connect](http://www.irisconnect.co.uk) | Brighton, UK | ? | ? | ?
 [JP Morgan](https://www.jpmorgan.com) | Brooklyn, NYC, USA | Finance | ?
+[Kadena](https://www.kadeno.io) | Brooklyn, NY, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/7uuq0z/kadena_is_hiring_haskell_developers/) | ?
 Karamaan Group | New York, NY, USA | Finance | ?
 [Karius](https://www.kariusdx.com) | Menlo Park, CA, USA | ? | ? | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | Security/AV | ?
