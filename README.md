@@ -22,6 +22,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Ansarada](https://www.ansarada.com) | Sydney, Australia | Finance | [Github](https://github.com/erkmos/haskell-companies/pull/26)
 [Applikativ](http://applikativ.no) | Stavanger, Norway | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcpy8mp/)
 [Arbor Networks](https://www.arbornetworks.com) | Sydney, Australia | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904) | Yes (for similar timezones)
+[Asahi Net](https://asahi-net.jp/en/) | JP | ISP | [Hacker News](https://news.ycombinator.com/item?id=13306004)
 [Assertible](https://assertible.com) | USA | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
 [Awake Security](http://awakesecurity.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
 [Barclays](http://www.barclays.co.uk) | London, UK | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
@@ -56,6 +57,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Galois](https://galois.com) | Portland, Oregon, USA | Consulting/Research | ?
 [GetShop.TV](http://getshop.tv) | Moscow, Russia | ? | ?
 [Grafted-In](https://graftedin.io) | Grand Blanc, MI, USA | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
+[Habito](https://www.habito.com/) | London, UK | Finance | [Job Posting](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
 [Health eFilings](https://healthefilings.com/) | Madison, WI, USA | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
 [Helium](https://www.helium.com) | Mountain View, CA, USA | ? | ?
 [Henry Labs](http://hihenry.co) | Stockholm, Sweden | Project Management | [Job Ad](https://web.archive.org/web/20180101103312/https://hihenry.com/fullstack-engineer)
