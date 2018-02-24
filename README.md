@@ -122,7 +122,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [ThoughtLeadr](http://www.thoughtleadr.com) | Austin, TX, USA; Worldwide | Advertisement/Analytics | [Github](https://github.com/ThoughtLeadr?q=&type=source&language=haskell) | Yes
 [Trigram](http://trigram.no) | Stavanger, Norway | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrbn1q)
 [Tripshot](https://www.tripshot.com) | Portland, OR/Remote, USA | Logistics planning | [Github](https://github.com/Tripshot?language=haskell)
-[Tsuru Capital](http://www.tsurucapital.com) | Tokyo, Japan | Finance | [Github](https://github.com/tsurucapital?language=haskell)
+[Tsuru Capital](http://www.tsurucapital.com) | Tokyo, Japan | Finance | [Github](https://github.com/tsurucapital?language=haskell) [Reddit](https://www.reddit.com/r/haskell/comments/7ysft5/tsuru_is_hiring/)
 [Tweag](http://www.tweag.io) | Paris, France | HPC Research | [Github](https://github.com/tweag?language=haskell)
 [TVision Insights](http://tvisioninsights.com) | Boston, MA, USA | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
 [Typeable](https://typeable.io) | Moscow, Russia | Travel/Software | [Github](https://github.com/typeable?language=haskell)
