@@ -134,5 +134,6 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Wire Swiss](https://wire.com) | Switzerland | Chat | [Github](https://github.com/wireapp?language=haskell)
 [Well-Typed](http://www.well-typed.com) | London, UK | Consulting | [Github](https://github.com/well-typed?language=haskell)
 [Wrinkl](https://www.wrinkl.com) | NYC/Philadelphia, USA | Messaging | [Job Ad](https://web.archive.org/web/20171001101257/https://haskellweekly.news/issues/74.html) | Yes
+[Xoken Labs](https://www.xoken.org) | Bangalore, India | Blockchain, Identity |  | 
 [Zalando](https://zalando.de) | Berlin, Germany | Online fashion store | [Github](https://github.com/erkmos/haskell-companies/pull/33) | No
 [Zoomin Software](https://zoominsoftware.com) | Tel Aviv, Israel | SaaS | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrti3g)
