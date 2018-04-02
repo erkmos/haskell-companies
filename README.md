@@ -55,6 +55,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Front Row Education](http://frontrowed.com) | San Francisco, CA, USA/Remote | Education | [Github](https://github.com/frontrowed?language=haskell)|Yes
 [FP Complete](https://www.fpcomplete.com) | Remote | Consulting/Training | [Github](https://github.com/fpco?language=haskell)|Yes
 [Fugue](https://fugue.co) | Washington, DC, USA | Automation | ?
+[Futurice](https://futurice.com) | Helsinki, Finland | Software | [Github](https://github.com/futurice?language=haskell) | No
 [Galois](https://galois.com) | Portland, Oregon, USA | Consulting/Research | ?
 [GetShop.TV](http://getshop.tv) | Moscow, Russia | ? | ?
 [Grafted-In](https://graftedin.io) | Grand Blanc, MI, USA | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
@@ -84,6 +85,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [MackeyRMS](https://mackeyrms.com) | Boston, MA, USA | Financial research SaaS | [Twitter](https://twitter.com/MackeyRMS/status/897802158774603776) | No
 [Mercury](http://www.mercury.co) | San Francisco, CA, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/)
 [Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Hamburg, Germany | ? | ? | ?
+[Monad](https://monad.fi/en/) | Tampere, Finland | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
 [nStack](https://nstack.com) | London, UK | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
 [Numerai](https://numer.ai) | San Francisco, CA, USA | Finance | [Github](https://github.com/numerai?language=haskell)
