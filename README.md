@@ -94,7 +94,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Obsidian Systems](https://obsidian.systems) | New York, NY, USA | Consulting | [Github](https://github.com/obsidiansystems?language=haskell) | Some cases
 [Oracle Labs](https://labs.oracle.com/) | Remote | Blockchain research | [Github](https://github.com/erkmos/haskell-companies/pull/29)
 [Permutive](https://permutive.com) | London, UK | Analytics | [Job Ad](https://permutive.com/jobs/software-engineer-haskell-scala/)
-+[Picus Security](https://www.picussecurity.com) | Ankara, Turkey | Information security | [Github](https://github.com/picussecurity?language=haskell)
+[Picus Security](https://www.picussecurity.com) | Ankara, Turkey | Information security | [Github](https://github.com/picussecurity?language=haskell)
 [Position Development](https://positiondev.com) | New York, NY, USA | ? | ? | ?
 [Plow Technologies](http://www.plowtech.net) | Oklahoma City, OK, USA | Automation | [Github](https://github.com/plow-technologies?language=haskell)
 [Prezi](https://prezi.com) | Budapest, Hungary | ? | ? | ?
