@@ -96,7 +96,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Oracle Labs](https://labs.oracle.com/) | Remote | Blockchain research | [Github](https://github.com/erkmos/haskell-companies/pull/29)
 [Permutive](https://permutive.com) | London, UK | Analytics | [Job Ad](https://permutive.com/jobs/software-engineer-haskell-scala/)
 [Picus Security](https://www.picussecurity.com) | Ankara, Turkey | Information security | [Github](https://github.com/picussecurity?language=haskell)
-[Position Development](https://positiondev.com) | New York, NY, USA | ? | ? | ?
+[Position Development](https://positiondev.com) | New York, NY, USA | Consulting | [Github](https://github.com/positiondev) | No
 [Plow Technologies](http://www.plowtech.net) | Oklahoma City, OK, USA | Automation | [Github](https://github.com/plow-technologies?language=haskell)
 [Prezi](https://prezi.com) | Budapest, Hungary | ? | ? | ?
 [RELEX Solutions](https://www.relexsolutions.com) | Helsinki, Finland | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | No
