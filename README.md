@@ -78,6 +78,7 @@ Some of these companies support remote hires. Where that information is availabl
 Karamaan Group | New York, NY, USA | Finance | ?
 [Karius](https://www.kariusdx.com) | Menlo Park, CA, USA | ? | ? | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | Security/AV | ?
+[Keera Studios](http://keera.co.uk) | UK; Spain | Consulting, Mobile Apps, Game Programming | [Github](https://github.com/keera-studios/) | Yes
 [Kitty Hawk](http://www.kittyhawk.aero) | Mountain View, CA, USA | ? | ? | ?
 [Layer 3](https://layer3com.com) | Atlanta, Georgia, USA | Network Security | [Github](https://github.com/layer-3-communications) | Yes
 [Leap Year](http://leapyear.io) | Berkeley, USA | ? | ? | ?
