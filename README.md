@@ -125,7 +125,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Systor Vest](http://systorvest.no) | Stavanger, Norway | ? | ? | ?
 [Takt](http://takt.com) | San Francisco, CA, USA | Analytics/Marketing | [Github](https://github.com/TaktInc?language=haskell)
 [Target (Data Science and Optimization)](https://www.target.com) | USA | Retail | ? | Yes
-[Tesla](https://www.tesla.com) | Palo Alto, CA, USA | Automotive | ?
+[Tesla](https://www.tesla.com) | Palo Alto, CA, USA | Automotive | [Reddit](https://redd.it/8smtw0)
 [Tocoman](https://tocoman.fi/en) | Helsinki, Finland | Planning software | [Reddit](https://web.archive.org/web/20180128122009/https://www.reddit.com/r/haskell/comments/7rhfot/haskell_job_opportunity_at_tocoman_in_helsinki/)
 [The UNIX Man Consulting](https://theunixman.com/) | USA | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
 [ThoughtLeadr](http://www.thoughtleadr.com) | Austin, TX, USA; Worldwide | Advertisement/Analytics | [Github](https://github.com/ThoughtLeadr?q=&type=source&language=haskell) | Yes
