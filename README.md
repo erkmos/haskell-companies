@@ -53,6 +53,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Digital Asset](https://digitalasset.com) | Switzerland, Australia, Hungary, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
 [Facebook](https://www.facebook.com) | London, UK | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Factis Research](http://www.factisresearch.com) | Freiburg, Germany | Medicare | [Github](https://github.com/factisresearch?language=haskell)
+[Fairvioo](https://www.fairvioo.com) | Paris, France | E-commerce/Social | [Job Ad](https://github.com/Fairvioo/jobs-internship)
 [FretLink](https://www.fretlink.com) | Paris, France | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Freckle Education (formerly Front Row)](https://www.freckle.com) | San Francisco, CA, USA | Education | [Github](https://github.com/frontrowed?language=haskell)|Yes
 [FP Complete](https://www.fpcomplete.com) | Remote | Consulting/Training | [Github](https://github.com/fpco?language=haskell)|Yes
