@@ -77,7 +77,6 @@ Some of these companies support remote hires. Where that information is availabl
 [JP Morgan](https://www.jpmorgan.com) | Brooklyn, NYC, USA | Finance | ?
 [Kadena](https://www.kadena.io) | Brooklyn, NY, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/7uuq0z/kadena_is_hiring_haskell_developers/) | Some cases
 Karamaan Group | New York, NY, USA | Finance | ?
-[Karius](https://www.kariusdx.com) | Menlo Park, CA, USA | ? | ? | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | Security/AV | ?
 [Keera Studios](http://keera.co.uk) | UK; Spain | Consulting, Mobile Apps, Game Programming | [Github](https://github.com/keera-studios/) | Yes
 [Kitty Hawk](http://www.kittyhawk.aero) | Mountain View, CA, USA | ? | ? | ?
