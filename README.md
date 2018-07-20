@@ -90,6 +90,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Mercury](http://www.mercury.co) | San Francisco, CA, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/)
 [Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Hamburg, Germany | ? | ? | ?
 [Monad](https://monad.fi/en/) | Tampere, Finland | Software | [Website](https://monad.fi/en/software-design/) | ?
+[Monic](https://monic.co) | New York, NY, USA | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/8zypne/pact_property_checker_smtintegrated_language/)
 [Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
 [nStack](https://nstack.com) | London, UK | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
 [Numerai](https://numer.ai) | San Francisco, CA, USA | Finance | [Github](https://github.com/numerai?language=haskell)
