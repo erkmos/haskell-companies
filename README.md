@@ -112,7 +112,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Serokell](https://serokell.io) | Sankt-Petersburg, Russia | Consulting, research | [Github](https://github.com/serokell?language=github) | Yes
 [Siemens Convergence Creators](http://www.convergence-creators.siemens.com) | Vienna, Austria | ? | ? | ?
 [Simply RETS](https://simplyrets.com) | Houston, TX, USA | SaaS (Real Estate) | ?
-[SimSpace](https://simspace.com) | Boston, MA, USA | ? | ?
+[SimSpace](https://simspace.com) | Boston, MA, USA | Computer Security | [Github](https://github.com/Simspace?language=haskell) [AngelList](https://angel.co/simspace/jobs/64261-software-engineer-backend) | Yes (US/CA/Mexico)
 [Sitewisely](http://www.sitewisely.com.au) | Brisbane, QLD, Australia | SaaS | [Github](https://github.com/sitewisely?language=haskell)
 [Skedge](http://skedge.me) | New York, NY, USA | ? | ?
 [Soostone](http://www.soostone.com) | New York, NY, USA | SaaS | [Github](https://github.com/Soostone?language=haskell)
