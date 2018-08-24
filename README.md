@@ -115,7 +115,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [SimSpace](https://simspace.com) | Boston, MA, USA | Computer Security | [Github](https://github.com/Simspace?language=haskell) [AngelList](https://angel.co/simspace/jobs/64261-software-engineer-backend) | Yes (US/CA/Mexico)
 [Sitewisely](http://www.sitewisely.com.au) | Brisbane, QLD, Australia | SaaS | [Github](https://github.com/sitewisely?language=haskell)
 [Skedge](http://skedge.me) | New York, NY, USA | ? | ?
-[Soostone](http://www.soostone.com) | New York, NY, USA | SaaS | [Github](https://github.com/Soostone?language=haskell)
+[Soostone](http://www.soostone.com) | New York, NY, USA | Analytics / Artificial Intelligence | [Github](https://github.com/Soostone?language=haskell) | Yes
 [SQream Technologies](http://www.sqream.com) | Tel Aviv, Israel | ? | ? | ?
 [StackBuilders](https://www.stackbuilders.com) | NYC, USA/Quito, Ecuador | ? | ? | ?
 [Stage N/Unison](http://unisonweb.org/) | Boston, MA, USA | ? | ? | ?
