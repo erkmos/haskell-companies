@@ -34,6 +34,7 @@ Some of these companies support remote hires. Where that information is availabl
 [BIG MOON](https://www.e-bigmoon.com/) | Aichi, Japan | eCommerce/Watch | [Github](https://github.com/e-bigmoon?language=haskell)
 [Biocad](https://biocad.ru) | Saint Petersburg, Russia | Pharmaceuticals | [Job Ad](https://web.archive.org/web/20171225080836/https://spb.hh.ru/vacancy/23792285?nocookies=whoa)
 [BNP](https://group.bnpparibas/en/) | Paris, France | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
+[ByteAlly] (https://byteally.com)   | Chennai, India | Consultancy, Supply Chain | [Github] (https://github.com/byteally) | No 
 [Calabrio](http://www.calabrio.com/) | Minneapolis, USA, and Vancouver, Canada | Customer engagement | [Website](http://www.calabrio.com/careers/haskell-engine-developer/)
 [Capital Match](https://www.capital-match.com) | Singapore | Finance | [FunctionalJobs](https://web.archive.org/web/20170805015044/https://functionaljobs.com/jobs/9024-software-engineer-haskell-full-stack-at-capital-match)
 [CircuitHub](https://circuithub.com) | MA, USA/London, UK | Manufacturing/Consulting | [Github](https://github.com/circuithub?language=haskell)
