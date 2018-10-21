@@ -107,7 +107,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [RELEX Solutions](https://www.relexsolutions.com) | Helsinki, Finland | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | No
 [S&P Global](http://www.spglobal.com) | USA - New York, Boston, Denver. India - Gurgaon | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global) [HN](https://news.ycombinator.com/item?id=16062505) [Github](https://github.com/ermine-language/ermine) | No
 [Saltation](http://www.saltation.de) | Bielefeld, Germany | ? | ? | ?
-[Scrive](https://scrive.com) | Stockholm, Sweden | eSigning | [Github](https://github.com/scrive?language=haskell)
+[Scrive](https://scrive.com) | Stockholm, Sweden | eSigning | [Github](https://github.com/scrive?language=haskell) | Yes
 [SEEK](https://www.seek.com.au) | Melbourne, Australia | ? | ? | ?
 [Seller Labs](https://www.sellerlabs.com) | Athens, GA, USA | E-Commerce | [Github](https://github.com/sellerlabs?language=haskell)
 [Sentenai](http://sentenai.com) | Boston, MA, USA | IoT / Databases | [Github](https://github.com/Sentenai) [Angellist](https://angel.co/sentenai) | Negotiable |
