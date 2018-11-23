@@ -82,6 +82,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | Security/AV | ?
 [Keera Studios](http://keera.co.uk) | UK; Spain | Consulting, Mobile Apps, Game Programming | [Github](https://github.com/keera-studios/) | Yes
 [Kitty Hawk](http://www.kittyhawk.aero) | Mountain View, CA, USA | ? | ? | ?
+[KSF Media](https://ksfmedia.fi) | Helsinki, Finland | Media | [Github](https://github.com/KSF-Media) | 
 [Layer 3](https://layer3com.com) | Atlanta, Georgia, USA | Network Security | [Github](https://github.com/layer-3-communications) | Yes
 [Leap Year](http://leapyear.io) | Berkeley, USA | ? | ? | ?
 [Liquid Democracy e.V.](https://liqd.net) | Berlin, Germany | ? | ? | ?
