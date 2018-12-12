@@ -34,7 +34,7 @@ Some of these companies support remote hires. Where that information is availabl
 [BIG MOON](https://www.e-bigmoon.com/) | Aichi, Japan | eCommerce/Watch | [Github](https://github.com/e-bigmoon?language=haskell)
 [Biocad](https://biocad.ru) | Saint Petersburg, Russia | Pharmaceuticals | [Job Ad](https://web.archive.org/web/20171225080836/https://spb.hh.ru/vacancy/23792285?nocookies=whoa)
 [BNP](https://group.bnpparibas/en/) | Paris, France | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
-[ByteAlly](https://byteally.com) | Chennai, India | Consultancy, Supply Chain | [Github](https://github.com/byteally)| No 
+[ByteAlly](https://byteally.com) | Chennai, India | Consultancy, Supply Chain | [Github](https://github.com/byteally)| No
 [Calabrio](http://www.calabrio.com/) | Minneapolis, USA, and Vancouver, Canada | Customer engagement | [Website](http://www.calabrio.com/careers/haskell-engine-developer/)
 [Capital Match](https://www.capital-match.com) | Singapore | Finance | [FunctionalJobs](https://web.archive.org/web/20170805015044/https://functionaljobs.com/jobs/9024-software-engineer-haskell-full-stack-at-capital-match)
 [CircuitHub](https://circuithub.com) | MA, USA/London, UK | Manufacturing/Consulting | [Github](https://github.com/circuithub?language=haskell)
@@ -82,7 +82,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Moscow, Russia | Security/AV | ?
 [Keera Studios](http://keera.co.uk) | UK; Spain | Consulting, Mobile Apps, Game Programming | [Github](https://github.com/keera-studios/) | Yes
 [Kitty Hawk](http://www.kittyhawk.aero) | Mountain View, CA, USA | ? | ? | ?
-[KSF Media](https://ksfmedia.fi) | Helsinki, Finland | Media | [Github](https://github.com/KSF-Media) | 
+[KSF Media](https://ksfmedia.fi) | Helsinki, Finland | Media | [Github](https://github.com/KSF-Media) |
 [Layer 3](https://layer3com.com) | Atlanta, Georgia, USA | Network Security | [Github](https://github.com/layer-3-communications) | Yes
 [Leap Year](http://leapyear.io) | Berkeley, USA | ? | ? | ?
 [Liquid Democracy e.V.](https://liqd.net) | Berlin, Germany | ? | ? | ?
@@ -151,3 +151,4 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Xoken Labs](https://www.xoken.org) | Bangalore, India | Blockchain, Identity | [Github](https://github.com/erkmos/haskell-companies/pull/51) | Yes
 [Zalando](https://zalando.de) | Berlin, Germany | Online fashion store | [Github](https://github.com/erkmos/haskell-companies/pull/33) | No
 [Zoomin Software](https://zoominsoftware.com) | Tel Aviv, Israel | SaaS | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrti3g)
+[Inchora](https://www.inchora.com) | Farnbrough/London, UK | Rental market | [Github](https://github.com/Inchora) | Yes
