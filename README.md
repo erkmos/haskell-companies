@@ -65,6 +65,7 @@ Some of these companies support remote hires. Where that information is availabl
 [GitHub](https://github.com) | San Francisco, CA, USA | Static Analysis | [Job Ad](https://boards.greenhouse.io/github/jobs/1234354) | Yes
 [Grafted-In](https://graftedin.io) | Grand Blanc, MI, USA | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
 [Habito](https://www.habito.com/) | London, UK | Finance | [Job Posting](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
+[Hasura](https://hasura.io/) | Bangalore, India | Developer tools | [Job Posting](https://hasura.io/careers/haskell-developer) | Yes
 [Health eFilings](https://healthefilings.com/) | Madison, WI, USA | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
 [Helium](https://www.helium.com) | Mountain View, CA, USA | ? | ?
 [Henry Labs](http://hihenry.co) | Stockholm, Sweden | Project Management | [Job Ad](https://web.archive.org/web/20180101103312/https://hihenry.com/fullstack-engineer)
