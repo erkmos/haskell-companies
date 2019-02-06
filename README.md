@@ -71,7 +71,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Henry Labs](http://hihenry.co) | Stockholm, Sweden | Project Management | [Job Ad](https://web.archive.org/web/20180101103312/https://hihenry.com/fullstack-engineer)
 [Holland & Hart](https://www.hollandhart.com) | Boulder, Co, USA | Law | ?
 [Holmusk](https://www.holmusk.com) | Singapore | Health | [Reddit](https://www.reddit.com/r/haskell/comments/7zti25/junior_haskell_developer_in_singapore/)
-[Hornet Security](https://www.hornetsecurity.com/en) | Hanover/Berlin, Germany | ? | ?
+[Hornet Security](https://www.hornetsecurity.com/en) | Hanover/Berlin, Germany | ? | [Github](https://github.com/hornetsecurity)
 [Hotwirestudios](https://github.com/hotwirestudios) | Dortmund, Germany | ? | ?
 [IOHK](https://iohk.io) | Remote | Blockchain research | [Github](https://github.com/input-output-hk?language=haskell)| Yes
 [IMVU](http://www.imvu.com) | Silicon Valley, CA, USA | 3D Chat | [Github](https://github.com/imvu?language=haskell)
