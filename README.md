@@ -42,7 +42,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Chordify](https://chordify.homerun.com) | Utrecht, NL | Music | [Reddit](https://web.archive.org/web/20180131045224/https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
 [Chow](https://justchow.com) | Bangalore, India | Food | [Github](https://github.com/just-chow?language=haskell)
 [Clearmatics](http://www.clearmatics.com) | London, UK | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html) | Yes
-[Clearwater Analytics](https://www.clearwater-analytics.com) | Boise, ID, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dko7fdt/)
 [CollegeVine](https://www.collegevine.com/) | Cambridge, MA, USA | Education | [Job Ad](https://web.archive.org/web/20180116121843/https://www.meetup.com/Boston-Haskell/messages/boards/thread/49785085?_cookie-check=04wFKRiwyZvjRh-9)
 [Confer Health](https://www.confer.health) | Boston, MA, USA | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
 [Co-Star](https://www.costarastrology.com/) | New York, NY, USA | Astrology | [Reddit](https://www.reddit.com/r/haskell/comments/8953h8/costar_astrology_is_hiring_a_haskell_developer_in) | No
