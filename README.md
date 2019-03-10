@@ -41,6 +41,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Channable](https://tech.channable.com) | Utrecht, The Netherlands | Marketing | [Github](https://github.com/channable?language=haskell)
 [Chordify](https://chordify.homerun.com) | Utrecht, NL | Music | [Reddit](https://web.archive.org/web/20180131045224/https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
 [Chow](https://justchow.com) | Bangalore, India | Food | [Github](https://github.com/just-chow?language=haskell)
+[CJ Affiliate](https://www.cj.com/) | Los Angeles/Santa Barbara/Westlake Village, CA, USA | Marketing | [GitHub](https://github.com/cjdev?language=haskell) [Job Posting](https://engineering.cj.com/join) | No
 [Clearmatics](http://www.clearmatics.com) | London, UK | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html) | Yes
 [CollegeVine](https://www.collegevine.com/) | Cambridge, MA, USA | Education | [Job Ad](https://web.archive.org/web/20180116121843/https://www.meetup.com/Boston-Haskell/messages/boards/thread/49785085?_cookie-check=04wFKRiwyZvjRh-9)
 [Confer Health](https://www.confer.health) | Boston, MA, USA | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
