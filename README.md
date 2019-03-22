@@ -100,6 +100,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
 [nStack](https://nstack.com) | London, UK | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
 [NEC](https://nz.nec.com/en_NZ/products_solutions/smartcity/index.html) | New Zealand | Smart City | [Reddit](https://www.reddit.com/r/haskell/comments/8ye1h0/explaining_why_our_team_picked_haskell_and_elm/)
+[NoRedInk](https://www.noredink.com) | San Francisco, CA, USA | eLearning | [Github](https://github.com/NoRedInk?language=haskell)
 [Numerai](https://numer.ai) | San Francisco, CA, USA | Finance | [Github](https://github.com/numerai?language=haskell)
 [Obsidian Systems](https://obsidian.systems) | New York, NY, USA | Consulting | [Github](https://github.com/obsidiansystems?language=haskell) | Some cases
 [Oracle Labs](https://labs.oracle.com/) | Remote | Blockchain research | [Github](https://github.com/erkmos/haskell-companies/pull/29)
