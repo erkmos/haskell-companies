@@ -45,7 +45,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Chow](https://justchow.com) | Bangalore, India | Food | [Github](https://github.com/just-chow?language=haskell)
 [CJ Affiliate](https://www.cj.com/) | Los Angeles/Santa Barbara/Westlake Village, CA, USA | Marketing | [GitHub](https://github.com/cjdev?language=haskell) [Job Posting](https://engineering.cj.com/join) | No
 [Clearmatics](http://www.clearmatics.com) | London, UK | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html) | Yes
-[CollegeVine](https://www.collegevine.com/) | Cambridge, MA, USA | Education | [Job Ad](https://web.archive.org/web/20180116121843/https://www.meetup.com/Boston-Haskell/messages/boards/thread/49785085?_cookie-check=04wFKRiwyZvjRh-9)
+[CollegeVine](https://www.collegevine.com/) | Cambridge, MA, USA | Education | [Jobs](https://jobs.lever.co/collegevine?department=R%26D&team=Software%20Engineering), [GitHub](https://github.com/collegevine/), [Blog](https://medium.com/collegevine-engineering) | Yes (US only)
 [Confer Health](https://www.confer.health) | Boston, MA, USA | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
 [Co-Star](https://www.costarastrology.com/) | New York, NY, USA | Astrology | [Reddit](https://www.reddit.com/r/haskell/comments/8953h8/costar_astrology_is_hiring_a_haskell_developer_in) | No
 [CBA](https://www.commbank.com.au) | Sydney, Australia | Finance | [Github](https://github.com/CommBank?language=haskell)
