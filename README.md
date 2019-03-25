@@ -58,7 +58,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Fairvioo](https://www.fairvioo.com) | Paris, France | E-commerce/Social | [Job Ad](https://github.com/Fairvioo/jobs-internship)
 [Formation](https://formation.ai) | San Francisco, CA, USA | Analytics/Marketing | [Github](https://github.com/FormationAI?language=haskell) [Old GitHub](https://github.com/TaktInc?language=haskell) | Some
 [FretLink](https://www.fretlink.com) | Paris, France | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
-[Freckle Education (formerly Front Row)](https://www.freckle.com) | San Francisco, CA, USA | Education | [Github](https://github.com/frontrowed?language=haskell)|Yes
+[Freckle Education (formerly Front Row)](https://www.freckle.com) | San Francisco, CA, USA | Education | [Github](https://github.com/freckle?language=haskell)|Yes
 [FP Complete](https://www.fpcomplete.com) | Remote | Consulting/Training | [Github](https://github.com/fpco?language=haskell)|Yes
 [Fugue](https://fugue.co) | Washington, DC, USA | Automation | ?
 [Futurice](https://futurice.com) | Helsinki, Finland | Software | [Github](https://github.com/futurice?language=haskell) | No
