@@ -76,6 +76,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Hornet Security](https://www.hornetsecurity.com/en) | Hanover/Berlin, Germany | ? | [Github](https://github.com/hornetsecurity)
 [Hotwirestudios](https://github.com/hotwirestudios) | Dortmund, Germany | ? | ?
 [IOHK](https://iohk.io) | Remote | Blockchain research | [Github](https://github.com/input-output-hk?language=haskell)| Yes
+[Indicatrix](http://www.indicatrix.io) | Brisbane, QLD, Australia | SaaS | [Github](https://github.com/indicatrix?language=haskell)
 [IMVU](http://www.imvu.com) | Silicon Valley, CA, USA | 3D Chat | [Github](https://github.com/imvu?language=haskell)
 [Iris Connect](http://www.irisconnect.co.uk) | Brighton, UK | ? | ? | ?
 [ITProTV](https://www.itpro.tv) | Gainesville, FL, USA | eLearning | [Reddit](https://web.archive.org/web/20180215135101/https://www.reddit.com/r/haskell/comments/7xk3wd/jobs_sr_developer_tech_lead_position_at_itprotv/) | Some
@@ -121,7 +122,6 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Siemens Convergence Creators](http://www.convergence-creators.siemens.com) | Vienna, Austria | ? | ? | ?
 [Simply RETS](https://simplyrets.com) | Houston, TX, USA | SaaS (Real Estate) | ?
 [SimSpace](https://simspace.com) | Boston, MA, USA | Computer Security | [Github](https://github.com/Simspace?language=haskell) [AngelList](https://angel.co/simspace/jobs/64261-software-engineer-backend) | Yes (US/CA/Mexico)
-[Sitewisely](http://www.sitewisely.com.au) | Brisbane, QLD, Australia | SaaS | [Github](https://github.com/sitewisely?language=haskell)
 [Skedge](http://skedge.me) | New York, NY, USA | ? | ?
 [Soostone](http://www.soostone.com) | New York, NY, USA | Analytics / Artificial Intelligence | [Github](https://github.com/Soostone?language=haskell) | Yes
 [SQream Technologies](http://www.sqream.com) | Tel Aviv, Israel | ? | ? | ?
