@@ -65,6 +65,7 @@ Some of these companies support remote hires. Where that information is availabl
 [GetShop.TV](http://getshop.tv) | Moscow, Russia | ? | [Reddit](https://www.reddit.com/r/haskell/comments/4z4svh/what_exactly_do_companies_use_haskell_for/d6t1u6w)
 [GitHub](https://github.com) | San Francisco, CA, USA | Static Analysis | [Job Ad](https://boards.greenhouse.io/github/jobs/1234354) | Yes
 [Grafted-In](https://graftedin.io) | Grand Blanc, MI, USA | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
+[Groq](https://groq.com) | Mountain View, CA, USA; Portland, OR, USA | Machine learning hardware & compiler | [Job Posting](https://groq.com/careers/) | Some
 [Habito](https://www.habito.com/) | London, UK | Finance | [Job Posting](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
 [Hasura](https://hasura.io/) | Bangalore, India | Developer tools | [Job Posting](https://hasura.io/careers/haskell-developer) | Yes
 [Health eFilings](https://healthefilings.com/) | Madison, WI, USA | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
