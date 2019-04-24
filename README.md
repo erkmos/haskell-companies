@@ -98,7 +98,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Hamburg, Germany | ? | ? | ?
 [Monad](https://monad.fi/en/) | Tampere, Finland | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Monic](https://monic.co) | New York, NY, USA | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/8zypne/pact_property_checker_smtintegrated_language/)
-[Myrtle Software](https://myrtlesoftware.com) | Cambridge, UK | ? | ? | ?
+[Myrtle Software](https://myrtle.ai) | Cambridge, UK | AI, hardware | ? | No
 [nStack](https://nstack.com) | London, UK | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
 [NEC](https://nz.nec.com/en_NZ/products_solutions/smartcity/index.html) | New Zealand | Smart City | [Reddit](https://www.reddit.com/r/haskell/comments/8ye1h0/explaining_why_our_team_picked_haskell_and_elm/)
 [NoRedInk](https://www.noredink.com) | San Francisco, CA, USA | eLearning | [Github](https://github.com/NoRedInk?language=haskell)
