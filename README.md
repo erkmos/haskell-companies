@@ -38,6 +38,7 @@ Some of these companies support remote hires. Where that information is availabl
 [ByteAlly](https://byteally.com) | Chennai, India | Consultancy, Supply Chain | [Github](https://github.com/byteally)| No
 [Calabrio](http://www.calabrio.com/) | Minneapolis, USA, and Vancouver, Canada | Customer engagement | [Website](http://www.calabrio.com/careers/haskell-engine-developer/)
 [Capital Match](https://www.capital-match.com) | Singapore | Finance | [FunctionalJobs](https://web.archive.org/web/20170805015044/https://functionaljobs.com/jobs/9024-software-engineer-haskell-full-stack-at-capital-match)
+[CentralApp](https://www.centralapp.com) | Brussels, Belgium | Web/SaaS | [Website](https://www.centralapp.com/en/about) | Yes (for similar timezones)
 [CircuitHub](https://circuithub.com) | MA, USA/London, UK | Manufacturing/Consulting | [Github](https://github.com/circuithub?language=haskell)
 [Channable](https://tech.channable.com) | Utrecht, The Netherlands | Marketing | [Github](https://github.com/channable?language=haskell)
 [Chordify](https://chordify.homerun.com) | Utrecht, NL | Music | [Reddit](https://web.archive.org/web/20180131045224/https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
