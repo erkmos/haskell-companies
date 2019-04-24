@@ -158,3 +158,4 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Zalando](https://zalando.de) | Berlin, Germany | Online fashion store | [Github](https://github.com/erkmos/haskell-companies/pull/33) | No
 [Zoomin Software](https://zoominsoftware.com) | Tel Aviv, Israel | SaaS | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrti3g)
 [Inchora](https://www.inchora.com) | Farnbrough/London, UK | Rental market | [Github](https://github.com/Inchora) | Yes
+[FINN.no](https://www.finn.no) | Oslo, Norway | Online Classified Ads | ? | No
