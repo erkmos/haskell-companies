@@ -71,6 +71,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Health eFilings](https://healthefilings.com/) | Madison, WI, USA | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
 [Helium](https://www.helium.com) | Mountain View, CA, USA | ? | ?
 [Henry Labs](http://hihenry.co) | Stockholm, Sweden | Project Management | [Job Ad](https://web.archive.org/web/20180101103312/https://hihenry.com/fullstack-engineer)
+[Hercules Labs](https://hercules-ci.com) | Remote | CI/CD SaaS | [GitHub](https://github.com/hercules-ci) | Yes
 [Holland & Hart](https://www.hollandhart.com) | Boulder, Co, USA | Law | ?
 [Holmusk](https://www.holmusk.com) | Singapore | Health | [Reddit](https://www.reddit.com/r/haskell/comments/7zti25/junior_haskell_developer_in_singapore/)
 [Hornet Security](https://www.hornetsecurity.com/en) | Hanover/Berlin, Germany | ? | [Github](https://github.com/hornetsecurity)
