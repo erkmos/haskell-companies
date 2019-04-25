@@ -56,6 +56,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Facebook](https://www.facebook.com) | London, UK | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Factis Research](http://www.factisresearch.com) | Freiburg, Germany | Medicare | [Github](https://github.com/factisresearch?language=haskell)
 [Fairvioo](https://www.fairvioo.com) | Paris, France | E-commerce/Social | [Job Ad](https://github.com/Fairvioo/jobs-internship)
+[FINN.no](https://www.finn.no) | Oslo, Norway | Online Classified Ads | [Blog](https://web.archive.org/save/https://tech.finn.no/2018/10/18/haskell-at-finn-no/) | No
 [Folq](https://folq.no) | Oslo, Norway | Staffing | [Github](https://github.com/folq) | No
 [Formation](https://formation.ai) | San Francisco, CA, USA | Analytics/Marketing | [Github](https://github.com/FormationAI?language=haskell) [Old GitHub](https://github.com/TaktInc?language=haskell) | Some
 [FretLink](https://www.fretlink.com) | Paris, France | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
@@ -81,6 +82,7 @@ Some of these companies support remote hires. Where that information is availabl
 [IOHK](https://iohk.io) | Remote | Blockchain research | [Github](https://github.com/input-output-hk?language=haskell)| Yes
 [Indicatrix](http://www.indicatrix.io) | Brisbane, QLD, Australia | SaaS | [Github](https://github.com/indicatrix?language=haskell)
 [IMVU](http://www.imvu.com) | Silicon Valley, CA, USA | 3D Chat | [Github](https://github.com/imvu?language=haskell)
+[Inchora](https://www.inchora.com) | Farnbrough/London, UK | Rental market | [Github](https://github.com/Inchora) | Yes
 [Iris Connect](http://www.irisconnect.co.uk) | Brighton, UK | ? | ? | ?
 [ITProTV](https://www.itpro.tv) | Gainesville, FL, USA | eLearning | [Reddit](https://web.archive.org/web/20180215135101/https://www.reddit.com/r/haskell/comments/7xk3wd/jobs_sr_developer_tech_lead_position_at_itprotv/) | Some
 [JP Morgan](https://www.jpmorgan.com) | Brooklyn, NYC, USA | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/3re0kp/jpmorgan_haskell_team_is_hiring/)
@@ -160,5 +162,5 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [Xoken Labs](https://www.xoken.org) | Bangalore, India | Blockchain, Identity | [Github](https://github.com/erkmos/haskell-companies/pull/51) | Yes
 [Zalando](https://zalando.de) | Berlin, Germany | Online fashion store | [Github](https://github.com/erkmos/haskell-companies/pull/33) | No
 [Zoomin Software](https://zoominsoftware.com) | Tel Aviv, Israel | SaaS | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcrti3g)
-[Inchora](https://www.inchora.com) | Farnbrough/London, UK | Rental market | [Github](https://github.com/Inchora) | Yes
-[FINN.no](https://www.finn.no) | Oslo, Norway | Online Classified Ads | ? | No
+
+
