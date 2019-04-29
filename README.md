@@ -26,7 +26,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Arbor Networks](https://www.arbornetworks.com) | Sydney, Australia | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904) | Yes (for similar timezones)
 [Asahi Net](https://asahi-net.jp/en/) | JP | ISP | [Hacker News](https://news.ycombinator.com/item?id=13306004)
 [Assertible](https://assertible.com) | USA | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
-[Awake Security](http://awakesecurity.com) | Mountain View, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/)
+[Awake Security](http://awakesecurity.com) | Sunnyvale, CA, USA | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/) | Yes
 [Azara](https://www.azara.io/) | Boulder, CO, USA | Compliance | [Reddit](https://web.archive.org/web/20180306071153/https://www.reddit.com/r/haskell/comments/827na2/azara_is_hiring/) | Yes
 [Barclays](http://www.barclays.co.uk) | London, UK | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
 [Beautiful Destinations](http://www.beautifuldestinations.com) | London, UK | Travel/Advertising | [Github](https://github.com/BeautifulDestinations?language=haskell)
