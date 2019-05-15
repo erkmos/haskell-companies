@@ -45,7 +45,6 @@ Some of these companies support remote hires. Where that information is availabl
 [CJ Affiliate](https://www.cj.com/) | Los Angeles/Santa Barbara/Westlake Village, CA, USA | Marketing | [GitHub](https://github.com/cjdev?language=haskell) [Job Posting](https://engineering.cj.com/join) | No
 [Clearmatics](http://www.clearmatics.com) | London, UK | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html) | Yes
 [CollegeVine](https://www.collegevine.com/) | Cambridge, MA, USA | Education | [Jobs](https://jobs.lever.co/collegevine?team=Software%20Engineering), [GitHub](https://github.com/collegevine?language=haskell), [Blog](https://medium.com/collegevine-engineering) | Yes (US only)
-[Confer Health](https://www.confer.health) | Boston, MA, USA | Healthcare | [Github](https://github.com/ConferHealth?language=haskell)
 [Co-Star](https://www.costarastrology.com/) | New York, NY, USA | Astrology | [Reddit](https://www.reddit.com/r/haskell/comments/8953h8/costar_astrology_is_hiring_a_haskell_developer_in) | No
 [CBA](https://www.commbank.com.au) | Sydney, Australia | Finance | [Github](https://github.com/CommBank?language=haskell)
 [Data61](https://data61.csiro.au) | Multiple locations, Australia | Research | [Github](https://github.com/data61?language=haskell)
