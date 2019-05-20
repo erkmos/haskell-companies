@@ -26,6 +26,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Arbor Networks](https://www.arbornetworks.com) | Australia, Sydney | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904) | Yes (for similar timezones)
 [Asahi Net](https://asahi-net.jp/en/) | JP | ISP | [Hacker News](https://news.ycombinator.com/item?id=13306004)
 [Assertible](https://assertible.com) | USA | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
+[Atos IT Solutions and Services](https://atos.net/en) | Austria | Aerospace | [Youtube](https://youtu.be/Wu8eJh6OqhI?list=PLp2qifo30hMunt6PW7yXIOTZkixJsZXgA) | 
 [Awake Security](http://awakesecurity.com) | USA, CA, Sunnyvale | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/) | Yes
 [Azara](https://www.azara.io/) | USA, CO, Boulder | Compliance | [Reddit](https://web.archive.org/web/20180306071153/https://www.reddit.com/r/haskell/comments/827na2/azara_is_hiring/) | Yes
 [Barclays](http://www.barclays.co.uk) | UK, London | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
@@ -123,7 +124,6 @@ Karamaan Group | USA, NY, New York | Finance | ?
 [Seller Labs](https://www.sellerlabs.com) | USA, GA, Athens | E-Commerce | [Github](https://github.com/sellerlabs?language=haskell)
 [Sentenai](http://sentenai.com) | USA, MA, Boston | IoT / Databases | [Github](https://github.com/Sentenai) [Angellist](https://angel.co/sentenai) | Negotiable | 
 [Serokell](https://serokell.io) | Russia, Sankt-Petersburg | Consulting, research | [Github](https://github.com/serokell?language=github) | Yes
-[Siemens Convergence Creators](http://www.convergence-creators.siemens.com) | Austria, Vienna | ? | ? | ?
 [Simply RETS](https://simplyrets.com) | USA, TX, Houston | SaaS (Real Estate) | ?
 [SimSpace](https://simspace.com) | USA, MA, Boston | Computer Security | [Github](https://github.com/Simspace?language=haskell) [AngelList](https://angel.co/simspace/jobs/64261-software-engineer-backend) | Yes (US/CA/Mexico)
 [Skedge](http://skedge.me) | USA, NY, New York | ? | ?
