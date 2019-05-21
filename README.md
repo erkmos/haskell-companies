@@ -92,7 +92,7 @@ Karamaan Group | USA, NY, New York | Finance | ?
 [Kitty Hawk](http://www.kittyhawk.aero) | USA, CA, Mountain View | ? | ? | ?
 [KSF Media](https://ksfmedia.fi) | Finland, Helsinki | Media | [Github](https://github.com/KSF-Media) | 
 [Layer 3](https://layer3com.com) | USA, Georgia, Atlanta | Network Security | [Github](https://github.com/layer-3-communications) | Yes
-[Leap Year](http://leapyear.io) | USA, Berkeley | ? | ? | ?
+[LeapYear](http://leapyear.io) | USA, Berkeley | Machine Learning, Data Privacy | [Github](https://github.com/LeapYear) | Some
 [Liquid Democracy e.V.](https://liqd.net) | Germany, Berlin | ? | ? | ?
 [Lumi](https://www.lumi.com) | USA, CA, Los Angeles | Packaging | [Stack Overflow](https://liqui.io/balances/?action=withdraw&id=625095&code=4n1h6vq3pcafr08kicghwgzig5hocx0mqnqipcee9wxe82vjdycmc0uvh5ast3dc) | Yes
 [Lumiguide](https://lumiguide.eu) | Netherlands, Nijmegen | Smart cities | [Github](https://github.com/LumiGuide?language=haskell)
