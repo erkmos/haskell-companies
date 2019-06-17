@@ -102,6 +102,7 @@ Karamaan Group | USA, NY, New York | Finance | ?
 [MailOnline](http://dailymail.co.uk) | UK, London | Media | [Github](https://github.com/MailOnline?language=haskell)
 [Mercury](http://www.mercury.co) | USA, CA, San Francisco | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/)
 [Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Germany, Hamburg | ? | ? | ?
+[Metrix.AI](https://www.metrix.ai) | Moscow, Russia | Martech | [Github](https://github.com/metrix-ai?language=haskell)
 [Monad](https://monad.fi/en/) | Finland, Tampere | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Monadfix](https://monadfix.io) | Multiple locations | Consulting/Training | [Website](https://monadfix.io) | Yes
 [Monic](https://monic.co) | USA, NY, New York | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/8zypne/pact_property_checker_smtintegrated_language/)
