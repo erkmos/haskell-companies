@@ -120,7 +120,7 @@ Karamaan Group | USA, NY, New York | Finance | ?
 [Position Development](https://positiondev.com) | USA, NY, New York | Consulting | [Github](https://github.com/positiondev) | No
 [Prezi](https://prezi.com) | Hungary, Budapest | ? | ? | ?
 [Proda](https://www.proda.ai/) | UK, London | Property data | [Job ad](https://www.proda.ai/senior-full-stack-engineer) ([GCache if it goes](https://webcache.googleusercontent.com/search?q=cache:z3Zbs7jaY8MJ:https://www.proda.ai/senior-full-stack-engineer+&cd=1&hl=en&ct=clnk&gl=us)) | Potential
-[RELEX Solutions](https://www.relexsolutions.com) | Finland, Helsinki | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | No
+[RELEX Solutions](https://www.relexsolutions.com) | Finland, Helsinki | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | EU or USA
 [S&P Global](http://www.spglobal.com) | Denver. India - Gurgaon, Boston, USA - New York | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global) [HN](https://news.ycombinator.com/item?id=16062505) [Github](https://github.com/ermine-language/ermine) | No
 [Saltation](http://www.saltation.de) | Germany, Bielefeld | ? | ? | ?
 [Scrive](https://scrive.com) | Sweden, Stockholm | eSigning | [Github](https://github.com/scrive?language=haskell) | Yes
