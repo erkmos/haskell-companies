@@ -136,7 +136,7 @@ Karamaan Group | USA, NY, New York | Finance | ?
 [SQream Technologies](http://www.sqream.com) | Israel, Tel Aviv | ? | ? | ?
 [StackBuilders](https://www.stackbuilders.com) | Ecuador, USA/Quito, NYC | ? | ? | ?
 [Stage N/Unison](http://unisonweb.org/) | USA, MA, Boston | ? | ? | ?
-[Standard Chartered](https://www.sc.com) | UK/Singapore | ? | ? | ?
+[Standard Chartered](https://www.sc.com) | UK/Singapore/Poland | Banking | ? | No
 [Stilo](http://stilo.com) | Canada, Ottawa | ? | ? | ?
 [SumAll](https://sumall.ai) | USA, NY, New York | Artificial Intelligence | [Reddit](https://www.reddit.com/r/haskell/comments/8ve1jr/sumall_on_java_to_haskell/) | Yes
 [Superpowers Corp](https://www.superpowerscorp.com) | USA, CO, Boulder | Software | Some cases
@@ -160,7 +160,7 @@ Karamaan Group | USA, NY, New York | Finance | ?
 [Urbint](https://urbint.com/) | USA, NY, New York | Infrastructure planning | [Github](https://github.com/urbint?utf8=%E2%9C%93&q=&type=source&language=haskell)
 [Vacation Labs](https://www.vacationlabs.com/) | India, Goa | Travel/Saas | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknz5fd) | Yes
 [Vente Privée](https://secure.uk.vente-privee.com/authentication/portal/EN) | France, Paris | Sales | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
-[Well-Typed](http://www.well-typed.com) | UK, London | Consulting | [Github](https://github.com/well-typed?language=haskell)
+[Well-Typed](http://www.well-typed.com) | UK, London | Consulting | [Github](https://github.com/well-typed?language=haskell) | Yes
 [Wire Swiss](https://wire.com) | Switzerland | Chat | [Github](https://github.com/wireapp?language=haskell)
 [Wrinkl](https://www.wrinkl.com) | USA, NYC/Philadelphia | Messaging | [Job Ad](https://web.archive.org/web/20171001101257/https://haskellweekly.news/issues/74.html) | Yes
 [Xoken Labs](https://www.xoken.org) | India, Bangalore | Blockchain, Identity | [Github](https://github.com/erkmos/haskell-companies/pull/51) | Yes
