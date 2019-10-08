@@ -56,7 +56,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Digital Asset](https://digitalasset.com) | USA, Hungary, Australia, Switzerland | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
 [Facebook](https://www.facebook.com) | UK, London | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Factis Research](http://www.factisresearch.com) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell)
-[Fairvioo](https://www.fairvioo.com) | France, Paris | E-commerce/Social | [Job Ad](https://github.com/Fairvioo/jobs-internship)
 [FINN.no](https://www.finn.no) | Norway, Oslo | Online Classified Ads | [Blog](https://web.archive.org/save/https://tech.finn.no/2018/10/18/haskell-at-finn-no/) | No
 [Folq](https://folq.no) | Norway, Oslo | Staffing | [Github](https://github.com/folq) | No
 [Formation](https://formation.ai) | USA, CA, San Francisco | Analytics/Marketing | [Github](https://github.com/FormationAI?language=haskell) [Old GitHub](https://github.com/TaktInc?language=haskell) | Some
