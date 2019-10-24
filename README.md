@@ -153,7 +153,7 @@ Karamaan Group | USA, NY, New York | Finance | ?
 [Tsuru Capital](http://www.tsurucapital.com) | Japan, Tokyo | Finance | [Github](https://github.com/tsurucapital?language=haskell) [Reddit](https://www.reddit.com/r/haskell/comments/7ysft5/tsuru_is_hiring/)
 [TVision Insights](http://tvisioninsights.com) | USA, MA, Boston | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
 [Tweag](http://www.tweag.io) | France, Paris | HPC Research | [Github](https://github.com/tweag?language=haskell) | Yes
-[Typeable](https://typeable.io) | Russia, Moscow | Travel/Software | [Github](https://github.com/typeable?language=haskell)
+[Typeable](https://typeable.io) | Russia, Moscow | Consulting | [Github](https://github.com/typeable?language=haskell)
 [Typelead](http://www.typelead.com) | India, Bangalore | Programming Language (Eta) | [Github](https://github.com/typelead)
 [Uphere.ai](https://www.uphere.ai) | USA, CA, San Francisco | Data analytics | [Reddit](https://web.archive.org/web/20171127052230/https://www.reddit.com/r/NixOS/comments/5dz8fp/list_of_companies_using_nixos/dfalhqm/)
 [Urbint](https://urbint.com/) | USA, NY, New York | Infrastructure planning | [Github](https://github.com/urbint?utf8=%E2%9C%93&q=&type=source&language=haskell)
