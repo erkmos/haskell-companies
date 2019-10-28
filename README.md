@@ -21,6 +21,7 @@ Some of these companies support remote hires. Where that information is availabl
 [AlasConnect](http://alasconnect.com) | USA, AK, Anchorage - Fairbanks - Palmer | IT/Telecom | [Github](https://github.com/alasconnect)
 [Alphasheets](http://www.alphasheets.com) | USA, CA, San Francisco | Business software | [Reddit](https://www.reddit.com/r/haskell/comments/4hlkls/haskell_jobs_alphasheets_coding_in_a_spreadsheet/) | Contractors
 [Ambiata](http://ambiata.com) | Australia, Sydney | Marketing | [Github](https://github.com/ambiata?language=haskell)
+[American Museum of Natural History](https://www.amnh.org/research/computational-sciences) | USA, NY, New York | Phylogenetics Research | [Github](https://github.com/amnh/pcg) | No
 [Anduril Industries](https://www.anduril.com/) | USA, CA, Orange County | Computer Vision | [Haskell-cafe](https://mail.haskell.org/pipermail/haskell-cafe/2018-April/128873.html)
 [Applikativ](http://applikativ.no) | Norway, Stavanger | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_usa/dcpy8mp/)
 [Arbor Networks](https://www.arbornetworks.com) | Australia, Sydney | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904) | Yes (for similar timezones)
