@@ -83,6 +83,7 @@ Some of these companies support remote hires. Where that information is availabl
 [IMVU](http://www.imvu.com) | USA, CA, Silicon Valley | 3D Chat | [Github](https://github.com/imvu?language=haskell)
 [Inchora](https://www.inchora.com) | UK, Farnbrough/London | Rental market | [Github](https://github.com/Inchora) | Yes
 [Indicatrix](http://www.indicatrix.io) | Australia, QLD, Brisbane | SaaS | [Github](https://github.com/indicatrix?language=haskell)
+[Interos](https://www.interos.ai/) | Arlington, VA and Menlo Park, CA | Supply Chain Risk Management | [Github](https://github.com/interosinc/) | Not Yet
 [IOHK](https://iohk.io) | Remote | Blockchain research | [Github](https://github.com/input-output-hk?language=haskell) | Yes
 [Iris Connect](http://www.irisconnect.co.uk) | UK, Brighton | ? | ? | ?
 [ITProTV](https://www.itpro.tv) | USA, FL, Gainesville | eLearning | [Reddit](https://web.archive.org/web/20180215135101/https://www.reddit.com/r/haskell/comments/7xk3wd/jobs_sr_developer_tech_lead_position_at_itprotv/) | Some
@@ -139,7 +140,6 @@ Karamaan Group | USA, NY, New York | Finance | ?
 [Standard Chartered](https://www.sc.com) | UK/Singapore/Poland | Banking | ? | No
 [Stilo](http://stilo.com) | Canada, Ottawa | ? | ? | ?
 [SumAll](https://sumall.ai) | USA, NY, New York | Artificial Intelligence | [Reddit](https://www.reddit.com/r/haskell/comments/8ve1jr/sumall_on_java_to_haskell/) | Yes
-[Superpowers Corp](https://www.superpowerscorp.com) | USA, CO, Boulder | Software | Some cases
 [Swift Navigation](https://www.swiftnav.com) | USA, CA, San Francisco | GNSS Software | [Github](https://github.com/swift-nav?language=haskell)
 [Symbiont](https://symbiont.io) | USA, NY, New York | Private Blockchain | [Github](https://github.com/symbiont-io) | No
 [Systor Vest](http://systorvest.no) | Norway, Stavanger | ? | ? | ?
