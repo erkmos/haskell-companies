@@ -55,6 +55,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Decathlon](https://www.decathlon.fr) | Lille, France | Retail | ? | No
 [Dfinity](https://dfinity.org) | Switzerland, USA/Zug, CA, Palo Alto | Blockchain Research | [Reddit](https://web.archive.org/web/20171010001655/https://www.reddit.com/r/haskell/comments/754346/general_questions_about_the_haskell_landscape_in/do58zog)
 [Digital Asset](https://digitalasset.com) | USA, Hungary, Australia, Switzerland | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
+[DrieBit](https://www.driebit.nl) | The Netherlands, Amsterdam | Web applications | [Job Ad](https://web.archive.org/web/20191101214309/https://haskellweekly.news/issue/181.html) | No
 [Facebook](https://www.facebook.com) | UK, London | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Factis Research](http://www.factisresearch.com) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell)
 [FINN.no](https://www.finn.no) | Norway, Oslo | Online Classified Ads | [Blog](https://web.archive.org/save/https://tech.finn.no/2018/10/18/haskell-at-finn-no/) | No
@@ -122,6 +123,7 @@ Karamaan Group | USA, NY, New York | Finance | ?
 [Position Development](https://positiondev.com) | USA, NY, New York | Consulting | [Github](https://github.com/positiondev) | No
 [Prezi](https://prezi.com) | Hungary, Budapest | ? | ? | ?
 [Proda](https://www.proda.ai/) | UK, London | Property data | [Job ad](https://www.proda.ai/senior-full-stack-engineer) ([GCache if it goes](https://webcache.googleusercontent.com/search?q=cache:z3Zbs7jaY8MJ:https://www.proda.ai/senior-full-stack-engineer+&cd=1&hl=en&ct=clnk&gl=us)) | Potential
+[QBayLogic](https://qbaylogic.com) | The Netherlands, Enschede | Hardware design tooling | [Reddit](https://web.archive.org/web/20191121031748/https://www.reddit.com/r/haskell/comments/d3cwmi/job_qbaylogic_is_hiring/) | No
 [RELEX Solutions](https://www.relexsolutions.com) | Finland, Helsinki | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | EU or USA
 [S&P Global](http://www.spglobal.com) | Denver. India - Gurgaon, Boston, USA - New York | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global) [HN](https://news.ycombinator.com/item?id=16062505) [Github](https://github.com/ermine-language/ermine) | No
 [Saltation](http://www.saltation.de) | Germany, Bielefeld | ? | ? | ?
