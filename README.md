@@ -23,7 +23,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Ambiata](http://ambiata.com) | Australia, Sydney | Marketing | [Github](https://github.com/ambiata?language=haskell)
 [American Museum of Natural History](https://www.amnh.org/research/computational-sciences) | United States, NY, New York | Phylogenetics Research | [Github](https://github.com/amnh/pcg) | No
 [Anduril Industries](https://www.anduril.com/) | United States, CA, Orange County | Computer Vision | [Haskell-cafe](https://mail.haskell.org/pipermail/haskell-cafe/2018-April/128873.html)
-[Applikativ](http://applikativ.no) | Norway, Stavanger | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United States/dcpy8mp/)
+[Applikativ](http://applikativ.no) | Norway, Stavanger | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United_States/dcpy8mp)
 [Arbor Networks](https://www.arbornetworks.com) | Australia, Sydney | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904) | Yes (for similar timezones)
 [Asahi Net](https://asahi-net.jp/en/) | Japan | ISP | [Hacker News](https://news.ycombinator.com/item?id=13306004)
 [Assertible](https://assertible.com) | United States | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
@@ -151,7 +151,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [ThoughtLeadr](http://www.thoughtleadr.com) | United States; Worldwide, TX, Austin | Advertisement/Analytics | [Github](https://github.com/ThoughtLeadr?q=&type=source&language=haskell) | Yes
 [Tocoman](https://tocoman.fi/en) | Finland, Helsinki | Planning software | [Reddit](https://web.archive.org/web/20180128122009/https://www.reddit.com/r/haskell/comments/7rhfot/haskell_job_opportunity_at_tocoman_in_helsinki/)
 [Tracsis](https://www.tracsis.com) | United Kingdom, Leeds | Railway Timetabling | [Job Ad](https://tracsis.com/careers/20180905-senior-software-developer-) | No
-[Trigram](http://trigram.no) | Norway, Stavanger | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United States/dcrbn1q)
+[Trigram](http://trigram.no) | Norway, Stavanger | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United_States/dcrbn1q)
 [Tripshot](https://www.tripshot.com) | United States, OR/Remote, Portland | Logistics planning | [Github](https://github.com/Tripshot?language=haskell) | with US work permit
 [Tsuru Capital](http://www.tsurucapital.com) | Japan, Tokyo | Finance | [Github](https://github.com/tsurucapital?language=haskell) [Reddit](https://www.reddit.com/r/haskell/comments/7ysft5/tsuru_is_hiring/)
 [TVision Insights](http://tvisioninsights.com) | United States, MA, Boston | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
@@ -167,4 +167,4 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Wrinkl](https://www.wrinkl.com) | United States, NYC/Philadelphia | Messaging | [Job Ad](https://web.archive.org/web/20171001101257/https://haskellweekly.news/issues/74.html) | Yes
 [Xoken Labs](https://www.xoken.org) | India, Bangalore | Blockchain, Identity | [Github](https://github.com/erkmos/haskell-companies/pull/51) | Yes
 [Zalando](https://zalando.de) | Germany, Berlin | Online fashion store | [Github](https://github.com/erkmos/haskell-companies/pull/33) | No
-[Zoomin Software](https://zoominsoftware.com) | Israel, Tel Aviv | SaaS | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United States/dcrti3g)
+[Zoomin Software](https://zoominsoftware.com) | Israel, Tel Aviv | SaaS | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United_States/dcrti3g)
