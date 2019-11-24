@@ -67,6 +67,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Fugue](https://fugue.co) | United States, DC, Washington | Automation | ?
 [Futurice](https://futurice.com) | Finland, Helsinki | Software | [Github](https://github.com/futurice?language=haskell) | No
 [Galois](https://galois.com) | United States, Oregon, Portland | Consulting/Research | ?
+[Global Access](https://global.de) | Germany, Munich | Data Center | ?
 [GetShop.TV](http://getshop.tv) | Russia, Moscow | ? | [Reddit](https://www.reddit.com/r/haskell/comments/4z4svh/what_exactly_do_companies_use_haskell_for/d6t1u6w)
 [GitHub](https://github.com) | United States, CA, San Francisco | Static Analysis | [Job Ad](https://boards.greenhouse.io/github/jobs/1234354) | Yes
 [Grafted-In](https://graftedin.io) | United States, MI, Grand Blanc | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
