@@ -67,9 +67,9 @@ Some of these companies support remote hires. Where that information is availabl
 [Fugue](https://fugue.co) | United States, DC, Washington | Automation | ?
 [Futurice](https://futurice.com) | Finland, Helsinki | Software | [Github](https://github.com/futurice?language=haskell) | No
 [Galois](https://galois.com) | United States, Oregon, Portland | Consulting/Research | ?
-[Global Access](https://global.de) | Germany, Munich | Data Center | ?
 [GetShop.TV](http://getshop.tv) | Russia, Moscow | ? | [Reddit](https://www.reddit.com/r/haskell/comments/4z4svh/what_exactly_do_companies_use_haskell_for/d6t1u6w)
 [GitHub](https://github.com) | United States, CA, San Francisco | Static Analysis | [Job Ad](https://boards.greenhouse.io/github/jobs/1234354) | Yes
+[Global Access](https://global.de) | Germany, Munich | Data Center | [Github](https://web.archive.org/web/20191125055032/https://github.com/erkmos/haskell-companies/pull/129)
 [Grafted-In](https://graftedin.io) | United States, MI, Grand Blanc | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
 [Groq](https://groq.com) | United States, OR, United States; Portland, CA, Mountain View | Machine learning hardware & compiler | [Job Posting](https://groq.com/careers/) | Some
 [Habito](https://www.habito.com/) | United Kingdom, London | Finance | [Job Posting](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
