@@ -149,6 +149,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Tesla](https://www.tesla.com) | United States, CA, Palo Alto | Automotive | [Reddit](https://redd.it/8smtw0)
 [The UNIX Man Consulting](https://theunixman.com/) | United States | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
 [ThoughtLeadr](http://www.thoughtleadr.com) | United States; Worldwide, TX, Austin | Advertisement/Analytics | [Github](https://github.com/ThoughtLeadr?q=&type=source&language=haskell) | Yes
+[Tiko](https://tiko.energy/) | Zurich, Switzerland/Milan, Italy | Energy management | [Job Ad](https://www.reddit.com/r/haskell/comments/at19i2/haskell_job_opportunity_at_tikoch_in_zurich_area/) [Job Ad](https://www.linkedin.com/jobs/view/1563333504) | ? |
 [Tocoman](https://tocoman.fi/en) | Finland, Helsinki | Planning software | [Reddit](https://web.archive.org/web/20180128122009/https://www.reddit.com/r/haskell/comments/7rhfot/haskell_job_opportunity_at_tocoman_in_helsinki/)
 [Tracsis](https://www.tracsis.com) | United Kingdom, Leeds | Railway Timetabling | [Job Ad](https://tracsis.com/careers/20180905-senior-software-developer-) | No
 [Trigram](http://trigram.no) | Norway, Stavanger | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United_States/dcrbn1q)
