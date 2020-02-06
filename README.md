@@ -73,6 +73,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Grafted-In](https://graftedin.io) | United States, MI, Grand Blanc | Custom dev and online marketing | [GitHub](https://github.com/grafted-in)
 [Groq](https://groq.com) | United States, OR, United States; Portland, CA, Mountain View | Machine learning hardware & compiler | [Job Posting](https://groq.com/careers/) | Some
 [Habito](https://www.habito.com/) | United Kingdom, London | Finance | [Job Posting](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
+[Hackworth](https://www.hackworthltd.uk/) | United Kingdom, London | Education | [Job Posting](https://web.archive.org/web/20200206122051/https://www.hackworthltd.uk/jobs/20200204/) | No
 [Hasura](https://hasura.io/) | India, Bangalore | Developer tools | [Job Posting](https://hasura.io/careers/haskell-developer) | Yes
 [Health eFilings](https://healthefilings.com/) | United States, WI, Madison | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
 [Helium](https://www.helium.com) | United States, CA, Mountain View | ? | ?
