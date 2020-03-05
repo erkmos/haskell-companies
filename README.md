@@ -1,7 +1,14 @@
 ## A List of companies that use Haskell
 This list has been made in collaboration with members of [/r/haskell](https://www.reddit.com/r/haskell)
 
-There is also a [similar list for PureScript](https://github.com/ajnsit/purescript-companies) and [F#](https://github.com/Kavignon/fsharp-companies)
+#### Similar lists
+
+There are a few other lists like this for other languages that might be of interest to a reader of this one.
+
+* [Elixir](https://github.com/beam-community/elixir-companies)
+* [Elm](https://github.com/jah2488/elm-companies)
+* [F#](https://github.com/Kavignon/fsharp-companies)
+* [PureScript](https://github.com/ajnsit/purescript-companies)
 
 #### Updates
 If you see a company on the list that doesn't exist anymore, or does not use Haskell anymore, please send a pull request with an explanation. The same goes if you're currently working at, or know a company that uses Haskell but is not on the list. Please include the website, github (if applicable), locations, sector and whether the company allows developers to work remotely.
