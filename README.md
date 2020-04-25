@@ -146,6 +146,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [SimSpace](https://simspace.com) | United States, MA, Boston | Computer Security | [Github](https://github.com/Simspace?language=haskell) [AngelList](https://angel.co/simspace/jobs/64261-software-engineer-backend) | Yes (US/CA/Mexico)
 [Skedge](http://skedge.me) | United States, NY, New York | ? | ?
 [Soostone](http://www.soostone.com) | United States, NY, New York | Analytics / Artificial Intelligence | [Github](https://github.com/Soostone?language=haskell) | Yes
+[Southern Exposure Seed Exchange](https://www.southernexposure.com/) | United States, VA, Mineral | eCommerce /Agriculture/Gardening | [Github](https://github.com/Southern-Exposure-Seed-Exchange?q=&type=&language=haskell) | No
 [SQream Technologies](http://www.sqream.com) | Israel, Tel Aviv | ? | ? | ?
 [StackBuilders](https://www.stackbuilders.com) | Ecuador, United States/Quito, NYC | ? | ? | ?
 [Stage N/Unison](http://unisonweb.org/) | United States, MA, Boston | ? | ? | ?
