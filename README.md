@@ -62,6 +62,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Decathlon](https://www.decathlon.fr) | France, Lille | Retail | ? | No
 [Dfinity](https://dfinity.org) | Switzerland, Zug; United States, CA, Palo Alto | Blockchain Research | [Reddit](https://web.archive.org/web/20171010001655/https://www.reddit.com/r/haskell/comments/754346/general_questions_about_the_haskell_landscape_in/do58zog)
 [Digital Asset](https://digitalasset.com) | United States, Hungary, Australia, Switzerland | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
+[Dolla](https://dolla.org) | Remote | Consortium Blockchain | [Github](https://github.com/dolla-consortium) | Yes
 [DrieBit](https://www.driebit.nl) | Netherlands, Amsterdam | Web applications | [Job Ad](https://web.archive.org/web/20191101214309/https://haskellweekly.news/issue/181.html) | No
 [Facebook](https://www.facebook.com) | United Kingdom, London | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Factis Research](http://www.factisresearch.com) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell)
