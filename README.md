@@ -48,6 +48,7 @@ Some of these companies support remote hires. Where that information is availabl
 [ByteAlly](https://byteally.com) | India, Chennai | Consultancy, Supply Chain | [Github](https://github.com/byteally) | No
 [Calabrio](http://www.calabrio.com/) | Canada, Vancouver; United States, Minneapolis | Customer engagement | [Website](http://www.calabrio.com/careers/haskell-engine-developer/)
 [Capital Match](https://www.capital-match.com) | Singapore | Finance | [FunctionalJobs](https://web.archive.org/web/20170805015044/https://functionaljobs.com/jobs/9024-software-engineer-haskell-full-stack-at-capital-match)
+[CarbonCloud](https://www.carboncloud.io) | Sweden, Göteborg | Supply chain climate sustainability 
 [CBA](https://www.commbank.com.au) | Australia, Sydney | Finance | [Github](https://github.com/CommBank?language=haskell)
 [CentralApp](https://www.centralapp.com) | Belgium, Brussels | Web/SaaS | [Website](https://www.centralapp.com/en/about) | Yes (for similar timezones)
 [Channable](https://tech.channable.com) | Netherlands, Utrecht | Marketing | [Github](https://github.com/channable?language=haskell)
