@@ -58,6 +58,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Clearmatics](http://www.clearmatics.com) | United Kingdom, London | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html) | Yes
 [Co-Star](https://www.costarastrology.com/) | United States, NY, New York | Astrology | [Reddit](https://www.reddit.com/r/haskell/comments/8953h8/costar_astrology_is_hiring_a_haskell_developer_in) | No
 [CollegeVine](https://www.collegevine.com/) | United States, MA, Cambridge | Education | [Jobs](https://jobs.lever.co/collegevine?team=Software%20Engineering), [GitHub](https://github.com/collegevine?language=haskell), [Blog](https://medium.com/collegevine-engineering) | Yes (US only)
+[Cryptium Labs](https://cryptium.ch/) | Switzerland | Blockchain research | [Job Ad](https://functional.works-hub.com/jobs/remote-blockchain-protocol-developer-7d929) | Yes
 [Data61](https://data61.csiro.au) | Australia, Multiple locations | Research | [Github](https://github.com/data61?language=haskell)
 [Databrary](https://www.databrary.org) | United States, NY, New York | Research Data | [Job Ad](http://web.archive.org/web/20170819192506/https://www.databrary.org/about/jobs/back-end.html)
 [Decathlon](https://www.decathlon.fr) | France, Lille | Retail | ? | No
