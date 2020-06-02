@@ -175,6 +175,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Typelead](http://www.typelead.com) | India, Bangalore | Programming Language (Eta) | [Github](https://github.com/typelead)
 [Uphere.ai](https://www.uphere.ai) | United States, CA, San Francisco | Data analytics | [Reddit](https://web.archive.org/web/20171127052230/https://www.reddit.com/r/NixOS/comments/5dz8fp/list_of_companies_using_nixos/dfalhqm/)
 [Vacation Labs](https://www.vacationlabs.com/) | India, Goa | Travel/Saas | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknz5fd) | Yes
+[Veitch Lister Consulting](https://veitchlister.com.au/) | Australia, Multiple locations | Logistics/Transportation	| [Github](https://github.com/vlc)
 [Vente Privée](https://secure.uk.vente-privee.com/authentication/portal/EN) | France, Paris | Sales | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Well-Typed](http://www.well-typed.com) | United Kingdom, London | Consulting | [Github](https://github.com/well-typed?language=haskell) | Yes
 [Wire Swiss](https://wire.com) | Switzerland | Chat | [Github](https://github.com/wireapp?language=haskell)
