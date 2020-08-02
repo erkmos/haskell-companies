@@ -67,7 +67,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Dolla](https://dolla.org) | Remote | Consortium Blockchain | [Github](https://github.com/dolla-consortium) | Yes
 [DrieBit](https://www.driebit.nl) | Netherlands, Amsterdam | Web applications | [Job Ad](https://web.archive.org/web/20191101214309/https://haskellweekly.news/issue/181.html) | No
 [Facebook](https://www.facebook.com) | United Kingdom, London | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
-[Factis Research](http://www.factisresearch.com) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell)
 [FINN.no](https://www.finn.no) | Norway, Oslo | Online Classified Ads | [Blog](https://web.archive.org/save/https://tech.finn.no/2018/10/18/haskell-at-finn-no/) | No
 [Folq](https://folq.no) | Norway, Oslo | Staffing | [Github](https://github.com/folq) | No
 [Formation](https://formation.ai) | United States, CA, San Francisco | Analytics/Marketing | [Github](https://github.com/FormationAI?language=haskell) [Old GitHub](https://github.com/TaktInc?language=haskell) | Some
@@ -116,6 +115,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Lumiguide](https://lumiguide.eu) | Netherlands, Nijmegen | Smart cities | [Github](https://github.com/LumiGuide?language=haskell)
 [MackeyRMS](https://mackeyrms.com) | United States, MA, Boston | Financial research SaaS | [Twitter](https://twitter.com/MackeyRMS/status/897802158774603776) | No
 [MailOnline](http://dailymail.co.uk) | United Kingdom, London | Media | [Github](https://github.com/MailOnline?language=haskell)
+[Medilyse](https://www.cpmed.de/) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell) | No
 [Mercury](http://www.mercury.co) | United States, CA, San Francisco | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/)
 [Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Germany, Hamburg | ? | ? | ?
 [Metrix.AI](https://www.metrix.ai) | Moscow, Russia | Martech | [Github](https://github.com/metrix-ai?language=haskell)
