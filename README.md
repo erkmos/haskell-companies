@@ -124,6 +124,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Myrtle Software](https://myrtle.ai) | United Kingdom, Cambridge | AI, hardware | ? | No
 [NEC](https://nz.nec.com/en_NZ/products_solutions/smartcity/index.html) | New Zealand | Smart City | [Reddit](https://www.reddit.com/r/haskell/comments/8ye1h0/explaining_why_our_team_picked_haskell_and_elm/)
 [NoRedInk](https://www.noredink.com) | United States, CA, San Francisco | eLearning | [Github](https://github.com/NoRedInk?language=haskell)
+[NovaDiscovery](https://www.novadiscovery.com) | France, Lyon | HealthTech | [Github](https://github.com/novadiscovery?language=haskell) | Some cases (in a close time zone)
 [nStack](https://nstack.com) | United Kingdom, London | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
 [Numerai](https://numer.ai) | United States, CA, San Francisco | Finance | [Github](https://github.com/numerai?language=haskell)
 [Obsidian Systems](https://obsidian.systems) | United States, NY, New York | Consulting | [Github](https://github.com/obsidiansystems?language=haskell) | Some cases
