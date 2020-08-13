@@ -145,7 +145,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [SEEK](https://www.seek.com.au) | Australia, Melbourne | ? | ? | ?
 [Seller Labs](https://www.sellerlabs.com) | United States, GA, Athens | E-Commerce | [Github](https://github.com/sellerlabs?language=haskell)
 [Sentenai](http://sentenai.com) | United States, MA, Boston | IoT / Databases | [Github](https://github.com/Sentenai) [Angellist](https://angel.co/sentenai) | Negotiable | 
-[Serokell](https://serokell.io) | Russia, Sankt-Petersburg | Consulting, research | [Github](https://github.com/serokell?language=github) | Yes
+[Serokell](https://serokell.io) | Estonia, Tallinn | Consulting, research | [Github](https://github.com/serokell?language=github) | Yes
 [Simply RETS](https://simplyrets.com) | United States, TX, Houston | SaaS (Real Estate) | ?
 [SimSpace](https://simspace.com) | United States, MA, Boston | Computer Security | [Github](https://github.com/Simspace?language=haskell) [AngelList](https://angel.co/simspace/jobs/64261-software-engineer-backend) | Yes (US/CA/Mexico)
 [Skedge](http://skedge.me) | United States, NY, New York | ? | ?
