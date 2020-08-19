@@ -76,7 +76,7 @@ Some of these companies support remote hires. Where that information is availabl
 [FretLink](https://www.fretlink.com) | France, Paris | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Fugue](https://fugue.co) | United States, DC, Washington | Automation | ?
 [Futurice](https://futurice.com) | Finland, Helsinki | Software | [Github](https://github.com/futurice?language=haskell) | No
-[Galois](https://galois.com) | United States, Oregon, Portland | Consulting/Research | ?
+[Galois](https://galois.com) | United States, Oregon, Portland | Consulting/Research | [Github](https://github.com/galoisinc)
 [GetShop.TV](http://getshop.tv) | Russia, Moscow | ? | [Reddit](https://www.reddit.com/r/haskell/comments/4z4svh/what_exactly_do_companies_use_haskell_for/d6t1u6w)
 [GitHub](https://github.com) | United States, CA, San Francisco | Static Analysis | [Job Ad](https://boards.greenhouse.io/github/jobs/1234354) | Yes
 [Global Access](https://global.de) | Germany, Munich | Data Center | [Github](https://web.archive.org/web/20191125055032/https://github.com/erkmos/haskell-companies/pull/129)
