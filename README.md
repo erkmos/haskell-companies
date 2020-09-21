@@ -156,7 +156,6 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Stage N/Unison](http://unisonweb.org/) | United States, MA, Boston | ? | ? | ?
 [Standard Chartered](https://www.sc.com) | United Kingdom/Singapore/Poland | Banking | ? | No
 [Stilo](http://stilo.com) | Canada, Ottawa | ? | ? | ?
-[SumAll](https://sumall.ai) | United States, NY, New York | Artificial Intelligence | [Reddit](https://www.reddit.com/r/haskell/comments/8ve1jr/sumall_on_java_to_haskell/) | Yes
 [Swift Navigation](https://www.swiftnav.com) | United States, CA, San Francisco | GNSS Software | [Github](https://github.com/swift-nav?language=haskell)
 [Symbiont](https://symbiont.io) | United States, NY, New York | Private Blockchain | [Github](https://github.com/symbiont-io) | Yes
 [Systor Vest](http://systorvest.no) | Norway, Stavanger | ? | ? | ?
