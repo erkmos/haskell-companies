@@ -24,7 +24,6 @@ Some of these companies support remote hires. Where that information is availabl
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
 [Adjoint](https://www.adjoint.io) | United States, MA, Boston | Finance | [Github](https://github.com/adjoint-io?language=haskell)
-[Advanced Telematic Systems](https://www.advancedtelematic.com/) | Germany, Berlin | Automotive | [Github](https://github.com/advancedtelematic?language=haskell)
 [AlasConnect](http://alasconnect.com) | United States, AK, Anchorage - Fairbanks - Palmer | IT/Telecom | [Github](https://github.com/alasconnect)
 [Alphasheets](http://www.alphasheets.com) | United States, CA, San Francisco | Business software | [Reddit](https://www.reddit.com/r/haskell/comments/4hlkls/haskell_jobs_alphasheets_coding_in_a_spreadsheet/) | Contractors
 [Ambiata](http://ambiata.com) | Australia, Sydney | Marketing | [Github](https://github.com/ambiata?language=haskell)
@@ -52,7 +51,7 @@ Some of these companies support remote hires. Where that information is availabl
 [CBA](https://www.commbank.com.au) | Australia, Sydney | Finance | [Github](https://github.com/CommBank?language=haskell)
 [CentralApp](https://www.centralapp.com) | Belgium, Brussels | Web/SaaS | [Website](https://www.centralapp.com/en/about) | Yes (for similar timezones)
 [Channable](https://tech.channable.com) | Netherlands, Utrecht | Marketing | [Github](https://github.com/channable?language=haskell)
-[Chordify](https://chordify.homerun.com) | Netherlands, Utrecht | Music | [Reddit](https://web.archive.org/web/20180131045224/https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
+[Chordify](https://chordify.net/) | Netherlands, Utrecht | Music | [Reddit](https://web.archive.org/web/20180131045224/https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
 [CircuitHub](https://circuithub.com) | United Kingdom, London; United States, MA | Manufacturing/Consulting | [Github](https://github.com/circuithub?language=haskell)
 [CJ Affiliate](https://www.cj.com/) | United States, CA, Los Angeles/Santa Barbara/Westlake Village | Marketing | [GitHub](https://github.com/cjdev?language=haskell) [Job Posting](https://engineering.cj.com/join) | No
 [Clearmatics](http://www.clearmatics.com) | United Kingdom, London | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html) | Yes
@@ -86,8 +85,8 @@ Some of these companies support remote hires. Where that information is availabl
 [Hasura](https://hasura.io/) | India, Bangalore | Developer tools | [Job Posting](https://hasura.io/careers/haskell-developer) | Yes
 [Health eFilings](https://healthefilings.com/) | United States, WI, Madison | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
 [Helium](https://www.helium.com) | United States, CA, Mountain View | ? | ?
-[Henry Labs](http://hihenry.co) | Sweden, Stockholm | Project Management | [Job Ad](https://web.archive.org/web/20180101103312/https://hihenry.com/fullstack-engineer)
 [Hercules Labs](https://hercules-ci.com) | Remote | CI/CD SaaS | [GitHub](https://github.com/hercules-ci) | Yes
+[Here Technologies (acquired former Advanced Telematic Systems)](https://www.here.com/) | Germany, Berlin | Automotive | [Github](https://github.com/advancedtelematic?language=haskell)
 [Holland & Hart](https://www.hollandhart.com) | United States, Co, Boulder | Law | ?
 [Holmusk](https://www.holmusk.com) | Singapore | Health | [Reddit](https://www.reddit.com/r/haskell/comments/7zti25/junior_haskell_developer_in_singapore/)
 [Hornet Security](https://www.hornetsecurity.com/en) | Germany, Hanover/Berlin | ? | [Github](https://github.com/hornetsecurity)
@@ -117,7 +116,6 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [MailOnline](http://dailymail.co.uk) | United Kingdom, London | Media | [Github](https://github.com/MailOnline?language=haskell)
 [Medilyse](https://www.cpmed.de/) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell) | No
 [Mercury](http://www.mercury.co) | United States, CA, San Francisco | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/)
-[Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Germany, Hamburg | ? | ? | ?
 [Metrix.AI](https://www.metrix.ai) | Moscow, Russia | Martech | [Github](https://github.com/metrix-ai?language=haskell)
 [Monad](https://monad.fi/en/) | Finland, Tampere | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Monadfix](https://monadfix.io) | Multiple locations | Consulting/Training | [Website](https://monadfix.io) | Yes
@@ -173,6 +171,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [TVision Insights](http://tvisioninsights.com) | United States, MA, Boston | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
 [Tweag](http://www.tweag.io) | France, Paris | HPC Research | [Github](https://github.com/tweag?language=haskell) | Yes
 [Typeable](https://typeable.io) | Russia, Moscow | Consulting | [Github](https://github.com/typeable?language=haskell)
+[Typelane (formerly Henry Labs)](https://typelane.com/) | Sweden, Stockholm | Project Management | [Job Ad](https://web.archive.org/web/20180101103312/https://hihenry.com/fullstack-engineer)
 [Typelead](http://www.typelead.com) | India, Bangalore | Programming Language (Eta) | [Github](https://github.com/typelead)
 [Uphere.ai](https://www.uphere.ai) | United States, CA, San Francisco | Data analytics | [Reddit](https://web.archive.org/web/20171127052230/https://www.reddit.com/r/NixOS/comments/5dz8fp/list_of_companies_using_nixos/dfalhqm/)
 [Vacation Labs](https://www.vacationlabs.com/) | India, Goa | Travel/Saas | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknz5fd) | Yes
