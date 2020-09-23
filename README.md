@@ -86,7 +86,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Hasura](https://hasura.io/) | India, Bangalore | Developer tools | [Job Posting](https://hasura.io/careers/haskell-developer) | Yes
 [Health eFilings](https://healthefilings.com/) | United States, WI, Madison | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
 [Helium](https://www.helium.com) | United States, CA, Mountain View | ? | ?
-[Henry Labs](http://hihenry.co) | Sweden, Stockholm | Project Management | [Job Ad](https://web.archive.org/web/20180101103312/https://hihenry.com/fullstack-engineer)
 [Hercules Labs](https://hercules-ci.com) | Remote | CI/CD SaaS | [GitHub](https://github.com/hercules-ci) | Yes
 [Holland & Hart](https://www.hollandhart.com) | United States, Co, Boulder | Law | ?
 [Holmusk](https://www.holmusk.com) | Singapore | Health | [Reddit](https://www.reddit.com/r/haskell/comments/7zti25/junior_haskell_developer_in_singapore/)
@@ -117,7 +116,6 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [MailOnline](http://dailymail.co.uk) | United Kingdom, London | Media | [Github](https://github.com/MailOnline?language=haskell)
 [Medilyse](https://www.cpmed.de/) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell) | No
 [Mercury](http://www.mercury.co) | United States, CA, San Francisco | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/)
-[Metrix Financial Reporting Solutions](http://www.metrix-frs.de) | Germany, Hamburg | ? | ? | ?
 [Metrix.AI](https://www.metrix.ai) | Moscow, Russia | Martech | [Github](https://github.com/metrix-ai?language=haskell)
 [Monad](https://monad.fi/en/) | Finland, Tampere | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Monadfix](https://monadfix.io) | Multiple locations | Consulting/Training | [Website](https://monadfix.io) | Yes
@@ -162,7 +160,6 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Target (Data Science and Optimization)](https://www.target.com) | United States | Retail | ? | Yes
 [Tesla](https://www.tesla.com) | United States, CA, Palo Alto | Automotive | [Reddit](https://redd.it/8smtw0)
 [The UNIX Man Consulting](https://theunixman.com/) | United States | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
-[ThoughtLeadr](http://www.thoughtleadr.com) | United States; Worldwide, TX, Austin | Advertisement/Analytics | [Github](https://github.com/ThoughtLeadr?q=&type=source&language=haskell) | Yes
 [Tiko](https://tiko.energy/) | Zurich, Switzerland/Milan, Italy | Energy management | [Job Ad](https://www.reddit.com/r/haskell/comments/at19i2/haskell_job_opportunity_at_tikoch_in_zurich_area/) [Job Ad](https://www.linkedin.com/jobs/view/1563333504) | ? |
 [Tocoman](https://tocoman.fi/en) | Finland, Helsinki | Planning software | [Reddit](https://web.archive.org/web/20180128122009/https://www.reddit.com/r/haskell/comments/7rhfot/haskell_job_opportunity_at_tocoman_in_helsinki/)
 [TontineTrust](https://tontine.com/) | Dublin, Ireland | Fintech | [Reddit](https://www.reddit.com/r/haskell/comments/gib8yk/look_forward_to_a_parttime_haskell_job/fqguilf?utm_source=share&utm_medium=web2x) | Yes
