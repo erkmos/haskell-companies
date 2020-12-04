@@ -141,6 +141,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Saltation](http://www.saltation.de) | Germany, Bielefeld | ? | ? | ?
 [Scrive](https://scrive.com) | Sweden, Stockholm | eSigning | [Github](https://github.com/scrive?language=haskell) | Yes
 [SEEK](https://www.seek.com.au) | Australia, Melbourne | ? | ? | ?
+[Secucloud](https://www.secucloud.com/) | Germany, Hamburg | | [Job postings](https://secucloud-jobs.personio.de/?language=en/#department-214259) | ?
 [Seller Labs](https://www.sellerlabs.com) | United States, GA, Athens | E-Commerce | [Github](https://github.com/sellerlabs?language=haskell)
 [Sentenai](http://sentenai.com) | United States, MA, Boston | IoT / Databases | [Github](https://github.com/Sentenai) [Angellist](https://angel.co/sentenai) | Negotiable | 
 [Serokell](https://serokell.io) | Estonia, Tallinn | Consulting, research | [Github](https://github.com/serokell?language=github) | Yes
