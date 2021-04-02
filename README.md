@@ -162,7 +162,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Target (Data Science and Optimization)](https://www.target.com) | United States | Retail | ? | Yes
 [Tesla](https://www.tesla.com) | United States, CA, Palo Alto | Automotive | [Reddit](https://redd.it/8smtw0)
 [The UNIX Man Consulting](https://theunixman.com/) | United States | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
-[Tiko](https://tiko.energy/) | Zurich, Switzerland/Milan, Italy | Energy management | [Job Ad](https://www.reddit.com/r/haskell/comments/at19i2/haskell_job_opportunity_at_tikoch_in_zurich_area/) [Job Ad](https://www.linkedin.com/jobs/view/1563333504) | ? |
+[Tiko](https://tiko.energy/) | Zurich, Switzerland/Milan, Italy | Energy management | [Job Ad](https://tiko.energy/back-end-developer/) | ? |
 [Tocoman](https://tocoman.fi/en) | Finland, Helsinki | Planning software | [Reddit](https://web.archive.org/web/20180128122009/https://www.reddit.com/r/haskell/comments/7rhfot/haskell_job_opportunity_at_tocoman_in_helsinki/)
 [TontineTrust](https://tontine.com/) | Dublin, Ireland | Fintech | [Reddit](https://www.reddit.com/r/haskell/comments/gib8yk/look_forward_to_a_parttime_haskell_job/fqguilf?utm_source=share&utm_medium=web2x) | Yes
 [Tracsis](https://www.tracsis.com) | United Kingdom, Leeds | Railway Timetabling | [Job Ad](https://tracsis.com/careers/20180905-senior-software-developer-) | No
