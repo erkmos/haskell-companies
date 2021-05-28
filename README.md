@@ -68,6 +68,7 @@ Some of these companies support remote hires. Where that information is availabl
 [e-bot7](https://e-bot7.com) | Munich, Germany | Conversational AI | [Job Ad](https://e-bot7.join.com/jobs/1793458-senior-haskell-and-purescript-developer-m-f-d) | No
 [Facebook](https://www.facebook.com) | United Kingdom, London | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [FINN.no](https://www.finn.no) | Norway, Oslo | Online Classified Ads | [Blog](https://web.archive.org/save/https://tech.finn.no/2018/10/18/haskell-at-finn-no/) | No
+[Fission](https://fission.codes) | Remote | Developer Tools | [GitHub](https://github.com/fission-suite/fission) | Yes
 [Folq](https://folq.no) | Norway, Oslo | Staffing | [Github](https://github.com/folq) | No
 [Formation](https://formation.ai) | United States, CA, San Francisco | Analytics/Marketing | [Github](https://github.com/FormationAI?language=haskell) [Old GitHub](https://github.com/TaktInc?language=haskell) | Some
 [FP Complete](https://www.fpcomplete.com) | Remote | Consulting/Training | [Github](https://github.com/fpco?language=haskell) | Yes
