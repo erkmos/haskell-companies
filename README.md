@@ -25,7 +25,6 @@ Some of these companies support remote hires. Where that information is availabl
 | :--- | :------- | :----- | :----- | :--------- |
 [Adjoint](https://www.adjoint.io) | United States, MA, Boston | Finance | [Github](https://github.com/adjoint-io?language=haskell)
 [AlasConnect](http://alasconnect.com) | United States, AK, Anchorage - Fairbanks - Palmer | IT/Telecom | [Github](https://github.com/alasconnect)
-[Alphasheets](http://www.alphasheets.com) | United States, CA, San Francisco | Business software | [Reddit](https://www.reddit.com/r/haskell/comments/4hlkls/haskell_jobs_alphasheets_coding_in_a_spreadsheet/) | Contractors
 [Ambiata](http://ambiata.com) | Australia, Sydney | Marketing | [Github](https://github.com/ambiata?language=haskell)
 [American Museum of Natural History](https://www.amnh.org/research/computational-sciences) | United States, NY, New York | Phylogenetics Research | [Github](https://github.com/amnh/pcg) | No
 [Anduril Industries](https://www.anduril.com/) | United States, CA, Orange County | Computer Vision | [Haskell-cafe](https://mail.haskell.org/pipermail/haskell-cafe/2018-April/128873.html)
