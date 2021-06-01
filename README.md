@@ -70,6 +70,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Fission](https://fission.codes) | Remote | Developer Tools | [GitHub](https://github.com/fission-suite/fission) | Yes
 [Folq](https://folq.no) | Norway, Oslo | Staffing | [Github](https://github.com/folq) | No
 [Formation](https://formation.ai) | United States, CA, San Francisco | Analytics/Marketing | [Github](https://github.com/FormationAI?language=haskell) [Old GitHub](https://github.com/TaktInc?language=haskell) | Some
+[Foxhound Systems](https://www.foxhound.systems) | United States, IL, Chicago | Custom Development/Consulting | [GitHub](https://github.com/foxhound-systems?language=haskell), [Blog](https://www.foxhound.systems/blog/) | Yes
 [FP Complete](https://www.fpcomplete.com) | Remote | Consulting/Training | [Github](https://github.com/fpco?language=haskell) | Yes
 [Freckle Education (formerly Front Row)](https://www.freckle.com) | United States, CA, San Francisco | Education | [Github](https://github.com/freckle?language=haskell) | Yes
 [FretLink](https://www.fretlink.com) | France, Paris | Logistics/Transportation | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
