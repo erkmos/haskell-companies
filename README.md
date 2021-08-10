@@ -89,6 +89,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Helium](https://www.helium.com) | United States, CA, Mountain View | ? | ?
 [Hercules Labs](https://hercules-ci.com) | Remote | CI/CD SaaS | [GitHub](https://github.com/hercules-ci) | Yes
 [Here Technologies (acquired former Advanced Telematic Systems)](https://www.here.com/) | Germany, Berlin | Automotive | [Github](https://github.com/advancedtelematic?language=haskell)
+[HERP](https://herp.co.jp/) | Japan | HRTech | [GitHub](https://github.com/herp-inc?language=haskell)
 [Holland & Hart](https://www.hollandhart.com) | United States, Co, Boulder | Law | ?
 [Holmusk](https://www.holmusk.com) | Singapore | Health | [Reddit](https://www.reddit.com/r/haskell/comments/7zti25/junior_haskell_developer_in_singapore/)
 [Hornet Security](https://www.hornetsecurity.com/en) | Germany, Hanover/Berlin | ? | [Github](https://github.com/hornetsecurity)
