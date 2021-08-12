@@ -122,6 +122,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Metrix.AI](https://www.metrix.ai) | Moscow, Russia | Martech | [Github](https://github.com/metrix-ai?language=haskell)
 [Monad](https://monad.fi/en/) | Finland, Tampere | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Monadfix](https://monadfix.io) | Multiple locations | Consulting/Training | [Website](https://monadfix.io) | Yes
+[MotoRefi](https://www.motorefi.com/) | Remote, DC, Denver, Austin | Car Loans | [Reddit](https://www.reddit.com/r/haskell/comments/p2dpdh/haskell_motorefi_remote_dc_denver_co_austin_tx/) | Yes
 [Myrtle Software](https://myrtle.ai) | United Kingdom, Cambridge | AI, hardware | ? | No
 [NEC](https://nz.nec.com/en_NZ/products_solutions/smartcity/index.html) | New Zealand | Smart City | [Reddit](https://www.reddit.com/r/haskell/comments/8ye1h0/explaining_why_our_team_picked_haskell_and_elm/)
 [NoRedInk](https://www.noredink.com) | United States, CA, San Francisco | eLearning | [Github](https://github.com/NoRedInk?language=haskell)
