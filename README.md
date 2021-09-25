@@ -52,7 +52,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Channable](https://tech.channable.com) | Netherlands, Utrecht | Marketing | [Github](https://github.com/channable?language=haskell)
 [Chordify](https://chordify.net/) | Netherlands, Utrecht | Music | [Reddit](https://web.archive.org/web/20180131045224/https://www.reddit.com/r/haskell/comments/7smr8o/writing_haskell_at_music_startup/)
 [CircuitHub](https://circuithub.com) | United Kingdom, London; United States, MA | Manufacturing/Consulting | [Github](https://github.com/circuithub?language=haskell)
-[CJ Affiliate](https://www.cj.com/) | United States, CA, Los Angeles/Santa Barbara/Westlake Village | Marketing | [GitHub](https://github.com/cjdev?language=haskell) [Job Posting](https://engineering.cj.com/join) | No
 [Clearmatics](http://www.clearmatics.com) | United Kingdom, London | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html) | Yes
 [Co-Star](https://www.costarastrology.com/) | United States, NY, New York | Astrology | [Reddit](https://www.reddit.com/r/haskell/comments/8953h8/costar_astrology_is_hiring_a_haskell_developer_in) | No
 [CollegeVine](https://www.collegevine.com/) | United States, MA, Cambridge | Education | [GitHub](https://github.com/collegevine?language=haskell), [Blog](https://medium.com/collegevine-engineering) | Yes (US only)
