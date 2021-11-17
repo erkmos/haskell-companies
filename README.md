@@ -138,6 +138,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Prezi](https://prezi.com) | Hungary, Budapest | ? | ? | ?
 [Proda](https://www.proda.ai/) | United Kingdom, London | Property data | [Job ad](https://www.proda.ai/senior-full-stack-engineer) ([GCache if it goes](https://webcache.googleusercontent.com/search?q=cache:z3Zbs7jaY8MJ:https://www.proda.ai/senior-full-stack-engineer+&cd=1&hl=en&ct=clnk&gl=us)) | Potential
 [QBayLogic](https://qbaylogic.com) | Netherlands, Enschede | Hardware design tooling | [Reddit](https://web.archive.org/web/20191121031748/https://www.reddit.com/r/haskell/comments/d3cwmi/job_qbaylogic_is_hiring/) | No
+[Quanterall](https://quanterall.com) | Bulgaria, Varna | Custom Software & Hardware solutions | [Dev.bg job ad](https://web.archive.org/web/20211117120710/https://dev.bg/company/jobads/quanterall-haskell-developer) | Yes
 [RELEX Solutions](https://www.relexsolutions.com) | Finland, Helsinki | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | EU or United States
 [Replenysh](https://replenysh.com/) | United States, CA, Los Angeles | Recycling | [Job Posting](https://replenysh.homerun.co/full-stack-engineer/en) | No
 [Runtime Verification](https://www.runtimeverification.com) | United States, IL, Urbana-Champaign; Romania, Bucharest | Formal Verification | [Github](https://github.com/kframework/kore/) 
