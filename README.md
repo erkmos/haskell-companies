@@ -162,7 +162,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Stilo](http://stilo.com) | Canada, Ottawa | ? | ? | ?
 [Swift Navigation](https://www.swiftnav.com) | United States, CA, San Francisco | GNSS Software | [Github](https://github.com/swift-nav?language=haskell)
 [Symbiont](https://symbiont.io) | United States, NY, New York | Private Blockchain | [Github](https://github.com/symbiont-io) | Yes
-[Systor Vest](http://systorvest.no) | Norway, Stavanger | ? | ? | ?
+[Systor Vest](http://systorvest.no) | Norway, Stavanger | Consulting | [IHP Partner](https://ihp.digitallyinduced.com/Partners) | ?
 [Target (Data Science and Optimization)](https://www.target.com) | United States | Retail | ? | Yes
 [Tesla](https://www.tesla.com) | United States, CA, Palo Alto | Automotive | [Reddit](https://redd.it/8smtw0)
 [The UNIX Man Consulting](https://theunixman.com/) | United States | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkq9zeo)
