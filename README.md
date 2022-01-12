@@ -30,6 +30,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Anduril Industries](https://www.anduril.com/) | United States, CA, Orange County | Computer Vision | [Haskell-cafe](https://mail.haskell.org/pipermail/haskell-cafe/2018-April/128873.html)
 [Applikativ](http://applikativ.no) | Norway, Stavanger | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United_States/dcpy8mp)
 [Arbor Networks](https://www.arbornetworks.com) | Australia, Sydney | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904) | Yes (for similar timezones)
+[Artificial](https://artificial.io/) | United Kingdom, London | Insurtech | [Reddit](https://www.reddit.com/r/haskell/comments/rxfqtc/job_haskell_engineer_at_artificial/) | Yes
 [Asahi Net](https://asahi-net.jp/en/) | Japan | ISP | [Hacker News](https://news.ycombinator.com/item?id=13306004)
 [Assertible](https://assertible.com) | United States | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
 [Atos IT Solutions and Services](https://atos.net/en) | Austria | Aerospace | [Youtube](https://youtu.be/Wu8eJh6OqhI?list=PLp2qifo30hMunt6PW7yXIOTZkixJsZXgA) | 
