@@ -101,7 +101,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Iris Connect](http://www.irisconnect.co.uk) | United Kingdom, Brighton | ? | ? | ?
 [ITProTV](https://www.itpro.tv) | United States, FL, Gainesville | eLearning | [Reddit](https://web.archive.org/web/20180215135101/https://www.reddit.com/r/haskell/comments/7xk3wd/jobs_sr_developer_tech_lead_position_at_itprotv/) | Some
 [JP Morgan](https://www.jpmorgan.com) | United States, NYC, Brooklyn | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/3re0kp/jpmorgan_haskell_team_is_hiring/)
-[Jotron](https://www.jotron.com) | Larvik, Norway | Air Traffic Management | [Job ad](https://www.finn.no/job/fulltime/ad.html?finnkode=240847395)
+[Jotron](https://www.jotron.com) | Larvik, Norway | Air Traffic Management | [Employee](https://github.com/erkmos/haskell-companies/pull/172#issuecomment-986866357)
 [Kadena](https://www.kadena.io) | United States, NY, Brooklyn | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/7uuq0z/kadena_is_hiring_haskell_developers/) | Some cases
 Karamaan Group | United States, NY, New York | Finance | ?
 [Kaspersky Lab](https://www.kaspersky.com) | Russia, Moscow | Security/AV | ?
