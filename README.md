@@ -38,6 +38,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Barclays](http://www.barclays.co.uk) | United Kingdom, London | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
 [Beautiful Destinations](http://www.beautifuldestinations.com) | United Kingdom, London | Travel/Advertising | [Github](https://github.com/BeautifulDestinations?language=haskell)
 [BeeWell](http://beewell.health) | United States, NC, Raleigh | Health Technology | [Github](https://github.com/erkmos/haskell-companies/pull/24)
+[Bellroy](https://bellroy.com/) | Australia | Retail | [Github](https://github.com/orgs/bellroy/repositories?language=haskell) | Yes
 [Betterteam](https://www.betterteam.com) | Remote | Recruiting | [Github](https://github.com/betterteamapp?language=haskell) | Yes
 [BIG MOON](https://www.e-bigmoon.com/) | Japan, Aichi | eCommerce/Watch | [Github](https://github.com/e-bigmoon?language=haskell)
 [Biocad](https://biocad.ru) | Russia, Saint Petersburg | Pharmaceuticals | [Job Ad](https://web.archive.org/web/20171225080836/https://spb.hh.ru/vacancy/23792285?nocookies=whoa)
