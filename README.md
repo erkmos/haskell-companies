@@ -120,7 +120,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [MackeyRMS](https://mackeyrms.com) | United States, MA, Boston | Financial research SaaS | [Twitter](https://twitter.com/MackeyRMS/status/897802158774603776) | No
 [MailOnline](http://dailymail.co.uk) | United Kingdom, London | Media | [Github](https://github.com/MailOnline?language=haskell)
 [Medilyse](https://www.cpmed.de/) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell) | No
-[Mercury](http://www.mercury.co) | United States, CA, San Francisco | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/)
+[Mercury](http://www.mercury.co) | United States, CA, San Francisco | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/) | Yes (for similar timezones)
 [Metrix.AI](https://www.metrix.ai) | Moscow, Russia | Martech | [Github](https://github.com/metrix-ai?language=haskell)
 [Monad](https://monad.fi/en/) | Finland, Tampere | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Monadfix](https://monadfix.io) | Multiple locations | Consulting/Training | [Website](https://monadfix.io) | Yes
