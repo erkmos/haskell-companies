@@ -136,6 +136,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Oracle Labs](https://labs.oracle.com/) | Remote | Blockchain research | [Github](https://github.com/erkmos/haskell-companies/pull/29)
 [Permutive](https://permutive.com) | United Kingdom, London | Analytics | [Job Ad](https://permutive.com/jobs/software-engineer-haskell-scala/)
 [Picus Security](https://www.picussecurity.com) | Turkey, Ankara | Information security | [Github](https://github.com/picussecurity?language=haskell)
+[Platonic Systems](https://platonic.systems/) | United States | Consulting, resarch | [Journal](https://journal.platonic.systems/) | Yes
 [Plow Technologies](http://www.plowtech.net) | United States, OK, Oklahoma City | Automation | [Github](https://github.com/plow-technologies?language=haskell)
 [Position Development](https://positiondev.com) | United States, NY, New York | Consulting | [Github](https://github.com/positiondev) | No
 [Prezi](https://prezi.com) | Hungary, Budapest | ? | ? | ?
