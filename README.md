@@ -123,6 +123,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Medilyse](https://www.cpmed.de/) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell) | No
 [Mercury](http://www.mercury.co) | United States, CA, San Francisco | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/) | Yes (for similar timezones)
 [Metrix.AI](https://www.metrix.ai) | Moscow, Russia | Martech | [Github](https://github.com/metrix-ai?language=haskell)
+[MLabs](https://www.mlabs.city) | London, UK | Consultancy | [Github](https://github.com/mlabs-haskell)
 [Monad](https://monad.fi/en/) | Finland, Tampere | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Monadfix](https://monadfix.io) | Multiple locations | Consulting/Training | [Website](https://monadfix.io) | Yes
 [Monoid GmbH](https://monoid.gmbh) | Zurich, Switzerland | Finance | [Github](https://github.com/monoid-gmbh) |
@@ -164,7 +165,6 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [StackBuilders](https://www.stackbuilders.com) | Ecuador, United States/Quito, NYC | ? | ? | ?
 [Stage N/Unison](http://unisonweb.org/) | United States, MA, Boston | ? | ? | ?
 [Standard Chartered](https://www.sc.com) | United Kingdom/Singapore/Poland | Banking | ? | No
-[Stilo](http://stilo.com) | Canada, Ottawa | ? | ? | ?
 [Swift Navigation](https://www.swiftnav.com) | United States, CA, San Francisco | GNSS Software | [Github](https://github.com/swift-nav?language=haskell)
 [Symbiont](https://symbiont.io) | United States, NY, New York | Private Blockchain | [Github](https://github.com/symbiont-io) | Yes
 [Systor Vest](http://systorvest.no) | Norway, Stavanger | Consulting | [IHP Partner](https://ihp.digitallyinduced.com/Partners) | ?
