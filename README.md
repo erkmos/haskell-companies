@@ -193,3 +193,4 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Xoken Labs](https://www.xoken.org) | India, Bangalore | Blockchain, Identity | [Github](https://github.com/erkmos/haskell-companies/pull/51) | Yes
 [Zalando](https://zalando.de) | Germany, Berlin | Online fashion store | [Github](https://github.com/erkmos/haskell-companies/pull/33) | No
 [Zoomin Software](https://zoominsoftware.com) | Israel, Tel Aviv | SaaS | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United_States/dcrti3g) | Possible (for similar timezones)
+[MMEnterprises](https://mmenterprises.co.in/) | Delhi, India | Messaging | [Job Ad]
