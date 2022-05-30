@@ -115,7 +115,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [KSF Media](https://ksfmedia.fi) | Finland, Helsinki | Media | [Github](https://github.com/KSF-Media) | 
 [Kudu Dynamics](https://kududyn.com) | United States | Program Analysis | [Github](https://github.com/kudu-dynamics) | Yes (US only)
 [Layer 3](https://layer3com.com) | United States, Georgia, Atlanta | Network Security | [Github](https://github.com/layer-3-communications) | Yes
-[LeapYear](http://leapyear.io) | United States, Berkeley | Machine Learning, Data Privacy | [Github](https://github.com/LeapYear) | Some
+[LeapYear](http://leapyear.io) | United States, San Francisco | Machine Learning, Data Privacy | [Github](https://github.com/LeapYear) | Yes
 [Liquid Democracy e.V.](https://liqd.net) | Germany, Berlin | ? | ? | ?
 [Lumi](https://www.lumi.com) | United States, CA, Los Angeles | Packaging | [HackerNews](https://news.ycombinator.com/item?id=16878843) | Yes
 [Lumiguide](https://lumiguide.eu) | Netherlands, Nijmegen | Smart cities | [Github](https://github.com/LumiGuide?language=haskell)
