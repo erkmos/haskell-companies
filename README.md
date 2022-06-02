@@ -128,7 +128,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Monad](https://monad.fi/en/) | Finland, Tampere | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Monadfix](https://monadfix.io) | Multiple locations | Consulting/Training | [Website](https://monadfix.io) | Yes
 [Monoid GmbH](https://monoid.gmbh) | Zurich, Switzerland | Finance | [Github](https://github.com/monoid-gmbh) |
-[MotoRefi](https://www.motorefi.com/) | Remote, DC, Denver, Austin | Car Loans | [Reddit](https://www.reddit.com/r/haskell/comments/p2dpdh/haskell_motorefi_remote_dc_denver_co_austin_tx/) | Yes
+[Caribou](https://www.caribou.com/) | Remote, DC, Denver, Austin | Auto Refinancing and Insurance | [Reddit]([https://www.reddit.com/r/haskell/comments/p2dpdh/haskell_motorefi_remote_dc_denver_co_austin_tx/](https://www.reddit.com/r/haskell/comments/tz3vt2/job_caribou_sr_fullstack_software_engineer_elm/) | Yes
 [Myrtle Software](https://myrtle.ai) | United Kingdom, Cambridge | AI, hardware | ? | No
 [NEC](https://nz.nec.com/en_NZ/products_solutions/smartcity/index.html) | New Zealand | Smart City | [Reddit](https://www.reddit.com/r/haskell/comments/8ye1h0/explaining_why_our_team_picked_haskell_and_elm/)
 [NoRedInk](https://www.noredink.com) | United States, CA, San Francisco | eLearning | [Github](https://github.com/NoRedInk?language=haskell)
