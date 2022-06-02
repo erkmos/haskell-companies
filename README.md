@@ -48,7 +48,8 @@ Some of these companies support remote hires. Where that information is availabl
 [ByteAlly](https://byteally.com) | India, Chennai | Consultancy, Supply Chain | [Github](https://github.com/byteally) | No
 [Calabrio](http://www.calabrio.com/) | Canada, Vancouver; United States, Minneapolis | Customer engagement | [Website](http://www.calabrio.com/careers/haskell-engine-developer/)
 [Capital Match](https://www.capital-match.com) | Singapore | Finance | [FunctionalJobs](https://web.archive.org/web/20170805015044/https://functionaljobs.com/jobs/9024-software-engineer-haskell-full-stack-at-capital-match)
-[CarbonCloud](https://www.carboncloud.io) | Sweden, Göteborg | Supply chain climate sustainability 
+[CarbonCloud](https://www.carboncloud.io) | Sweden, Göteborg | Supply chain climate sustainability
+[Caribou](https://www.caribou.com/) | Remote, DC, Denver, Austin | Auto Refinancing and Insurance | [Reddit](https://www.reddit.com/r/haskell/comments/tz3vt2/job_caribou_sr_fullstack_software_engineer_elm/) | Yes
 [CBA](https://www.commbank.com.au) | Australia, Sydney | Finance | [Github](https://github.com/CommBank?language=haskell)
 [CentralApp](https://www.centralapp.com) | Belgium, Brussels | Web/SaaS | [Website](https://www.centralapp.com/en/about) | Yes (for similar timezones)
 [Channable](https://tech.channable.com) | Netherlands, Utrecht | Marketing | [Github](https://github.com/channable?language=haskell)
@@ -128,7 +129,6 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Monad](https://monad.fi/en/) | Finland, Tampere | Software | [Website](https://monad.fi/en/software-design/) | ?
 [Monadfix](https://monadfix.io) | Multiple locations | Consulting/Training | [Website](https://monadfix.io) | Yes
 [Monoid GmbH](https://monoid.gmbh) | Zurich, Switzerland | Finance | [Github](https://github.com/monoid-gmbh) |
-[Caribou](https://www.caribou.com/) | Remote, DC, Denver, Austin | Auto Refinancing and Insurance | [Reddit]([https://www.reddit.com/r/haskell/comments/p2dpdh/haskell_motorefi_remote_dc_denver_co_austin_tx/](https://www.reddit.com/r/haskell/comments/tz3vt2/job_caribou_sr_fullstack_software_engineer_elm/) | Yes
 [Myrtle Software](https://myrtle.ai) | United Kingdom, Cambridge | AI, hardware | ? | No
 [NEC](https://nz.nec.com/en_NZ/products_solutions/smartcity/index.html) | New Zealand | Smart City | [Reddit](https://www.reddit.com/r/haskell/comments/8ye1h0/explaining_why_our_team_picked_haskell_and_elm/)
 [NoRedInk](https://www.noredink.com) | United States, CA, San Francisco | eLearning | [Github](https://github.com/NoRedInk?language=haskell)
