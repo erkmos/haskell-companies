@@ -149,6 +149,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Quanterall](https://quanterall.com) | Bulgaria, Varna | Custom Software & Hardware solutions | [Dev.bg job ad](https://web.archive.org/web/20211117120710/https://dev.bg/company/jobads/quanterall-haskell-developer) | Yes
 [RELEX Solutions](https://www.relexsolutions.com) | Finland, Helsinki | Logistics planning | [Reddit](https://web.archive.org/web/20170920111730/https://www.reddit.com/r/haskell/comments/7166v5/haskell_job_opportunity_at_relex_solutions_in/) | EU or United States
 [Replenysh](https://replenysh.com/) | United States, CA, Los Angeles | Recycling | [Job Posting](https://replenysh.homerun.co/full-stack-engineer/en) | No
+[Restaumatic](https://www.restaumatic.com/en/) | Warsaw, Poland | Restaurant e-commerce | [Github](https://github.com/restaumatic?language=haskell) | Yes
 [Runtime Verification](https://www.runtimeverification.com) | United States, IL, Urbana-Champaign; Romania, Bucharest | Formal Verification | [Github](https://github.com/kframework/kore/) 
 [S&P Global](http://www.spglobal.com) | India, Gurgaon; United States, New York, Boston, Denver | Finance | [Functional Jobs](https://web.archive.org/web/20180116174033/https://functionaljobs.com/jobs/9056-software-developer-all-levels-at-sp-global) [HN](https://news.ycombinator.com/item?id=16062505) [Github](https://github.com/ermine-language/ermine) | No
 [Saltation](http://www.saltation.de) | Germany, Bielefeld | ? | ? | ?
