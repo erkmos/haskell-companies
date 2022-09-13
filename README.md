@@ -97,6 +97,7 @@ Some of these companies support remote hires. Where that information is availabl
 [HERP](https://herp.co.jp/) | Japan | HRTech | [GitHub](https://github.com/herp-inc?language=haskell)
 [Holland & Hart](https://www.hollandhart.com) | United States, Co, Boulder | Law | ?
 [Holmusk](https://www.holmusk.com) | Singapore | Health | [Reddit](https://www.reddit.com/r/haskell/comments/7zti25/junior_haskell_developer_in_singapore/)
+[Homotopic.Tech](https://homotopic.tech) | United Kingdom | ? | [Gitlab](https://gitlab.homotopic.tech/Haskell)
 [Hornet Security](https://www.hornetsecurity.com/en) | Germany, Hanover/Berlin | ? | [Github](https://github.com/hornetsecurity)
 [hotwirestudios](http://hotwirestudios.com) | Germany, Dortmund | Software | [Github](https://github.com/hotwirestudios) | Yes
 [IMVU](http://www.imvu.com) | United States, CA, Silicon Valley | 3D Chat | [Github](https://github.com/imvu?language=haskell)
