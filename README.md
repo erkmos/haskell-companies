@@ -167,7 +167,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Soostone](http://www.soostone.com) | United States, NY, New York | Analytics / Artificial Intelligence | [Github](https://github.com/Soostone?language=haskell) | Yes
 [Southern Exposure Seed Exchange](https://www.southernexposure.com/) | United States, VA, Mineral | eCommerce /Agriculture/Gardening | [Github](https://github.com/Southern-Exposure-Seed-Exchange?q=&type=&language=haskell) | No
 [SQream Technologies](http://www.sqream.com) | Israel, Tel Aviv | ? | ? | ?
-[StackBuilders](https://www.stackbuilders.com) | Ecuador, United States/Quito, NYC | ? | ? | ?
+[StackBuilders](https://www.stackbuilders.com) | Ecuador, Quito / United States, NYC / Spain, Madrid | Software Development Consultancy | [Github](https://github.com/stackbuilders?language=haskell) | Yes
 [Stage N/Unison](http://unisonweb.org/) | United States, MA, Boston | ? | ? | ?
 [Standard Chartered](https://www.sc.com) | United Kingdom/Singapore/Poland | Banking | ? | No
 [Swift Navigation](https://www.swiftnav.com) | United States, CA, San Francisco | GNSS Software | [Github](https://github.com/swift-nav?language=haskell)
