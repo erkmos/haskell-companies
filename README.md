@@ -110,7 +110,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Jotron](https://www.jotron.com) | Larvik, Norway | Air Traffic Management | [Employee](https://github.com/erkmos/haskell-companies/pull/172#issuecomment-986866357)
 [Kadena](https://www.kadena.io) | United States, NY, Brooklyn | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/7uuq0z/kadena_is_hiring_haskell_developers/) | Some cases
 Karamaan Group | United States, NY, New York | Finance | ?
-[Kaspersky Lab](https://www.kaspersky.com) | Russia, Moscow | Security/AV | ?
+[Kaspersky Lab](https://www.kaspersky.com) | Russia, Moscow | Computer Security | Yes (Russia only)
 [Keera Studios](http://keera.co.uk) | United Kingdom; Spain | Consulting, Mobile Apps, Game Programming | [Github](https://github.com/keera-studios/) | Yes
 [Kitty Hawk](http://www.kittyhawk.aero) | United States, CA, Mountain View | ? | ? | ?
 [Klarna](https://www.klarna.com) | Sweden, Stockholm | Finance | [Job Posting](https://jobs.lever.co/klarna/31d34971-68a4-461d-8e9b-d69ffd7148d9), [Conference Talk](https://www.youtube.com/watch?v=QJQRY9xsFkw) | 
