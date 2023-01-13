@@ -23,6 +23,7 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
+[Ace Interview Prep](https://www.aceinterviewprep.io) | Canada, ON, Toronto | Education | [Github](https://github.com/Ace-Interview-Prep)
 [Adjoint](https://www.adjoint.io) | United States, MA, Boston | Finance | [Github](https://github.com/adjoint-io?language=haskell)
 [AlasConnect](http://alasconnect.com) | United States, AK, Anchorage - Fairbanks - Palmer | IT/Telecom | [Github](https://github.com/alasconnect)
 [Ambiata](http://ambiata.com) | Australia, Sydney | Marketing | [Github](https://github.com/ambiata?language=haskell)
