@@ -137,7 +137,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [NovaDiscovery](https://www.novadiscovery.com) | France, Lyon | HealthTech | [Github](https://github.com/novadiscovery?language=haskell) | Some cases (in a close time zone)
 [nStack](https://nstack.com) | United Kingdom, London | SaaS/Analytics | [Github](https://github.com/nstack?language=haskell)
 [Numerai](https://numer.ai) | United States, CA, San Francisco | Finance | [Github](https://github.com/numerai?language=haskell)
-[Obsidian Systems](https://obsidian.systems) | United States, NY, New York | Consulting | [Github](https://github.com/obsidiansystems?language=haskell) | Some cases
+[Obsidian Systems](https://obsidian.systems) | United States, NY, New York | Consulting | [Github](https://github.com/obsidiansystems?language=haskell) | Yes
 [Oracle Labs](https://labs.oracle.com/) | Remote | Blockchain research | [Github](https://github.com/erkmos/haskell-companies/pull/29)
 [Permutive](https://permutive.com) | United Kingdom, London | Analytics | [Job Ad](https://permutive.com/jobs/software-engineer-haskell-scala/)
 [Picus Security](https://www.picussecurity.com) | Turkey, Ankara | Information security | [Github](https://github.com/picussecurity?language=haskell)
