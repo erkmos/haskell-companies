@@ -191,6 +191,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Vacation Labs](https://www.vacationlabs.com/) | India, Goa | Travel/Saas | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknz5fd) | Yes
 [Veepee](https://www.veepee.fr/registration/AboutUs?CountryCode=FR) | France, Paris | eCommerce/Flash discounts | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkpp1gg/)
 [Veitch Lister Consulting](https://veitchlister.com.au/) | Australia, Multiple locations | Logistics/Transportation	| [Github](https://github.com/vlc)
+[Wasp](https://wasp-lang.dev) | Zagreb, Croatia | Developer tools | [Github](https://github.com/wasp-lang/wasp) | Yes
 [Well-Typed](http://www.well-typed.com) | United Kingdom, London | Consulting | [Github](https://github.com/well-typed?language=haskell) | Yes
 [Wire Swiss](https://wire.com) | Switzerland | Chat | [Github](https://github.com/wireapp?language=haskell)
 [Wrinkl](https://www.wrinkl.com) | United States, NYC/Philadelphia | Messaging | [Job Ad](https://web.archive.org/web/20171001101257/https://haskellweekly.news/issues/74.html) | Yes
