@@ -90,7 +90,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Hackworth](https://www.hackworthltd.uk/) | United Kingdom, London | Education | [Job Posting](https://web.archive.org/web/20200206122051/https://www.hackworthltd.uk/jobs/20200204/) | No
 [Hasura](https://hasura.io/) | India, Bangalore | Developer tools | [Job Posting](https://hasura.io/careers/haskell-developer) | Yes
 [Health eFilings](https://healthefilings.com/) | United States, WI, Madison | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
-[Helium](https://www.helium.com) | United States, CA, Mountain View | ? | ?
 [Hercules Labs](https://hercules-ci.com) | Remote | CI/CD SaaS | [GitHub](https://github.com/hercules-ci) | Yes
 [Here Technologies (acquired former Advanced Telematic Systems)](https://www.here.com/) | Germany, Berlin | Automotive | [Github](https://github.com/advancedtelematic?language=haskell)
 [HERP](https://herp.co.jp/) | Japan | HRTech | [GitHub](https://github.com/herp-inc?language=haskell)
@@ -170,7 +169,6 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Stage N/Unison](http://unisonweb.org/) | United States, MA, Boston | ? | ? | ?
 [Standard Chartered](https://www.sc.com) | United Kingdom/Singapore/Poland | Banking | ? | No
 [Swift Navigation](https://www.swiftnav.com) | United States, CA, San Francisco | GNSS Software | [Github](https://github.com/swift-nav?language=haskell)
-[Symbiont](https://symbiont.io) | United States, NY, New York | Private Blockchain | [Github](https://github.com/symbiont-io) | Yes
 [Systor Vest](http://systorvest.no) | Norway, Stavanger | Consulting | [IHP Partner](https://ihp.digitallyinduced.com/Partners) | ?
 [Target (Data Science and Optimization)](https://www.target.com) | United States | Retail | ? | Yes
 [Tesla](https://www.tesla.com) | United States, CA, Palo Alto | Automotive | [Reddit](https://redd.it/8smtw0)
