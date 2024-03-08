@@ -59,6 +59,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Clearmatics](http://www.clearmatics.com) | United Kingdom, London | Finance | [Blog](http://www.stephendiehl.com/posts/haskell_2017.html) | Yes
 [Co-Star](https://www.costarastrology.com/) | United States, NY, New York | Astrology | [Reddit](https://www.reddit.com/r/haskell/comments/8953h8/costar_astrology_is_hiring_a_haskell_developer_in) | No
 [CollegeVine](https://www.collegevine.com/) | United States, MA, Cambridge | Education | [GitHub](https://github.com/collegevine?language=haskell), [Blog](https://medium.com/collegevine-engineering) | Yes (US only)
+[Constacts](https://constacts.com) | Republic of Korea | Web applications | |
 [Cross Compass](https://www.cross-compass.com/en/front-page/) | Tokyo, Japan | Data Science / AI | [Github](https://github.com/xc-jp) | Yes
 [Cryptium Labs](https://cryptium.ch/) | Switzerland | Blockchain research | [Job Ad](https://functional.works-hub.com/jobs/remote-blockchain-protocol-developer-7d929) | Yes
 [Data61](https://data61.csiro.au) | Australia, Multiple locations | Research | [Github](https://github.com/data61?language=haskell)
@@ -88,6 +89,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Groq](https://groq.com) | United States, OR, United States; Portland, CA, Mountain View | Machine learning hardware & compiler | [Job Posting](https://groq.com/careers/) | Some
 [Habito](https://www.habito.com/) | United Kingdom, London | Finance | [Job Posting](https://www.reddit.com/r/haskell/comments/5ygeke/job_ad_fullstack_haskellpurescript_developer_in/) | No
 [Hackworth](https://www.hackworthltd.uk/) | United Kingdom, London | Education | [Job Posting](https://web.archive.org/web/20200206122051/https://www.hackworthltd.uk/jobs/20200204/) | No
+[Haedosa]() | Republic of Korea | Semiconductor | |
 [Hasura](https://hasura.io/) | India, Bangalore | Developer tools | [Job Posting](https://hasura.io/careers/haskell-developer) | Yes
 [Health eFilings](https://healthefilings.com/) | United States, WI, Madison | Healthcare | [GitHub](https://github.com/Health-eFilings) | Yes
 [Hercules Labs](https://hercules-ci.com) | Remote | CI/CD SaaS | [GitHub](https://github.com/hercules-ci) | Yes
