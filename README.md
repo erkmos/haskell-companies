@@ -36,7 +36,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Atos IT Solutions and Services](https://atos.net/en) | Austria | Aerospace | [Youtube](https://youtu.be/Wu8eJh6OqhI?list=PLp2qifo30hMunt6PW7yXIOTZkixJsZXgA) | 
 [AUTOGRIFF](https://autogriff.com/) | France, Strasbourg | Repair services | | |
 [Awake Security](http://awakesecurity.com) | United States, CA, Sunnyvale | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/) | Yes
-[Azara](https://www.azara.io/) | United States, CO, Boulder | Compliance | [Reddit](https://web.archive.org/web/20180306071153/https://www.reddit.com/r/haskell/comments/827na2/azara_is_hiring/) | Yes
 [Barclays](http://www.barclays.co.uk) | United Kingdom, London | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
 [Beautiful Destinations](http://www.beautifuldestinations.com) | United Kingdom, London | Travel/Advertising | [Github](https://github.com/BeautifulDestinations?language=haskell)
 [BeeWell](http://beewell.health) | United States, NC, Raleigh | Health Technology | [Github](https://github.com/erkmos/haskell-companies/pull/24)
