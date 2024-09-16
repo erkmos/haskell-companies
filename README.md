@@ -23,7 +23,6 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
-[Adjoint](https://www.adjoint.io) | United States, MA, Boston | Finance | [Github](https://github.com/adjoint-io?language=haskell)
 [AlasConnect](http://alasconnect.com) | United States, AK, Anchorage - Fairbanks - Palmer | IT/Telecom | [Github](https://github.com/alasconnect)
 [Ambiata](http://ambiata.com) | Australia, Sydney | Marketing | [Github](https://github.com/ambiata?language=haskell)
 [American Museum of Natural History](https://www.amnh.org/research/computational-sciences) | United States, NY, New York | Phylogenetics Research | [Github](https://github.com/amnh/pcg) | No
