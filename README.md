@@ -58,7 +58,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Co-Star](https://www.costarastrology.com/) | United States, NY, New York | Astrology | [Reddit](https://www.reddit.com/r/haskell/comments/8953h8/costar_astrology_is_hiring_a_haskell_developer_in) | No
 [CollegeVine](https://www.collegevine.com/) | United States, MA, Cambridge | Education | [GitHub](https://github.com/collegevine?language=haskell), [Blog](https://medium.com/collegevine-engineering) | Yes (US only)
 [Constacts](https://constacts.com) | Republic of Korea | Web applications | |
-[Cross Compass](https://www.cross-compass.com/en/front-page/) | Tokyo, Japan | Data Science / AI | [Github](https://github.com/xc-jp) | Yes
+[Cross Compass](https://www.cross-compass.com) | Tokyo, Japan | Data Science / AI | [Github](https://github.com/xc-jp) | Yes
 [Data61](https://data61.csiro.au) | Australia, Multiple locations | Research | [Github](https://github.com/data61?language=haskell)
 [Decathlon](https://www.decathlon.fr) | France, Lille | Retail | ? | No
 [Dfinity](https://dfinity.org) | Switzerland, Zug; United States, CA, Palo Alto | Blockchain Research | [Reddit](https://web.archive.org/web/20171010001655/https://www.reddit.com/r/haskell/comments/754346/general_questions_about_the_haskell_landscape_in/do58zog)
