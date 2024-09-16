@@ -177,7 +177,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [TontineTrust](https://tontine.com/) | Dublin, Ireland | Fintech | [Reddit](https://www.reddit.com/r/haskell/comments/gib8yk/look_forward_to_a_parttime_haskell_job/fqguilf?utm_source=share&utm_medium=web2x) | Yes
 [Tracsis](https://www.tracsis.com) | United Kingdom, Leeds | Railway Timetabling | [Job Ad](https://tracsis.com/careers/20180905-senior-software-developer-) | No
 [Trigram](http://trigram.no) | Norway, Stavanger | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United_States/dcrbn1q)
-[Tripshot](https://www.tripshot.com) | United States, OR/Remote, Portland | Logistics planning | [Github](https://github.com/Tripshot?language=haskell) | with US work permit
+[Tripshot](https://www.tripshot.com) | United States, OR/Remote, Portland | Logistics planning | [Github](https://github.com/Tripshot?language=haskell) | Yes
 [Tsuru Capital](http://www.tsurucapital.com) | Japan, Tokyo | Finance | [Github](https://github.com/tsurucapital?language=haskell) [Reddit](https://www.reddit.com/r/haskell/comments/7ysft5/tsuru_is_hiring/)
 [TVision Insights](http://tvisioninsights.com) | United States, MA, Boston | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
 [Tweag](http://www.tweag.io) | France, Paris | HPC Research | [Github](https://github.com/tweag?language=haskell) | Yes
