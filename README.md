@@ -23,7 +23,6 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
-[Adjoint](https://www.adjoint.io) | United States, MA, Boston | Finance | [Github](https://github.com/adjoint-io?language=haskell)
 [AlasConnect](http://alasconnect.com) | United States, AK, Anchorage - Fairbanks - Palmer | IT/Telecom | [Github](https://github.com/alasconnect)
 [Ambiata](http://ambiata.com) | Australia, Sydney | Marketing | [Github](https://github.com/ambiata?language=haskell)
 [American Museum of Natural History](https://www.amnh.org/research/computational-sciences) | United States, NY, New York | Phylogenetics Research | [Github](https://github.com/amnh/pcg) | No
@@ -36,7 +35,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Atos IT Solutions and Services](https://atos.net/en) | Austria | Aerospace | [Youtube](https://youtu.be/Wu8eJh6OqhI?list=PLp2qifo30hMunt6PW7yXIOTZkixJsZXgA) | 
 [AUTOGRIFF](https://autogriff.com/) | France, Strasbourg | Repair services | | |
 [Awake Security](http://awakesecurity.com) | United States, CA, Sunnyvale | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/) | Yes
-[Azara](https://www.azara.io/) | United States, CO, Boulder | Compliance | [Reddit](https://web.archive.org/web/20180306071153/https://www.reddit.com/r/haskell/comments/827na2/azara_is_hiring/) | Yes
 [Barclays](http://www.barclays.co.uk) | United Kingdom, London | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
 [Beautiful Destinations](http://www.beautifuldestinations.com) | United Kingdom, London | Travel/Advertising | [Github](https://github.com/BeautifulDestinations?language=haskell)
 [BeeWell](http://beewell.health) | United States, NC, Raleigh | Health Technology | [Github](https://github.com/erkmos/haskell-companies/pull/24)
@@ -60,15 +58,13 @@ Some of these companies support remote hires. Where that information is availabl
 [Co-Star](https://www.costarastrology.com/) | United States, NY, New York | Astrology | [Reddit](https://www.reddit.com/r/haskell/comments/8953h8/costar_astrology_is_hiring_a_haskell_developer_in) | No
 [CollegeVine](https://www.collegevine.com/) | United States, MA, Cambridge | Education | [GitHub](https://github.com/collegevine?language=haskell), [Blog](https://medium.com/collegevine-engineering) | Yes (US only)
 [Constacts](https://constacts.com) | Republic of Korea | Web applications | |
-[Cross Compass](https://www.cross-compass.com/en) | Tokyo, Japan | Data Science / AI | [Github](https://github.com/xc-jp) | Yes
-[Cryptium Labs](https://cryptium.ch/) | Switzerland | Blockchain research | [Job Ad](https://functional.works-hub.com/jobs/remote-blockchain-protocol-developer-7d929) | Yes
+[Cross Compass](https://www.cross-compass.com) | Tokyo, Japan | Data Science / AI | [Github](https://github.com/xc-jp) | Yes
 [Data61](https://data61.csiro.au) | Australia, Multiple locations | Research | [Github](https://github.com/data61?language=haskell)
 [Decathlon](https://www.decathlon.fr) | France, Lille | Retail | ? | No
 [Dfinity](https://dfinity.org) | Switzerland, Zug; United States, CA, Palo Alto | Blockchain Research | [Reddit](https://web.archive.org/web/20171010001655/https://www.reddit.com/r/haskell/comments/754346/general_questions_about_the_haskell_landscape_in/do58zog)
 [Digital Asset](https://digitalasset.com) | United States, Hungary, Australia, Switzerland | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
 [Dolla](https://dolla.org) | Remote | Consortium Blockchain | [Github](https://github.com/dolla-consortium) | Yes
 [DrieBit](https://www.driebit.nl) | Netherlands, Amsterdam | Web applications | [Job Ad](https://web.archive.org/web/20191101214309/https://haskellweekly.news/issue/181.html) | No
-[e-bot7](https://e-bot7.com) | Munich, Germany | Conversational AI | [Job Ad](https://e-bot7.join.com/jobs/1793458-senior-haskell-and-purescript-developer-m-f-d) | No
 [Facebook](https://www.facebook.com) | United Kingdom, London | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Feram](https://www.feram.io) | Germany, Frankfurt | Consulting, Custom Software | [GitHub](https://github.com/feramhq?language=haskell) | Yes
 [FINN.no](https://www.finn.no) | Norway, Oslo | Online Classified Ads | [Blog](https://web.archive.org/save/https://tech.finn.no/2018/10/18/haskell-at-finn-no/) | No
