@@ -26,7 +26,7 @@ Some of these companies support remote hires. Where that information is availabl
 [AlasConnect](http://alasconnect.com) | United States, AK, Anchorage - Fairbanks - Palmer | IT/Telecom | [Github](https://github.com/alasconnect)
 [Ambiata](http://ambiata.com) | Australia, Sydney | Marketing | [Github](https://github.com/ambiata?language=haskell)
 [American Museum of Natural History](https://www.amnh.org/research/computational-sciences) | United States, NY, New York | Phylogenetics Research | [Github](https://github.com/amnh/pcg) | No
-[Anduril Industries](https://www.anduril.com/) | United States, CA, Orange County | Computer Vision | [Haskell-cafe](https://mail.haskell.org/pipermail/haskell-cafe/2018-April/128873.html)
+[Anduril Industries](https://www.anduril.com/) | United States, CA, Orange County | RF, SDRs, DSP | [Job Listing](https://programmable.computer/anduril-job.html)
 [Applikativ](http://applikativ.no) | Norway, Stavanger | Consulting | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United_States/dcpy8mp)
 [Arbor Networks](https://www.arbornetworks.com) | Australia, Sydney | Anti-DDOS | [Twitter](https://twitter.com/newhoggy/status/850125796244987904) | Yes (for similar timezones)
 [Artificial](https://artificial.io/) | United Kingdom, London | Insurtech | [Reddit](https://www.reddit.com/r/haskell/comments/rxfqtc/job_haskell_engineer_at_artificial/) | Yes
