@@ -99,6 +99,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Homotopic.Tech](https://homotopic.tech) | United Kingdom | ? | [Gitlab](https://gitlab.homotopic.tech/Haskell)
 [Hornet Security](https://www.hornetsecurity.com/en) | Germany, Hanover/Berlin | ? | [Github](https://github.com/hornetsecurity)
 [hotwirestudios](http://hotwirestudios.com) | Germany, Dortmund | Software | [Github](https://github.com/hotwirestudios) | Yes
+[HubSpot](https://www.hubspot.com/) | Cambridge, MA, US | SaaS | [GitHub](https://github.com/HubSpot) | Yes
 [IMVU](http://www.imvu.com) | United States, CA, Silicon Valley | 3D Chat | [Github](https://github.com/imvu?language=haskell)
 [Inchora](https://www.inchora.com) | United Kingdom, Farnbrough/London | Rental market | [Github](https://github.com/Inchora) | Yes
 [Indicatrix](http://www.indicatrix.io) | Australia, QLD, Brisbane | SaaS | [Github](https://github.com/indicatrix?language=haskell)
