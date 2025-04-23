@@ -33,7 +33,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Asahi Net](https://asahi-net.jp/en/) | Japan | ISP | [Hacker News](https://news.ycombinator.com/item?id=13306004)
 [Assertible](https://assertible.com) | United States | SaaS/Monitoring | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dkrw4b3/)
 [Atos IT Solutions and Services](https://atos.net/en) | Austria | Aerospace | [Youtube](https://youtu.be/Wu8eJh6OqhI?list=PLp2qifo30hMunt6PW7yXIOTZkixJsZXgA) | 
-[AUTOGRIFF](https://autogriff.com/) | France, Strasbourg | Repair services | | |
 [Awake Security](http://awakesecurity.com) | United States, CA, Sunnyvale | Network Security | [Reddit](https://www.reddit.com/r/haskell/comments/4p66um/what_languages_do_you_use_for_work_to_make_money/d4issty/) | Yes
 [Barclays](http://www.barclays.co.uk) | United Kingdom, London | Finance | [Blog](http://neilmitchell.blogspot.se/2016/09/full-time-haskell-jobs-in-london-at.html)
 [Beautiful Destinations](http://www.beautifuldestinations.com) | United Kingdom, London | Travel/Advertising | [Github](https://github.com/BeautifulDestinations?language=haskell)
