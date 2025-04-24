@@ -65,6 +65,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Digital Asset](https://digitalasset.com) | United States, Hungary, Australia, Switzerland | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/6p2x0p/list_of_companies_that_use_haskell/dknymrm/)
 [Dolla](https://dolla.org) | Remote | Consortium Blockchain | [Github](https://github.com/dolla-consortium) | Yes
 [DrieBit](https://www.driebit.nl) | Netherlands, Amsterdam | Web applications | [Job Ad](https://web.archive.org/web/20191101214309/https://haskellweekly.news/issue/181.html) | No
+[Epic Games](https://store.epicgames.com) | Guildford England, United Kingdom | Langauge engineering | [Job Ad](https://www.epicgames.com/site/en-US/careers/jobs/5366187004) | Yes
 [Facebook](https://www.facebook.com) | United Kingdom, London | Advertising | [Blog](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 [Feram](https://www.feram.io) | Germany, Frankfurt | Consulting, Custom Software | [GitHub](https://github.com/feramhq?language=haskell) | Yes
 [FINN.no](https://www.finn.no) | Norway, Oslo | Online Classified Ads | [Blog](https://web.archive.org/save/https://tech.finn.no/2018/10/18/haskell-at-finn-no/) | No
