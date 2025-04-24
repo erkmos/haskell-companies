@@ -118,6 +118,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Layer 3](https://layer3com.com) | United States, Georgia, Atlanta | Network Security | [Github](https://github.com/layer-3-communications) | Yes
 [LeapYear](http://leapyear.io) | United States, San Francisco | Machine Learning, Data Privacy | [Github](https://github.com/LeapYear) | Yes
 [Liquid Democracy e.V.](https://liqd.net) | Germany, Berlin | ? | ? | ?
+[LivTours](http://livtours.com/) | Rome, Italy | Travel | [GitHub](https://github.com/livtours) | Yes
 [Lumi](https://www.lumi.com) | United States, CA, Los Angeles | Packaging | [HackerNews](https://news.ycombinator.com/item?id=16878843) | Yes
 [Lumiguide](https://lumiguide.eu) | Netherlands, Nijmegen | Smart cities | [Github](https://github.com/LumiGuide?language=haskell)
 [MackeyRMS](https://mackeyrms.com) | United States, MA, Boston | Financial research SaaS | [Twitter](https://twitter.com/MackeyRMS/status/897802158774603776) | No
