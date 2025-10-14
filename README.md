@@ -123,6 +123,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Lumiguide](https://lumiguide.eu) | Netherlands, Nijmegen | Smart cities | [Github](https://github.com/LumiGuide?language=haskell)
 [MackeyRMS](https://mackeyrms.com) | United States, MA, Boston | Financial research SaaS | [Twitter](https://twitter.com/MackeyRMS/status/897802158774603776) | No
 [MailOnline](http://dailymail.co.uk) | United Kingdom, London | Media | [Github](https://github.com/MailOnline?language=haskell)
+[MasterWord](https://www.masterword.com) | United States, TX, Houston | Translation | [LinkedIn](https://web.archive.org/web/20251014070409/https://www.linkedin.com/jobs/view/4314147865/) [Reddit](https://old.reddit.com/r/haskell/comments/1o5pn2l/haskell_job_offer_in_houston_texas/) | Yes 
 [Medilyse](https://www.cpmed.de/) | Germany, Freiburg | Medicare | [Github](https://github.com/factisresearch?language=haskell) | No
 [Mercury](http://www.mercury.co) | United States, CA, San Francisco | Finance | [Reddit](https://www.reddit.com/r/haskell/comments/79ri32/new_fintech_startup_hiring_12_haskell_backend/) | Yes (for similar timezones)
 [Metrix.AI](https://www.metrix.ai) | Moscow, Russia | Martech | [Github](https://github.com/metrix-ai?language=haskell)
