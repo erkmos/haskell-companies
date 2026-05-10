@@ -181,7 +181,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Tripshot](https://www.tripshot.com) | United States, OR/Remote, Portland | Logistics planning | [Github](https://github.com/Tripshot?language=haskell) | Yes
 [Tsuru Capital](http://www.tsurucapital.com) | Japan, Tokyo | Finance | [Github](https://github.com/tsurucapital?language=haskell) [Reddit](https://www.reddit.com/r/haskell/comments/7ysft5/tsuru_is_hiring/)
 [TVision Insights](http://tvisioninsights.com) | United States, MA, Boston | Television/Advertising | [Github](https://github.com/tvision-insights?language=haskell)
-[Tweag](http://www.tweag.io) | France, Paris | HPC Research | [Github](https://github.com/tweag?language=haskell) | Yes
+[Tweag](http://www.tweag.io) | France, Paris | Consulting | [Github](https://github.com/tweag?language=haskell) | Yes
 [Typeable](https://typeable.io) | Russia, Moscow | Consulting | [Github](https://github.com/typeable?language=haskell)
 [Typelane (formerly Henry Labs)](https://typelane.com/) | Sweden, Stockholm | Project Management | [Job Ad](https://web.archive.org/web/20180101103312/https://hihenry.com/fullstack-engineer)
 [Typelead](http://www.typelead.com) | India, Bangalore | Programming Language (Eta) | [Github](https://github.com/typelead)
