@@ -177,6 +177,7 @@ Karamaan Group | United States, NY, New York | Finance | ?
 [Tocoman](https://tocoman.fi/en) | Finland, Helsinki | Planning software | [Reddit](https://web.archive.org/web/20180128122009/https://www.reddit.com/r/haskell/comments/7rhfot/haskell_job_opportunity_at_tocoman_in_helsinki/)
 [TontineTrust](https://tontine.com/) | Dublin, Ireland | Fintech | [Reddit](https://www.reddit.com/r/haskell/comments/gib8yk/look_forward_to_a_parttime_haskell_job/fqguilf?utm_source=share&utm_medium=web2x) | Yes
 [Tracsis](https://www.tracsis.com) | United Kingdom, Leeds | Railway Timetabling | [Job Ad](https://tracsis.com/careers/20180905-senior-software-developer-) | No
+[Trade Republic](https://traderepublic.com/) | Germany, Berlin | Finance | [Haskell Discourse](https://discourse.haskell.org/t/trade-republic-backend-engineer-haskell-job-in-berlin-germany/13997) | ?
 [Trigram](http://trigram.no) | Norway, Stavanger | Language Processing | [Reddit](https://www.reddit.com/r/haskell/comments/5pan74/looking_for_haskell_companies_outside_United_States/dcrbn1q)
 [Tripshot](https://www.tripshot.com) | United States, OR/Remote, Portland | Logistics planning | [Github](https://github.com/Tripshot?language=haskell) | Yes
 [Tsuru Capital](http://www.tsurucapital.com) | Japan, Tokyo | Finance | [Github](https://github.com/tsurucapital?language=haskell) [Reddit](https://www.reddit.com/r/haskell/comments/7ysft5/tsuru_is_hiring/)
